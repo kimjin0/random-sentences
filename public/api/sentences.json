@@ -1,0 +1,1509 @@
+{
+  "itCosts": [
+    {
+      "en": "It costs 5,000 won.",
+      "ko": "5000원 들어요.",
+      "description": "'It costs'는 무언가의 가격을 나타내는 구조로 사용됩니다."
+    },
+    {
+      "en": "It costs $10 to park here.",
+      "ko": "여기 주차하는 데 10달러 들어.",
+      "description": "특정 행위(여기 주차하기)에 필요한 비용을 나타내는 구조입니다."
+    },
+    {
+      "en": "It costs a lot of money.",
+      "ko": "돈이 많이 들어요.",
+      "description": "상당한 비용이 든다는 것을 강조하는 표현입니다."
+    },
+    {
+      "en": "It costs a lot to live in a big city.",
+      "ko": "큰 도시에서 사는 데 돈이 많이 들어.",
+      "description": "큰 도시에서 생활하는 데 많은 비용이 든다는 것을 나타내는 구조입니다."
+    },
+    {
+      "en": "It costs a lot to live in New York.",
+      "ko": "뉴욕에서 사는 데 돈이 많이 들어.",
+      "description": "특정 도시(뉴욕)에서 생활하는 비용이 많이 든다는 것을 나타냅니다."
+    },
+    {
+      "en": "It costs a lot to maintain a car.",
+      "ko": "차를 유지하는 데 돈이 많이 들어.",
+      "description": "자동차 유지에 많은 비용이 든다는 것을 설명하는 문장입니다."
+    },
+    {
+      "en": "It costs a lot to travel abroad these days.",
+      "ko": "요즘 해외여행을 하는 데 돈이 많이 들어.",
+      "description": "최근에 해외여행을 하는 데 많은 비용이 든다는 현상을 설명합니다."
+    },
+    {
+      "en": "It costs a little more, but the quality is better.",
+      "ko": "돈이 조금 더 들지만 품질이 더 좋아.",
+      "description": "비용이 조금 더 들지만 그만큼 품질이 좋다는 점을 비교하는 구조입니다."
+    },
+    {
+      "en": "It costs too much.",
+      "ko": "돈이 너무 많이 들어.",
+      "description": "비용이 과도하게 많이 든다는 것을 강조하는 표현입니다."
+    },
+    {
+      "en": "It costs too much to eat out every day.",
+      "ko": "매일 외식하는 데 돈이 너무 많이 들어.",
+      "description": "매일 외식하는 것이 과도한 비용이 든다는 것을 나타냅니다."
+    },
+    {
+      "en": "It costs too much to repair my car.",
+      "ko": "내 차를 수리하는 데 돈이 너무 많이 들어.",
+      "description": "차량 수리에 많은 비용이 든다는 것을 나타내는 구조입니다."
+    },
+    {
+      "en": "It's going to cost a lot of money.",
+      "ko": "돈이 많이 들 거에요.",
+      "description": "미래에 많은 돈이 들 것임을 예측하는 표현입니다."
+    },
+    {
+      "en": "It's going to cost a lot to fix the roof.",
+      "ko": "지붕을 수리하는 데 돈이 많이 들 거야.",
+      "description": "지붕을 수리하는 데 많은 비용이 들 것임을 나타내는 구조입니다."
+    },
+    {
+      "en": "It's going to cost a lot to buy a house in this area.",
+      "ko": "이 지역에서 집을 사는 데 돈이 많이 들 거야.",
+      "description": "특정 지역에서 집을 구입하는 데 많은 비용이 들 것임을 설명하는 문장입니다."
+    }
+  ],
+  "areYouGoingTo": [
+    {
+      "en": "Are you going to watch a movie tonight?",
+      "ko": "오늘 밤에 영화 볼 거야?",
+      "description": "'watch a movie tonight'는 '오늘 밤에 영화 보기'라는 구체적인 행위를 목적어로 씁니다."
+    },
+    {
+      "en": "Are you going to the party later?",
+      "ko": "나중에 파티 갈 거야?",
+      "description": "'to the party later'는 장소와 시간을 함께 나타내며 목적지를 표현합니다."
+    },
+    {
+      "en": "Are you going to help me with this project?",
+      "ko": "이 프로젝트 도와줄 거야?",
+      "description": "'help me with this project'는 목적어 'me'와 전치사구 'with this project'가 함께 쓰여 도움의 대상을 구체화합니다."
+    },
+    {
+      "en": "Are you going to order pizza for dinner?",
+      "ko": "저녁으로 피자 시킬 거야?",
+      "description": "'order pizza for dinner'는 주문할 음식(pizza)과 그 목적(for dinner)을 함께 나타냅니다."
+    },
+    {
+      "en": "Are you going to take the bus or walk?",
+      "ko": "버스 탈 거야, 아니면 걸어갈 거야?",
+      "description": "두 가지 동작 'take the bus'와 'walk'를 병렬 구조로 연결해 선택을 묻습니다."
+    },
+    {
+      "en": "Are you going to wear that dress to the event?",
+      "ko": "그 드레스 입고 행사에 갈 거야?",
+      "description": "'wear that dress'는 입을 대상, 'to the event'는 가야 할 장소를 나타냅니다."
+    },
+    {
+      "en": "Are you going to meet your friends this afternoon?",
+      "ko": "오늘 오후에 친구들 만날 거야?",
+      "description": "'meet your friends'는 만남의 대상, 'this afternoon'은 시간 표현으로 쓰입니다."
+    },
+    {
+      "en": "Are you going to study for the test?",
+      "ko": "시험 공부할 거야?",
+      "description": "'study for the test'는 공부의 목적을 전치사 'for'를 사용해 설명합니다."
+    },
+    {
+      "en": "Are you going to cook tonight?",
+      "ko": "오늘 밤에 요리할 거야?",
+      "description": "'cook' 뒤에 시간 표현 'tonight'이 붙어 언제 요리할지를 나타냅니다."
+    },
+    {
+      "en": "Are you going to sign up for the class?",
+      "ko": "그 수업 등록할 거야?",
+      "description": "'sign up for the class'는 '수업 등록'이라는 목적을 전치사 'for'와 함께 표현합니다."
+    }
+  ],
+  "ImReadyTo": [
+    {
+      "en": "I'm ready to go.",
+      "ko": "이제 갈 준비 됐어.",
+      "description": "'I'm ready to' 다음에 간단한 동사 'go'가 옵니다. 이는 어떤 행동을 할 준비가 되었다는 것을 나타냅니다."
+    },
+    {
+      "en": "I'm ready to listen.",
+      "ko": "나는 들을 준비가 됐어.",
+      "description": "'I'm ready to' 뒤에 'listen'이 오며, 듣기 행위를 할 준비가 되었음을 집중적으로 표현합니다."
+    },
+    {
+      "en": "I'm ready to talk.",
+      "ko": "난 얘기할 준비가 됐어.",
+      "description": "'I'm ready to'와 동사 'talk'를 결합하여 대화를 시작할 준비가 되었음을 나타냅니다."
+    },
+    {
+      "en": "I'm ready to go out.",
+      "ko": "나는 나갈 준비가 됐어.",
+      "description": "'I'm ready to' 뒤에 'go out'이 사용되어 외출할 준비가 되었다는 것을 나타냅니다."
+    },
+    {
+      "en": "I'm ready to go home.",
+      "ko": "나는 집에 갈 준비가 됐어.",
+      "description": "'I'm ready to'와 함께 'go home'이 사용되어 집으로 돌아갈 준비가 완료되었음을 표현합니다."
+    },
+    {
+      "en": "I'm ready to leave any time.",
+      "ko": "난 언제라도 떠날 준비가 됐어.",
+      "description": "'I'm ready to' 뒤에 'leave any time'이 오며, 언제든지 떠날 준비가 되었음을 나타냅니다."
+    },
+    {
+      "en": "I'm ready to talk about it.",
+      "ko": "이제 그 얘기할 준비 됐어.",
+      "description": "'I'm ready to'와 'talk about it'을 사용하여 특정 주제에 대해 이야기할 준비가 되었음을 나타냅니다."
+    },
+    {
+      "en": "I'm ready to take the test.",
+      "ko": "시험 볼 준비 됐어.",
+      "description": "'I'm ready to take the test'는 시험을 치를 준비가 되었다는 것을 구체적으로 표현합니다."
+    },
+    {
+      "en": "I'm ready to make a decision.",
+      "ko": "결정을 내릴 준비가 됐어.",
+      "description": "'I'm ready to'와 'make a decision'을 결합하여 결정을 내릴 준비가 되었음을 나타냅니다."
+    },
+    {
+      "en": "I'm ready to forgive you.",
+      "ko": "널 용서할 준비가 됐어.",
+      "description": "'I'm ready to' 뒤에 'forgive you'가 오며, 상대방을 용서할 준비가 되었음을 표현합니다."
+    },
+    {
+      "en": "I'm ready to make a deal.",
+      "ko": "나는 거래할 준비가 됐어",
+      "description": "'I'm ready to'와 'make a deal'을 사용하여 거래를 할 준비가 되었음을 나타냅니다."
+    },
+    {
+      "en": "I'm ready to make peace.",
+      "ko": "나는 화해할 준비가 됐어",
+      "description": "'I'm ready to'와 'make peace'를 결합하여 화해할 준비가 되었음을 나타냅니다."
+    }
+  ],
+  "itTakes": [
+    {
+      "en": "It takes five minutes.",
+      "ko": "5분 걸려요.",
+      "description": "'It takes + 시간'은 '~만큼 시간이 걸린다'는 기본 표현입니다."
+    },
+    {
+      "en": "It's going to take very long.",
+      "ko": "시간이 많이 걸릴 거예요.",
+      "description": "'It's going to take ~'은 미래형 표현으로, 앞으로 시간이 걸릴 것을 말합니다."
+    },
+    {
+      "en": "It takes 10 minutes to walk to the office.",
+      "ko": "사무실까지 걸어가는 데 10분 걸려.",
+      "description": "'to walk to the office'는 '사무실까지 걸어가다'는 의미입니다."
+    },
+    {
+      "en": "It takes a lot of effort to finish this project.",
+      "ko": "이 프로젝트를 끝내는 데 많은 노력이 필요해.",
+      "description": "'a lot of effort'는 '많은 노력', 'to finish this project'는 '이 프로젝트를 끝내기 위해'입니다."
+    },
+    {
+      "en": "It takes about an hour to finish this report.",
+      "ko": "이 보고서를 끝내는 데 약 한 시간이 걸려.",
+      "description": "'about an hour'는 '약 한 시간', 'to finish this report'는 '보고서를 끝내다'는 의미입니다."
+    },
+    {
+      "en": "It took me two hours to complete the presentation.",
+      "ko": "나는 발표 자료를 완성하는 데 두 시간이 걸렸어.",
+      "description": "'It took me + 시간 + to ~'는 '~하는 데 나에게 ~시간이 걸렸다'는 과거 표현입니다."
+    },
+    {
+      "en": "It will take some time to solve this problem.",
+      "ko": "이 문제를 해결하는 데 시간이 좀 걸릴 거야.",
+      "description": "'will take some time'은 '시간이 좀 걸릴 것이다'는 미래형 표현입니다."
+    },
+    {
+      "en": "Does it take a lot of time?",
+      "ko": "시간이 오래 걸리나요?",
+      "description": "'Does it take ~?'는 현재 시제로 질문할 때 사용됩니다."
+    },
+    {
+      "en": "Does it take a long time to learn English?",
+      "ko": "영어 배우는 데 시간이 오래 걸려?",
+      "description": "'to learn English'는 '영어를 배우는 것'이고, 'a long time'은 긴 시간을 의미합니다."
+    },
+    {
+      "en": "How long does it take to get to the airport?",
+      "ko": "공항까지 가는 데 얼마나 걸려?",
+      "description": "'How long does it take + to ~'는 '~하는 데 얼마나 시간이 걸리나요?'를 묻는 질문입니다."
+    },
+    {
+      "en": "Did it take long?",
+      "ko": "시간이 오래 걸렸나요?",
+      "description": "'Did it take ~?'는 과거 시제로 시간 소요를 물을 때 사용됩니다."
+    },
+    {
+      "en": "How long does it take?",
+      "ko": "시간이 얼마나 걸리나요?",
+      "description": "'How long does it take?'는 일반적인 시간 소요를 묻는 질문입니다."
+    },
+    {
+      "en": "How long did it take?",
+      "ko": "시간이 얼마나 오래 걸렸나요?",
+      "description": "과거에 걸린 시간을 묻는 표현으로 'did'가 쓰였습니다."
+    }
+  ],
+  "someThings": [
+    {
+      "en": "I need something to drink.",
+      "ko": "나 마실 것이 필요해.",
+      "description": "'something to drink'는 '마실 어떤 것'이라는 의미로, 'to + 동사'는 용도를 설명합니다."
+    },
+    {
+      "en": "I forgot something important at home.",
+      "ko": "나는 집에 뭔가 중요한 걸 두고 왔어.",
+      "description": "'something important'는 '뭔가 중요한 것'이며, 형용사가 'something'을 꾸며줍니다."
+    },
+    {
+      "en": "There is something wrong with my computer.",
+      "ko": "내 컴퓨터에 뭔가 문제가 있어.",
+      "description": "'something wrong with ~'는 '~에 뭔가 이상한 점/문제가 있다'는 표현입니다."
+    },
+    {
+      "en": "Can you say something in English?",
+      "ko": "영어로 뭔가 말해 줄 수 있어?",
+      "description": "'say something in English'는 '영어로 뭔가 말하다'는 의미입니다."
+    },
+    {
+      "en": "Let's do something fun this weekend!",
+      "ko": "이번 주말에 뭔가 재미있는 걸 하자!",
+      "description": "'something fun'은 '재미있는 무언가'라는 의미입니다. 형용사 'fun'이 뒤에서 수식합니다."
+    },
+    {
+      "en": "I want to eat something.",
+      "ko": "나 뭔가 좀 먹고 싶어.",
+      "description": "'eat something'은 '무언가를 먹다'는 기본적인 구조입니다."
+    },
+    {
+      "en": "I have to go somewhere.",
+      "ko": "나 어디 좀 가야 돼.",
+      "description": "'somewhere'는 '어딘가에'라는 뜻으로 장소를 나타냅니다."
+    },
+    {
+      "en": "I want to eat something sweet.",
+      "ko": "나 뭔가 좀 단 게 먹고 싶어.",
+      "description": "'something sweet'는 '달콤한 뭔가', 즉 단 것을 의미합니다."
+    },
+    {
+      "en": "I want to go somewhere quiet.",
+      "ko": "나 어디 좀 조용한 데 가고 싶어.",
+      "description": "'somewhere quiet'는 '조용한 어딘가'라는 뜻으로 장소+형용사 표현입니다."
+    },
+    {
+      "en": "Let's go somewhere quiet to talk.",
+      "ko": "조용한 어딘가로 가서 이야기하자.",
+      "description": "'somewhere quiet to talk'는 '대화하기 좋은 조용한 장소'를 의미합니다."
+    },
+    {
+      "en": "I need someone to help me with this project.",
+      "ko": "나는 이 프로젝트를 도와줄 누군가가 필요해.",
+      "description": "'someone to help me'는 '나를 도와줄 누군가'라는 표현으로 목적을 나타냅니다."
+    }
+  ],
+  "ImJustGoingTo": [
+    {
+      "en": "I think I'm just going to stay home today.",
+      "ko": "내 생각에는 그냥 오늘 집에 있을 것 같아.",
+      "description": "'stay home today'는 오늘 집에 머무는 것을 의미하며, 시간 부사 'today'가 문장 끝에 위치합니다."
+    },
+    {
+      "en": "I think I'm just going to order some food.",
+      "ko": "내 생각에는 그냥 음식 주문할 것 같아.",
+      "description": "'order some food'는 '음식을 주문하다'라는 뜻으로, 목적어 'some food'가 동사 뒤에 옵니다."
+    },
+    {
+      "en": "I think I'm just going to watch a movie.",
+      "ko": "내 생각에는 그냥 영화 볼 것 같아.",
+      "description": "'watch a movie'는 동사 + 목적어 구조로, '영화를 보다'를 뜻합니다."
+    },
+    {
+      "en": "I think I'm just going to spend the holiday at home.",
+      "ko": "내 생각에는 휴일을 집에서 보낼 것 같아.",
+      "description": "'spend the holiday at home'은 '휴일을 ~에서 보내다'는 구조로, 장소를 나타내는 전치사구 'at home'이 사용됩니다."
+    },
+    {
+      "en": "I think I'm just going to spend the holiday at home watching TV and reading books.",
+      "ko": "내 생각에는 휴일을 tv보고 책 읽으면서 집에서 보낼 것 같아.",
+      "description": "'spend the holiday at home' 뒤에 분사구문 'watching TV and reading books'를 붙여 구체적인 활동을 덧붙인 구조입니다."
+    },
+    {
+      "en": "I think I'm just going to cancel my plans.",
+      "ko": "내 생각에는 그냥 계획을 취소할 것 같아.",
+      "description": "'cancel my plans'는 '계획을 취소하다'라는 뜻으로, 동사 + 목적어 구조입니다."
+    },
+    {
+      "en": "I think I'm just going to wait and see.",
+      "ko": "내 생각에는 그냥 기다려 볼 것 같아.",
+      "description": "'wait and see'는 두 동사를 and로 연결한 표현으로, 상황을 지켜본다는 의미의 관용적 구조입니다."
+    }
+  ],
+  "imJustAboutTo": [
+    {
+      "en": "I'm just about to call you.",
+      "ko": "이제 막 전화하려던 참이에요.",
+      "description": "'I'm just about to + 동사원형'은 '막 ~하려던 참이다'는 표현입니다. 'call you'는 '너에게 전화하다'는 의미예요."
+    },
+    {
+      "en": "I'm just about to leave.",
+      "ko": "나는 막 떠나려는 참이야.",
+      "description": "'leave'는 '떠나다'는 뜻으로, 행동 직전의 상황을 나타냅니다."
+    },
+    {
+      "en": "I'm just about to give up.",
+      "ko": "포기하기 일보 직전이에요.",
+      "description": "'give up'은 '포기하다'는 표현으로, 지금 막 포기하려는 순간을 뜻합니다."
+    },
+    {
+      "en": "I'm just about to have dinner.",
+      "ko": "나는 막 저녁을 먹으려던 참이야.",
+      "description": "'have dinner'는 '저녁 식사하다'는 의미로, 식사 직전의 상황입니다."
+    },
+    {
+      "en": "I'm just about to go to bed.",
+      "ko": "막 잠자리에 들려는 중이야.",
+      "description": "'go to bed'는 '잠자리에 들다'는 의미예요."
+    },
+    {
+      "en": "I'm just about to make coffee.",
+      "ko": "지금 막 커피를 만들려던 참이야.",
+      "description": "'make coffee'는 '커피를 만들다'는 표현입니다."
+    },
+    {
+      "en": "I'm just about to tell everyone.",
+      "ko": "지금 막 모두에게 말하려는 참이야.",
+      "description": "'tell everyone'은 '모두에게 말하다'는 표현입니다."
+    },
+    {
+      "en": "I'm just about to say no.",
+      "ko": "나는 막 거절하려는 참이야.",
+      "description": "'say no'는 '거절하다'는 표현으로, 결정 직전의 상황을 의미합니다."
+    },
+    {
+      "en": "I'm just about to quit.",
+      "ko": "막 그만두려던 참이야.",
+      "description": "'quit'은 '그만두다, 포기하다'는 뜻입니다."
+    },
+    {
+      "en": "I'm just about to check it out.",
+      "ko": "지금 막 확인하려던 참이야.",
+      "description": "'check it out'은 '확인하다, 살펴보다'는 뜻의 구어체 표현입니다."
+    },
+    {
+      "en": "I'm just about to leave the office.",
+      "ko": "막 사무실을 나가려던 참이야.",
+      "description": "'leave the office'는 '사무실을 떠나다'는 의미입니다."
+    },
+    {
+      "en": "I'm just about to have lunch.",
+      "ko": "점심 먹으려던 참이야.",
+      "description": "'have lunch'는 '점심을 먹다'는 표현입니다."
+    },
+    {
+      "en": "I'm just about to start the meeting.",
+      "ko": "이제 막 회의를 시작하려던 참이에요.",
+      "description": "'start the meeting'은 '회의를 시작하다'는 의미입니다."
+    },
+    {
+      "en": "I'm just about to take a break.",
+      "ko": "잠깐 쉬려던 참이야.",
+      "description": "'take a break'은 '잠시 쉬다'는 표현입니다."
+    },
+    {
+      "en": "I'm just about to finish this task.",
+      "ko": "이 일 이제 막 끝내려던 참이야.",
+      "description": "'finish this task'는 '이 작업을 끝내다'는 뜻입니다."
+    },
+    {
+      "en": "I'm just about to step outside.",
+      "ko": "막 밖에 나가려던 참이야.",
+      "description": "'step outside'는 '밖으로 나가다'는 표현입니다."
+    },
+    {
+      "en": "I'm just about to watch a movie.",
+      "ko": "영화 보려던 참이야.",
+      "description": "'watch a movie'는 '영화를 보다'는 표현입니다."
+    }
+  ],
+  "itsGetting": [
+    {
+      "en": "It's getting colder outside.",
+      "ko": "밖이 점점 추워지고 있어.",
+      "description": "'It's getting + 형용사'는 '~해지고 있다'는 뜻이며, 'colder'는 '더 추운'을 나타냅니다."
+    },
+    {
+      "en": "It's getting warmer as spring comes.",
+      "ko": "봄이 오면서 점점 따뜻해지고 있어.",
+      "description": "'warmer'는 '더 따뜻한', 'as spring comes'는 '봄이 오면서'라는 시간의 흐름을 나타냅니다."
+    },
+    {
+      "en": "It's getting better.",
+      "ko": "더 나아지고 있어요.",
+      "description": "'better'는 '더 나은'의 비교급이며, 상태가 좋아지고 있음을 표현합니다."
+    },
+    {
+      "en": "It's getting dark outside.",
+      "ko": "밖이 어두워지고 있어요.",
+      "description": "'dark'는 '어두운', 'outside'는 '밖에'를 의미하며 날이 저물고 있음을 나타냅니다."
+    },
+    {
+      "en": "It's getting near midnight.",
+      "ko": "자정이 가까워져 가네요.",
+      "description": "'near midnight'는 '자정 가까이'라는 뜻으로, 시간이 자정에 가까워지고 있다는 의미입니다."
+    },
+    {
+      "en": "It's getting exciting!",
+      "ko": "점점 신나지고 있어!",
+      "description": "'exciting'은 '신나는' 형용사로, 어떤 상황이 점점 재미있고 흥미로워지고 있음을 나타냅니다."
+    },
+    {
+      "en": "It's getting frustrating to wait this long.",
+      "ko": "이렇게 오래 기다리니까 점점 짜증 나.",
+      "description": "'frustrating'은 '짜증 나는, 답답한'이란 뜻이며, 'to wait this long'은 오래 기다리는 상황을 말합니다."
+    },
+    {
+      "en": "It's getting boring. Let's do something else.",
+      "ko": "점점 지루해지고 있어. 다른 거 하자.",
+      "description": "'boring'은 '지루한'이라는 뜻으로, 상황이 더 이상 흥미롭지 않다는 표현입니다."
+    },
+    {
+      "en": "It's getting late. We should go home.",
+      "ko": "점점 늦어지고 있어. 우리 집에 가야겠어.",
+      "description": "'late'는 '늦은'이란 뜻으로, 시간이 늦어짐을 나타내며 행동을 제안합니다."
+    },
+    {
+      "en": "It's getting crowded in here.",
+      "ko": "여기 점점 붐비고 있어.",
+      "description": "'crowded'는 '붐비는, 혼잡한'이란 뜻으로, 사람이나 물건이 많아지는 상황을 나타냅니다."
+    },
+    {
+      "en": "It's getting expensive to buy a house.",
+      "ko": "집을 사는 게 점점 더 비싸지고 있어.",
+      "description": "'expensive'는 '비싼'이라는 뜻이며, 'to buy a house'는 집을 사는 행위를 말합니다."
+    },
+    {
+      "en": "It's getting harder to find good employees.",
+      "ko": "좋은 직원을 찾기가 점점 더 어려워지고 있어.",
+      "description": "'harder'는 '더 어려운'의 비교급이고, 'to find good employees'는 '좋은 직원을 찾는 것'입니다."
+    }
+  ],
+  "itsTimeTo": [
+    {
+      "en": "It's time to wake up.",
+      "ko": "이제 일어날 시간이야.",
+      "description": "'It’s time to + 동사원형'은 '~할 시간이다'는 뜻이에요. 'wake up'은 '일어나다'는 표현입니다."
+    },
+    {
+      "en": "It's time to go to bed.",
+      "ko": "이제 잘 시간이야.",
+      "description": "'go to bed'는 '잠자리에 들다'는 뜻이에요."
+    },
+    {
+      "en": "It's time to leave for work.",
+      "ko": "이제 출근할 시간이야.",
+      "description": "'leave for work'는 '출근하다', '일하러 떠나다'는 의미입니다."
+    },
+    {
+      "en": "It's time to eat lunch.",
+      "ko": "이제 점심 먹을 시간이야.",
+      "description": "'eat lunch'는 '점심을 먹다'는 표현입니다."
+    },
+    {
+      "en": "It's time to take a break.",
+      "ko": "이제 쉬는 시간이야.",
+      "description": "'take a break'는 '쉬다, 휴식을 취하다'는 뜻입니다."
+    },
+    {
+      "en": "It's time to go now.",
+      "ko": "이제 가야 할 시간이야.",
+      "description": "'go now'는 '지금 가다'는 의미로, 행동을 권유할 때 쓰입니다."
+    },
+    {
+      "en": "It's time to get off the work.",
+      "ko": "이제 퇴근할 시간이야.",
+      "description": "'get off work'는 '퇴근하다'는 표현입니다. (⚠️ 'the work' 없이 'get off work'가 더 자연스러워요!)"
+    },
+    {
+      "en": "It's time to make a decision.",
+      "ko": "이제 결정을 내릴 시간이야.",
+      "description": "'make a decision'은 '결정을 내리다'는 표현입니다."
+    },
+    {
+      "en": "It's time to tell the truth.",
+      "ko": "이제 진실을 말할 시간이야.",
+      "description": "'tell the truth'는 '진실을 말하다'는 의미입니다."
+    },
+    {
+      "en": "It's time to change my habits.",
+      "ko": "이제 내 습관을 바꿀 시간이야.",
+      "description": "'change my habits'는 '나의 습관을 바꾸다'는 뜻입니다."
+    }
+  ],
+  "isIt": [
+    {
+      "en": "Is it delicious?",
+      "ko": "그거 맛있나요?",
+      "description": "'Is it + 형용사?'는 '~한가요?'라는 의미로, 상태를 묻는 현재형 의문문입니다."
+    },
+    {
+      "en": "Is it my fault?",
+      "ko": "내 잘못인가요?",
+      "description": "'fault'는 '과실, 잘못'이라는 뜻이고, 'Is it ~?' 구조로 책임 여부를 묻는 표현입니다."
+    },
+    {
+      "en": "Is it far from here?",
+      "ko": "여기서 먼가요?",
+      "description": "'far from here'는 '여기에서 멀리'라는 거리 표현입니다."
+    },
+    {
+      "en": "Is it raining outside?",
+      "ko": "밖에 비 오고 있어?",
+      "description": "'Is it raining?'은 현재진행형 문장으로, 지금 비가 오는지를 묻는 표현입니다."
+    },
+    {
+      "en": "Is it Friday already?",
+      "ko": "벌써 금요일이야?",
+      "description": "'already'는 '벌써'라는 뜻이며, 놀람이나 확인의 의미로 쓰입니다."
+    },
+    {
+      "en": "Is it necessary to bring an ID?",
+      "ko": "신분증을 가져와야 해?",
+      "description": "'Is it necessary to ~?'는 '~하는 것이 필요한가요?'라는 표현입니다."
+    },
+    {
+      "en": "Was it cold yesterday?",
+      "ko": "어제 추웠어?",
+      "description": "'Was it ~?'는 과거형 의문문이며, 날씨나 상태를 물을 때 자주 쓰입니다."
+    },
+    {
+      "en": "Will it be cold tomorrow?",
+      "ko": "내일 추울까?",
+      "description": "'Will it be ~?'는 미래의 상태를 묻는 표현입니다."
+    },
+    {
+      "en": "Isn’t it cheaper to buy online?",
+      "ko": "온라인에서 사는 게 더 싸지 않아?",
+      "description": "'Isn't it ~?'는 부정 의문문으로, 동의나 의견 확인 시 자주 사용합니다."
+    }
+  ],
+  "imTryingTo": [
+    {
+      "en": "I'm trying to understand.",
+      "ko": "이해하려고 노력 중이야",
+      "description": "'I'm trying to + 동사원형'은 '~하려고 노력 중이야'를 의미하며, 'understand'는 '이해하다'입니다."
+    },
+    {
+      "en": "I'm trying to be honest.",
+      "ko": "나는 솔직해지려고 해",
+      "description": "'be honest'는 '솔직해지다'는 표현입니다."
+    },
+    {
+      "en": "I'm trying to learn English.",
+      "ko": "영어를 배우려고 노력 중이야",
+      "description": "'learn English'는 '영어를 배우다'는 의미입니다."
+    },
+    {
+      "en": "I'm trying to be calm.",
+      "ko": "나 침착하려고 노력 중이야",
+      "description": "'be calm'은 '침착해지다'는 표현으로, 감정을 다스리려는 상황에 자주 쓰입니다."
+    },
+    {
+      "en": "I'm trying to figure out.",
+      "ko": "나는 이해하려고 노력하고 있어",
+      "description": "'figure out'은 '이해하다, 알아내다'는 뜻의 구동사입니다."
+    },
+    {
+      "en": "I'm trying to concentrate.",
+      "ko": "나 집중하려고 노력 중이야",
+      "description": "'concentrate'는 '집중하다'는 동사입니다."
+    },
+    {
+      "en": "I'm trying to be generous.",
+      "ko": "나는 관대해지기 위해 노력 중이야",
+      "description": "'be generous'는 '관대하다'는 의미입니다."
+    },
+    {
+      "en": "I'm trying to overcome my weakness.",
+      "ko": "저는 약점을 극복하려고 노력 중이에요",
+      "description": "'overcome'은 '극복하다', 'my weakness'는 '나의 약점'을 의미합니다."
+    },
+    {
+      "en": "I'm trying to focus on my work.",
+      "ko": "일에 집중하려고 노력 중이야.",
+      "description": "'focus on'은 '~에 집중하다', 'my work'는 '내 일'이라는 뜻입니다."
+    },
+    {
+      "en": "I'm trying to wake up earlier every morning.",
+      "ko": "매일 아침 더 일찍 일어나려고 노력 중이야.",
+      "description": "'wake up earlier'는 '더 일찍 일어나다'는 의미이며, 'every morning'은 반복 시간 표현입니다."
+    },
+    {
+      "en": "I'm trying to finish this report before lunch.",
+      "ko": "점심 전까지 이 보고서를 끝내려고 노력 중이야.",
+      "description": "'finish this report'는 '이 보고서를 끝내다', 'before lunch'는 시간 표현입니다."
+    },
+    {
+      "en": "I'm trying to save money for a trip.",
+      "ko": "여행을 위해 돈을 모으려고 노력 중이야.",
+      "description": "'save money'는 '돈을 모으다', 'for a trip'은 '여행을 위해'입니다."
+    },
+    {
+      "en": "I'm trying to be more patient.",
+      "ko": "좀 더 인내심을 가지려고 노력 중이야.",
+      "description": "'be more patient'는 '더 인내심 있게 되다'는 표현입니다."
+    }
+  ],
+  "thereIsAre": [
+    {
+      "en": "There is a book on the table.",
+      "ko": "테이블 위에 책 한 권이 있어.",
+      "description": "'There is + 단수명사' 구조로, 어떤 것이 어디에 존재함을 말합니다. 'on the table'은 위치 표현입니다."
+    },
+    {
+      "en": "There is a problem with my computer.",
+      "ko": "내 컴퓨터에 문제가 있어.",
+      "description": "'a problem with ~'는 '~에 문제 하나가 있다'는 뜻입니다."
+    },
+    {
+      "en": "There is nothing to worry about.",
+      "ko": "걱정할 게 없어.",
+      "description": "'nothing to worry about'은 '걱정할 아무것도 없음'이라는 표현입니다."
+    },
+    {
+      "en": "There is too much noise in this room.",
+      "ko": "이 방에 소음이 너무 많아.",
+      "description": "'too much noise'는 셀 수 없는 명사 '소음'에 대해 '너무 많다'는 표현입니다."
+    },
+    {
+      "en": "There is a meeting scheduled for 3 PM.",
+      "ko": "오후 3시에 예정된 회의가 있어.",
+      "description": "'scheduled for ~'은 '~로 예정된'이라는 뜻으로, 일정이 잡힌 상태를 설명합니다."
+    },
+    {
+      "en": "There is a problem with the printer.",
+      "ko": "프린터에 문제가 있어.",
+      "description": "구조는 'There is + 문제 + with ~'로, 무엇에 문제가 있는지를 나타냅니다."
+    },
+    {
+      "en": "There is a mistake in the document.",
+      "ko": "문서에 실수가 있어.",
+      "description": "'a mistake in the document'는 '문서 안에 있는 실수'를 의미합니다."
+    },
+    {
+      "en": "There is some coffee in the break room.",
+      "ko": "휴게실에 커피가 좀 있어.",
+      "description": "'some coffee'는 셀 수 없는 양의 '약간의 커피'를 나타냅니다."
+    },
+    {
+      "en": "There is no internet connection right now.",
+      "ko": "지금 인터넷 연결이 안 돼.",
+      "description": "'no internet connection'은 '인터넷 연결이 전혀 없음'을 뜻하며, 현재 상태를 표현합니다."
+    },
+    {
+      "en": "There are some files on your desk.",
+      "ko": "네 책상 위에 파일 몇 개 있어.",
+      "description": "'There are + 복수명사' 구조이며, 'on your desk'는 위치 표현입니다."
+    },
+    {
+      "en": "There are a lot of messages in the group chat.",
+      "ko": "단체 채팅방에 메시지가 많이 쌓여 있어.",
+      "description": "'a lot of messages'는 복수 명사 'messages'에 '많은'을 붙인 표현입니다."
+    }
+  ],
+  "iJustWantedTo": [
+    {
+      "en": "I just wanted to check.",
+      "ko": "나는 그냥 확인하고 싶었어.",
+      "description": "'I just wanted to + 동사원형'은 '나는 그냥 ~하고 싶었어'라는 표현입니다. 'check'는 '확인하다'입니다."
+    },
+    {
+      "en": "I just wanted to say hello.",
+      "ko": "난 단지 인사를 하고 싶었을 뿐이야.",
+      "description": "'say hello'는 '인사하다'는 의미입니다."
+    },
+    {
+      "en": "I just wanted to help you.",
+      "ko": "나는 단지 널 도와주고 싶었어.",
+      "description": "'help you'는 '너를 돕다'는 표현입니다."
+    },
+    {
+      "en": "I just wanted to say thank you.",
+      "ko": "나는 단지 고맙다고 말하고 싶었어.",
+      "description": "'say thank you'는 '감사 인사를 하다'는 표현입니다."
+    },
+    {
+      "en": "I just wanted to make you smile.",
+      "ko": "나는 단지 널 웃게 하고 싶었어.",
+      "description": "'make you smile'은 '너를 웃게 만들다'는 표현입니다."
+    },
+    {
+      "en": "I just wanted to share my tips.",
+      "ko": "나는 단지 나의 팁을 공유하고 싶었어.",
+      "description": "'share my tips'는 '내 팁을 나누다'는 표현입니다."
+    },
+    {
+      "en": "I just wanted to tell the truth.",
+      "ko": "난 그냥 진실을 말하고 싶었어.",
+      "description": "'tell the truth'는 '진실을 말하다'는 표현입니다."
+    },
+    {
+      "en": "I just wanted to let her know.",
+      "ko": "나는 단지 그녀에게 알려주고 싶었어.",
+      "description": "'let her know'는 '그녀에게 알리다'는 표현입니다."
+    },
+    {
+      "en": "I just wanted to check if you were okay.",
+      "ko": "나는 단지 네가 괜찮은지 확인하고 싶었어.",
+      "description": "'check if ~'는 '~인지 확인하다'는 복합 문장 구조입니다."
+    },
+    {
+      "en": "I just wanted to ask you if you're free tonight.",
+      "ko": "나는 단지 오늘 밤 네가 시간이 있는지 묻고 싶었어.",
+      "description": "'ask you if ~'는 '~인지 물어보다'라는 표현입니다."
+    },
+    {
+      "en": "I just wanted to see you one last time.",
+      "ko": "나는 단지 마지막으로 널 보고 싶었어.",
+      "description": "'see you one last time'은 '마지막으로 너를 보다'는 뜻입니다."
+    },
+    {
+      "en": "I just wanted to try something new.",
+      "ko": "나는 단지 새로운 걸 시도해 보고 싶었어.",
+      "description": "'try something new'는 '새로운 것을 시도하다'는 표현입니다."
+    },
+    {
+      "en": "I just didn’t want to hurt you.",
+      "ko": "나는 단지 너를 상처 주고 싶지 않았어.",
+      "description": "'didn't want to + 동사원형'은 '~하고 싶지 않았다'는 뜻입니다. 'hurt you'는 '너를 다치게 하다/상처 주다'입니다."
+    },
+    {
+      "en": "I just didn’t want to bother you.",
+      "ko": "나는 단지 너를 귀찮게 하고 싶지 않았어.",
+      "description": "'bother you'는 '너를 귀찮게 하다'는 뜻입니다."
+    },
+    {
+      "en": "I just didn’t want to disappoint you.",
+      "ko": "나는 단지 너를 실망시키고 싶지 않았어.",
+      "description": "'disappoint you'는 '너를 실망시키다'는 표현입니다."
+    },
+    {
+      "en": "I just didn’t want to be late.",
+      "ko": "나는 단지 늦고 싶지 않았어.",
+      "description": "'be late'는 '늦다'는 의미입니다."
+    },
+    {
+      "en": "I just didn’t want to spend too much money.",
+      "ko": "나는 단지 돈을 너무 많이 쓰고 싶지 않았어.",
+      "description": "'spend too much money'는 '돈을 너무 많이 쓰다'는 표현입니다."
+    }
+  ],
+  "doIHaveTo": [
+    {
+      "en": "Do I have to go?",
+      "ko": "제가 가야 하나요?",
+      "description": "'Do I have to + 동사원형?'은 '~해야 하나요?'라는 의미로, 의무를 묻는 표현입니다."
+    },
+    {
+      "en": "Do I have to do that?",
+      "ko": "(꼭) 그렇게 해야 하나요?",
+      "description": "'do that'은 '그것을 하다'라는 의미입니다."
+    },
+    {
+      "en": "Do I have to answer that?",
+      "ko": "대답해야 하나요?",
+      "description": "'answer that'은 '그것에 대답하다'는 표현입니다."
+    },
+    {
+      "en": "Do I have to explain everything?",
+      "ko": "내가 모든 걸 설명해야 해?",
+      "description": "'explain everything'은 '모든 것을 설명하다'는 의미입니다."
+    },
+    {
+      "en": "Do I have to apologize to him?",
+      "ko": "내가 그에게 사과해야 해?",
+      "description": "'apologize to ~'는 '~에게 사과하다'는 표현입니다."
+    },
+    {
+      "en": "Do I have to decide right now?",
+      "ko": "지금 당장 결정해야 해?",
+      "description": "'decide right now'는 '지금 즉시 결정하다'는 의미입니다."
+    },
+    {
+      "en": "Do I have to make a decision?",
+      "ko": "제가 결정을 내려야 하나요?",
+      "description": "'make a decision'은 '결정하다'는 표현입니다."
+    },
+    {
+      "en": "Do I have to return it?",
+      "ko": "반납해야 하나요?",
+      "description": "'return it'은 '그것을 반납하다, 돌려주다'는 표현입니다."
+    },
+    {
+      "en": "Do I have to change my mind?",
+      "ko": "제가 생각을 바꿔야 하나요?",
+      "description": "'change my mind'는 '마음을 바꾸다'는 의미입니다."
+    },
+    {
+      "en": "Do I have to finish this today?",
+      "ko": "이거 오늘 꼭 끝내야 하나요?",
+      "description": "'finish this today'는 '이것을 오늘 끝내다'는 의미입니다."
+    },
+    {
+      "en": "What do I have to do?",
+      "ko": "제가 뭘 해야 하나요?",
+      "description": "'What do I have to do?'는 '무엇을 해야 하나요?'라는 의미입니다."
+    },
+    {
+      "en": "What do I have to start with?",
+      "ko": "무엇부터 시작해야 하나요?",
+      "description": "'start with ~'는 '~부터 시작하다'는 표현입니다."
+    },
+    {
+      "en": "How long do I have to wait?",
+      "ko": "얼마나 오래 기다려야 하나요?",
+      "description": "'How long do I have to ~?'는 '~하는 데 얼마나 시간이 걸리냐'를 의미합니다."
+    },
+    {
+      "en": "Who do I have to report this problem to?",
+      "ko": "이 문제를 누구에게 꼭 보고해야 하나요?",
+      "description": "'report ~ to ~'는 '~을 ~에게 보고하다'는 표현입니다."
+    },
+    {
+      "en": "When do I have to submit the assignment?",
+      "ko": "과제를 언제까지 제출해야 하나요?",
+      "description": "'submit the assignment'는 '과제를 제출하다'는 표현입니다."
+    },
+    {
+      "en": "What do I have to prepare for the presentation?",
+      "ko": "발표를 위해 무엇을 준비해야 하나요?",
+      "description": "'prepare for ~'는 '~을 준비하다', 'presentation'은 '발표'라는 뜻입니다."
+    },
+    {
+      "en": "Why do I have to attend this meeting?",
+      "ko": "왜 내가 이 회의에 참석해야 하나요?",
+      "description": "'attend this meeting'은 '이 회의에 참석하다'는 표현입니다."
+    }
+  ],
+  "doYouWantTo": [
+    {
+      "en": "Do you want to come?",
+      "ko": "오고 싶어요?",
+      "description": "'Do you want to'는 '~하고 싶나요?'라는 의미이며, 'come'은 '오다'라는 동사입니다."
+    },
+    {
+      "en": "Do you want to rest?",
+      "ko": "쉬고 싶어요?",
+      "description": "'rest'는 '쉬다'라는 뜻으로, 제안이나 의향을 묻는 표현입니다."
+    },
+    {
+      "en": "Do you want to eat snacks?",
+      "ko": "간식 먹을래요?",
+      "description": "'eat snacks'는 '간식을 먹다'를 의미하며, 'want to'는 하고 싶은 행동을 묻습니다."
+    },
+    {
+      "en": "Do you want to grab a coffee?",
+      "ko": "커피 한 잔 할래요?",
+      "description": "'grab a coffee'는 '커피를 한 잔 하다'는 표현으로, 일상적인 제안에 자주 쓰입니다."
+    },
+    {
+      "en": "Do you want to go for a walk?",
+      "ko": "산책하러 갈래요?",
+      "description": "'go for a walk'는 '산책하다'는 의미로, 가벼운 활동 제안입니다."
+    },
+    {
+      "en": "Do you want to watch a movie tonight?",
+      "ko": "오늘 밤에 영화 볼래?",
+      "description": "'watch a movie'는 '영화를 보다', 'tonight'는 '오늘 밤'이라는 시간 표현입니다."
+    },
+    {
+      "en": "Do you want to order some food?",
+      "ko": "음식 주문할래?",
+      "description": "'order some food'는 '음식을 주문하다'는 표현으로 식사 제안할 때 사용됩니다."
+    },
+    {
+      "en": "Do you want to take a break?",
+      "ko": "잠깐 쉬고 싶어?",
+      "description": "'take a break'는 '휴식을 취하다'는 뜻의 표현입니다."
+    },
+    {
+      "en": "Do you want to know why?",
+      "ko": "이유를 알고 싶어요?",
+      "description": "'know why'는 '이유를 알다'라는 뜻이며, 호기심이나 설명을 유도하는 질문입니다."
+    },
+    {
+      "en": "Do you want to go with me?",
+      "ko": "나랑 같이 갈래요?",
+      "description": "'go with me'는 '나와 함께 가다'라는 뜻으로, 동행을 권유하는 표현입니다."
+    }
+  ],
+  "IWantYouTo": [
+    {
+      "en": "I want you to come.",
+      "ko": "나는 니가 오면 좋겠어.",
+      "description": "'you'는 요청의 대상이고, 'to come'은 원하는 행동을 나타냅니다."
+    },
+    {
+      "en": "I want you to help me with this.",
+      "ko": "나는 네가 이것을 도와줬으면 해.",
+      "description": "'help me with this'는 목적어(me)와 전치사구(with this)를 포함한 구조입니다."
+    },
+    {
+      "en": "I want you to listen carefully.",
+      "ko": "나는 네가 주의 깊게 들어줬으면 좋겠어.",
+      "description": "'listen carefully'는 동사와 부사로 이루어진 구로, 행동의 방식을 나타냅니다."
+    },
+    {
+      "en": "I want you to call me when you arrive.",
+      "ko": "나는 네가 도착하면 전화해 줬으면 해.",
+      "description": "'call me'는 동사 + 목적어 구조이며, 'when you arrive'는 시간 부사절입니다."
+    },
+    {
+      "en": "I want you to be honest with me.",
+      "ko": "나는 네가 나한테 솔직했으면 좋겠어.",
+      "description": "'be honest with me'는 형용사(honest)를 사용한 상태 표현이며, 'with me'는 대상입니다."
+    },
+    {
+      "en": "I want you to stay here.",
+      "ko": "나는 네가 여기 남아 있으면 좋겠어.",
+      "description": "'stay here'는 장소 부사 'here'를 사용하여 위치를 나타냅니다."
+    },
+    {
+      "en": "I want you to eat good food.",
+      "ko": "나는 니가 좋은 음식을 먹었으면 좋겠어.",
+      "description": "'eat good food'는 동사 + 형용사 + 명사로 구성된 간단한 목적어 구조입니다."
+    },
+    {
+      "en": "I want you to do me a favor.",
+      "ko": "제 부탁을 들어주셨으면 좋겠어요.",
+      "description": "'do me a favor'는 간접목적어(me)와 직접목적어(a favor)를 함께 쓰는 표현입니다."
+    },
+    {
+      "en": "I want you to hurry.",
+      "ko": "나는 니가 서둘렀으면 좋겠어.",
+      "description": "'hurry'는 동사로, 추가 요소 없이 단독으로 사용됩니다."
+    },
+    {
+      "en": "I want you to come with me.",
+      "ko": "니가 나와 함께 가면 좋겠어.",
+      "description": "'come with me'는 동사 + 전치사구 구조로, 함께 이동함을 나타냅니다."
+    },
+    {
+      "en": "I want you to take care of yourself.",
+      "ko": "나는 네가 스스로 건강을 챙겼으면 해.",
+      "description": "'take care of yourself'는 구동사 'take care of'와 재귀대명사 'yourself'로 구성된 표현입니다."
+    },
+    {
+      "en": "I want you to apologize to her.",
+      "ko": "나는 네가 그녀에게 사과했으면 해.",
+      "description": "'apologize to her'는 동사와 전치사구를 사용해 사과의 대상을 나타냅니다."
+    },
+    {
+      "en": "I want you to stop worrying.",
+      "ko": "나는 네가 걱정하는 걸 멈췄으면 좋겠어.",
+      "description": "'stop worrying'은 동사(stop) 뒤에 동명사(worrying)가 오는 구조입니다."
+    },
+    {
+      "en": "I want you to finish it by this week.",
+      "ko": "니가 이번주까지 그걸 끝냈으면 좋겠어.",
+      "description": "'finish it'은 동사 + 목적어 구조이고, 'by this week'는 기한을 나타내는 시간 표현입니다."
+    }
+  ],
+  "wouldYouLike": [
+    {
+      "en": "Would you like a drink?",
+      "ko": "마실 것 드릴까요?",
+      "description": "'Would you like ~?'는 정중한 제안 표현이며, 'a drink'는 '한 잔 마실 것'을 의미합니다."
+    },
+    {
+      "en": "Would you like some coffee?",
+      "ko": "커피 좀 드실래요?",
+      "description": "'some coffee'는 '약간의 커피'를 뜻하며, 부드럽고 공손한 권유 표현입니다."
+    },
+    {
+      "en": "Would you like a glass of water?",
+      "ko": "물 한 잔 드릴까요?",
+      "description": "'a glass of water'는 '물 한 잔'이라는 표현이며, 요청이나 권유할 때 사용됩니다."
+    },
+    {
+      "en": "Would you like some help?",
+      "ko": "도움이 필요하세요?",
+      "description": "'some help'는 '약간의 도움'을 의미하며, 정중하게 도움을 제안할 때 쓰입니다."
+    },
+    {
+      "en": "Would you like to go on?",
+      "ko": "계속하시겠습니까?",
+      "description": "'to go on'은 '계속하다'를 뜻하는 표현이며, 진행 의사를 공손하게 묻는 말입니다."
+    },
+    {
+      "en": "Would you like to try this new dish?",
+      "ko": "이 새로운 요리를 드셔 보시겠어요?",
+      "description": "'to try'는 '시도하다/먹어보다'는 뜻이고, 'this new dish'는 '이 새로운 요리'를 말합니다."
+    },
+    {
+      "en": "Would you like some dessert after your meal?",
+      "ko": "식사 후에 디저트 드시겠어요?",
+      "description": "'some dessert'는 '약간의 디저트', 'after your meal'은 '식사 후에'라는 시간 표현입니다."
+    },
+    {
+      "en": "Would you like anything else?",
+      "ko": "더 필요한 것 있으세요?",
+      "description": "'anything else'는 '그 외 다른 것'을 의미하며, 추가적인 요청 여부를 묻는 정중한 표현입니다."
+    },
+    {
+      "en": "Would you like to watch a movie with me?",
+      "ko": "저와 함께 영화 보실래요?",
+      "description": "'to watch a movie with me'는 '나와 함께 영화보다'라는 의미로 초대나 제안 시 사용됩니다."
+    },
+    {
+      "en": "Would you like to visit our office next week?",
+      "ko": "다음 주에 저희 사무실을 방문하시겠어요?",
+      "description": "'to visit our office'는 '우리 사무실을 방문하다', 'next week'은 시간 표현입니다."
+    }
+  ],
+  "WouldYouMind": [
+    {
+      "en": "Would you mind checking it?",
+      "ko": "그것 좀 확인해 주시겠어요?",
+      "description": "'checking it'은 동명사 + 목적어 구조로, 공손하게 확인해 달라는 요청입니다."
+    },
+    {
+      "en": "Would you mind moving your car now?",
+      "ko": "지금 차 좀 빼주시겠어요?",
+      "description": "'moving your car now'는 동명사구로, 동작의 시점은 'now'로 나타냅니다."
+    },
+    {
+      "en": "Would you mind calling back in 5 minutes?",
+      "ko": "5분 뒤에 다시 전화해주시겠어요?",
+      "description": "'calling back in 5 minutes'는 '5분 후에 다시 전화하다'라는 의미의 동명사구입니다."
+    },
+    {
+      "en": "Would you mind giving me the salt?",
+      "ko": "소금 좀 건네주시겠어요?",
+      "description": "'giving me the salt'는 '나에게 소금을 주다'라는 구조로, 간접목적어와 직접목적어를 함께 사용합니다."
+    },
+    {
+      "en": "Would you mind turning down the music?",
+      "ko": "음악 좀 줄여주시겠어요?",
+      "description": "'turning down the music'는 구동사 'turn down'을 사용한 동명사 표현입니다."
+    },
+    {
+      "en": "Would you mind speaking a little louder?",
+      "ko": "좀 더 크게 말씀해주시겠어요?",
+      "description": "'speaking a little louder'는 '더 큰 목소리로 말하다'라는 뜻의 동명사구입니다."
+    },
+    {
+      "en": "Would you mind opening the window?",
+      "ko": "창문 좀 열어 주시겠어요?",
+      "description": "'opening the window'는 '창문을 열다'라는 의미의 기본 동명사 구조입니다."
+    },
+    {
+      "en": "Would you mind turning down the volume?",
+      "ko": "볼륨 좀 줄여 주시겠어요?",
+      "description": "'turning down the volume'는 '볼륨을 줄이다'라는 구동사를 동명사로 표현한 구조입니다."
+    },
+    {
+      "en": "Would you mind waiting a few more minutes?",
+      "ko": "몇 분만 더 기다려 주시겠어요?",
+      "description": "'waiting a few more minutes'는 기다리는 시간을 'a few more minutes'로 명시한 동명사구입니다."
+    },
+    {
+      "en": "Would you mind sending me the file again?",
+      "ko": "그 파일 다시 보내 주시겠어요?",
+      "description": "'sending me the file again'은 간접목적어(me)와 직접목적어(the file)를 함께 사용한 구조입니다."
+    },
+    {
+      "en": "Would you mind closing the door behind you?",
+      "ko": "들어오면서 문 좀 닫아 주시겠어요?",
+      "description": "'closing the door behind you'는 '뒤로 문을 닫다'는 전치사구를 포함한 동명사구입니다."
+    },
+    {
+      "en": "Would you mind not smoking here?",
+      "ko": "여기서 담배 안 피워 주시겠어요?",
+      "description": "'not smoking here'는 부정형 동명사 구조로, 금지 요청을 부드럽게 표현합니다."
+    },
+    {
+      "en": "Would you mind explaining that again?",
+      "ko": "그거 다시 한 번 설명해 주시겠어요?",
+      "description": "'explaining that again'은 '다시 설명하다'는 동작을 동명사로 표현한 구조입니다."
+    },
+    {
+      "en": "Would you mind if I used your phone for a second?",
+      "ko": "잠깐 네 폰 좀 써도 될까요?",
+      "description": "'if I used your phone for a second'는 'Would you mind if ~?' 구문에서 조건절을 사용한 문장입니다."
+    },
+    {
+      "en": "Would you mind if I sat here?",
+      "ko": "여기 앉아도 괜찮을까요?",
+      "description": "'if I sat here'는 가정법 과거로, 정중하게 허락을 구하는 표현입니다."
+    }
+  ],
+  "doYouHaveAny": [
+    {
+      "en": "Do you have any questions?",
+      "ko": "질문 있으신가요?",
+      "description": "'Do you have'는 '~을 가지고 있나요?'를 뜻하고, 'any questions'는 '어떤 질문이라도'라는 의미로 의문문에서 사용됩니다."
+    },
+    {
+      "en": "Do you have any plans?",
+      "ko": "계획이 있으신가요?",
+      "description": "'plans(계획들)'은 복수 명사로, 'any'와 함께 사용되어 '어떤 계획이라도'를 뜻합니다."
+    },
+    {
+      "en": "Do you have any good ideas?",
+      "ko": "좋은 아이디어 있으신가요?",
+      "description": "'good ideas'는 '좋은 생각들'이라는 뜻으로, 'any'는 가능한 모든 것을 묻는 표현입니다."
+    },
+    {
+      "en": "Do you have any time this afternoon?",
+      "ko": "오늘 오후에 시간 좀 있으세요?",
+      "description": "'any time'은 '시간이 좀이라도 있나요?'라는 뜻으로, 공손한 질문 표현입니다."
+    },
+    {
+      "en": "Do you have any updates on the project?",
+      "ko": "그 프로젝트 관련해서 새 소식 있나요?",
+      "description": "'updates on the project'는 '프로젝트에 대한 최신 소식'을 의미합니다."
+    },
+    {
+      "en": "Do you have any regrets?",
+      "ko": "후회되는 게 있나요?",
+      "description": "'regrets'는 복수형으로, '후회들'이라는 뜻이며, 감정 표현을 묻는 질문입니다."
+    },
+    {
+      "en": "Do you have any kids?",
+      "ko": "아이가 있으세요?",
+      "description": "'kids'는 '아이들'이라는 뜻으로, 복수형에 'any'를 사용하여 자녀 유무를 묻습니다."
+    },
+    {
+      "en": "Do you have any allergies?",
+      "ko": "혹시 알레르기 있으세요?",
+      "description": "'allergies'는 복수형으로, '어떤 알레르기라도 있나요?'라는 건강 상태를 묻는 표현입니다."
+    },
+    {
+      "en": "Do you have any experience?",
+      "ko": "어떤 경험이 있나요?",
+      "description": "'experience'는 불가산 명사지만, 'any'와 함께 사용되어 '조금이라도 경험이 있나요?'라는 뜻입니다."
+    },
+    {
+      "en": "Do you have any messages for her?",
+      "ko": "그녀에게 전할 메시지가 있나요?",
+      "description": "'messages for her'는 '그녀를 위한 메시지들'이라는 뜻으로 전달할 말이 있는지 묻는 표현입니다."
+    },
+    {
+      "en": "Do you have any problem with that?",
+      "ko": "그것에 무슨 문제가 있나요?",
+      "description": "'problem with that'은 '~에 문제가 있나요?'를 의미하며, 의견이나 동의를 묻는 질문입니다."
+    },
+    {
+      "en": "Do you have any rooms available tonight?",
+      "ko": "오늘 밤 빈 방 있나요?",
+      "description": "'rooms available'은 '이용 가능한 방들'이라는 뜻으로, 숙소 예약 시 자주 쓰이는 표현입니다."
+    },
+    {
+      "en": "Do you have any bread left?",
+      "ko": "빵 좀 남았나요?",
+      "description": "'bread left'는 '남아 있는 빵'을 의미하며, 남은 양을 확인하는 질문입니다."
+    }
+  ],
+  "iWanna": [
+    {
+      "ko": "집에 가고 싶어.",
+      "en": "I wanna go home.",
+      "description": "'I wanna'는 'I want to'의 줄임말이며, 'go home'은 '집에 가다'는 표현입니다."
+    },
+    {
+      "ko": "나는 여행을 가고 싶어.",
+      "en": "I wanna go on a trip.",
+      "description": "'go on a trip'은 '여행을 가다'는 표현으로 자주 쓰입니다."
+    },
+    {
+      "ko": "나 일 그만두고 싶어.",
+      "en": "I wanna quit my job.",
+      "description": "'quit my job'은 '내 일을 그만두다'는 의미입니다."
+    },
+    {
+      "ko": "달달한 거 먹고 싶어.",
+      "en": "I wanna eat something sweet.",
+      "description": "'eat something sweet'은 '달콤한 것을 먹다'는 의미로, 구체적 욕구 표현입니다."
+    },
+    {
+      "ko": "오늘 밤 영화 보고 싶어.",
+      "en": "I wanna watch a movie tonight.",
+      "description": "'watch a movie'는 '영화를 보다', 'tonight'은 시간 표현입니다."
+    },
+    {
+      "ko": "낮잠 좀 자고 싶어.",
+      "en": "I wanna take a nap.",
+      "description": "'take a nap'은 '낮잠 자다'는 표현입니다."
+    },
+    {
+      "ko": "나는 새 핸드폰을 사고 싶어.",
+      "en": "I wanna buy a new cell phone.",
+      "description": "'buy a new cell phone'은 '새 휴대폰을 사다'는 의미입니다."
+    },
+    {
+      "ko": "너랑 얘기 좀 하고 싶어.",
+      "en": "I wanna talk to you.",
+      "description": "'talk to you'는 '너에게 말하다, 대화하다'는 의미입니다."
+    },
+    {
+      "ko": "그 새 식당 가보고 싶어.",
+      "en": "I wanna try that new restaurant.",
+      "description": "'try that new restaurant'은 '그 새 식당을 시도해보다' 즉, 가보고 싶다는 표현입니다."
+    },
+    {
+      "ko": "다음 달에 여행 가고 싶어.",
+      "en": "I wanna travel next month.",
+      "description": "'travel next month'는 '다음 달에 여행하다'는 의미로 시간 표현이 포함되어 있습니다."
+    },
+    {
+      "ko": "이 프로젝트 너랑 같이 하고 싶어.",
+      "en": "I wanna work on this project with you.",
+      "description": "'work on this project'는 '이 프로젝트에 참여하다', 'with you'는 '너와 함께'입니다."
+    },
+    {
+      "ko": "오늘 출근하기 싫어.",
+      "en": "I don't wanna go to work today.",
+      "description": "'I don't wanna'는 '~하고 싶지 않다', 'go to work'은 출근하다, 'today'는 오늘이라는 시간 표현입니다."
+    },
+    {
+      "ko": "과거로 돌아가고 싶지 않아.",
+      "en": "I don't wanna go back.",
+      "description": "'go back'은 '돌아가다', 여기서는 과거로 돌아가기를 원치 않는다는 의미입니다."
+    },
+    {
+      "ko": "그 얘기 하고 싶지 않아.",
+      "en": "I don't wanna talk about it.",
+      "description": "'talk about it'은 '그것에 대해 말하다'는 뜻으로 회피하고 싶은 주제를 나타냅니다."
+    },
+    {
+      "ko": "지금 아무것도 먹고 싶지 않아.",
+      "en": "I don't wanna eat anything right now.",
+      "description": "'eat anything'은 '아무것도 먹다', 'right now'는 지금 당장이라는 뜻입니다."
+    },
+    {
+      "ko": "너랑 싸우고 싶지 않아.",
+      "en": "I don't wanna argue with you.",
+      "description": "'argue with you'는 '너와 말다툼하다'는 뜻입니다."
+    },
+    {
+      "ko": "버스 놓치고 싶지 않아.",
+      "en": "I don't wanna miss the bus.",
+      "description": "'miss the bus'는 '버스를 놓치다'는 표현으로 일상 대화에 자주 사용됩니다."
+    },
+    {
+      "ko": "밖에 나가고 싶지 않아.",
+      "en": "I don't wanna go outside.",
+      "description": "'go outside'는 '밖에 나가다'는 표현입니다."
+    },
+    {
+      "ko": "널 실망시키고 싶지 않아.",
+      "en": "I don't wanna disappoint you.",
+      "description": "'disappoint you'는 '너를 실망시키다'는 의미입니다."
+    },
+    {
+      "ko": "이거 혼자서 하고 싶지 않아.",
+      "en": "I don't wanna do this alone.",
+      "description": "'do this alone'은 '이걸 혼자서 하다'는 뜻으로, 함께 하고 싶다는 뉘앙스를 줍니다."
+    },
+    {
+      "ko": "시간을 낭비하고 싶지 않아.",
+      "en": "I don't wanna waste time.",
+      "description": "'waste time'은 '시간을 낭비하다'는 표현입니다."
+    }
+  ],
+  "imGonna": [
+    {
+      "en": "I'm gonna make it.",
+      "ko": "나는 해낼 거야.",
+      "description": "'I'm gonna'는 'I'm going to'의 구어체로, 'make it'은 '성공하다, 해내다'는 표현입니다."
+    },
+    {
+      "en": "I'm gonna miss you.",
+      "ko": "나는 당신이 그리울 거예요.",
+      "description": "'miss you'는 '당신을 그리워하다'는 뜻이며, 이별이나 작별 상황에서 자주 쓰입니다."
+    },
+    {
+      "en": "I'm gonna be okay.",
+      "ko": "나는 괜찮을 거야.",
+      "description": "'be okay'는 '괜찮다, 무사하다'는 뜻으로, 위로하거나 스스로를 다독일 때 씁니다."
+    },
+    {
+      "en": "I'm gonna check it out.",
+      "ko": "내가 확인해 볼 거야.",
+      "description": "'check it out'은 '확인하다, 살펴보다'는 뜻의 구어 표현입니다."
+    },
+    {
+      "en": "I'm gonna take a shower.",
+      "ko": "나 샤워할 거야.",
+      "description": "'take a shower'는 '샤워하다'는 의미이며 일상에서 자주 쓰입니다."
+    },
+    {
+      "en": "I'm gonna ask you some questions.",
+      "ko": "내가 몇 가지 질문을 할게요.",
+      "description": "'ask you some questions'는 '너에게 몇 가지 질문을 하다'는 뜻입니다."
+    },
+    {
+      "en": "I'm gonna show you something special.",
+      "ko": "내가 특별한 걸 보여줄게.",
+      "description": "'show you something special'은 '특별한 것을 너에게 보여주다'라는 표현입니다."
+    },
+    {
+      "en": "I'm gonna go to bed early tonight.",
+      "ko": "오늘 밤 일찍 잘 거야.",
+      "description": "'go to bed'는 '잠자리에 들다', 'early tonight'은 '오늘 밤 일찍'이라는 시간 표현입니다."
+    },
+    {
+      "en": "I'm gonna call you later.",
+      "ko": "나 나중에 너한테 전화할게.",
+      "description": "'call you later'는 '나중에 전화하다'라는 표현으로, 일상 대화에 자주 나옵니다."
+    },
+    {
+      "en": "I'm gonna be late for the meeting.",
+      "ko": "나 회의에 늦을 것 같아.",
+      "description": "'be late for ~'는 '~에 늦다'는 뜻이며, 회의(meeting)처럼 시간 약속에 대해 말할 때 사용됩니다."
+    },
+    {
+      "en": "I'm gonna start working on the project tomorrow.",
+      "ko": "내일 프로젝트 시작할 거야.",
+      "description": "'start working on'은 '~을 시작하다'는 뜻이며, 'tomorrow'는 시간 표현입니다."
+    },
+    {
+      "en": "I'm gonna ask for help if I need it.",
+      "ko": "필요하면 도움 요청할 거야.",
+      "description": "'ask for help'은 '도움을 요청하다', 'if I need it'은 조건절로 '필요하면'이라는 의미입니다."
+    },
+    {
+      "en": "I'm gonna clean my room this weekend.",
+      "ko": "이번 주말에 방 청소할 거야.",
+      "description": "'clean my room'은 '방을 청소하다', 'this weekend'은 '이번 주말'이라는 시간 표현입니다."
+    }
+  ],
+  "farFrom": [
+    {
+      "ko": "그 영화는 전혀 지루하지 않았어.",
+      "en": "The movie was far from boring.",
+      "description": "'far from boring'은 '지루함과는 거리가 멀다'는 의미로, 전혀 지루하지 않았다는 강조 표현입니다."
+    },
+    {
+      "ko": "그의 설명은 전혀 명확하지 않았어.",
+      "en": "His explanation was far from clear.",
+      "description": "'far from clear'은 '전혀 명확하지 않다'는 뜻으로, 설명이 복잡하거나 불분명할 때 사용합니다."
+    },
+    {
+      "ko": "오늘 날씨는 전혀 완벽하지 않아.",
+      "en": "The weather is far from perfect today.",
+      "description": "'far from perfect'은 '완벽과는 거리가 멀다'는 뜻이며, 불만족스러운 상태를 나타냅니다."
+    },
+    {
+      "ko": "그 시험은 전혀 쉽지 않았어요.",
+      "en": "The test was far from easy.",
+      "description": "'far from easy'는 '전혀 쉽지 않았다'는 강조 표현으로, 매우 어려웠음을 나타냅니다."
+    },
+    {
+      "ko": "문제는 결코 간단하지 않습니다.",
+      "en": "The problem is far from simple.",
+      "description": "'far from simple'은 '간단하지 않다'는 의미로, 문제의 복잡함을 강조합니다."
+    },
+    {
+      "ko": "그 방은 전혀 깨끗하지 않아요.",
+      "en": "The room is far from clean.",
+      "description": "'far from clean'은 '전혀 깨끗하지 않다'는 뜻으로, 방 상태가 매우 지저분함을 나타냅니다."
+    },
+    {
+      "ko": "그 결과는 전혀 좋지 않았어요.",
+      "en": "The result was far from good.",
+      "description": "'far from good'은 '좋지 않았다'는 뜻이며, 기대와는 다른 부정적인 결과를 표현합니다."
+    },
+    {
+      "ko": "그녀의 목소리는 전혀 크지 않았어요.",
+      "en": "Her voice was far from loud.",
+      "description": "'far from loud'는 '전혀 크지 않다'는 의미로, 매우 작은 목소리임을 강조합니다."
+    },
+    {
+      "ko": "그 수프는 전혀 뜨겁지 않아요.",
+      "en": "The soup is far from hot.",
+      "description": "'far from hot'은 '뜨겁지 않다'는 의미로, 수프가 미지근하거나 식었음을 말합니다."
+    },
+    {
+      "ko": "그 이야기는 전혀 사실이 아니었어요.",
+      "en": "The story was far from true.",
+      "description": "'far from true'는 '전혀 사실이 아니다'라는 뜻으로, 거짓말 또는 오해를 나타냅니다."
+    },
+    {
+      "ko": "그 대답은 전혀 맞지 않아요.",
+      "en": "The answer is far from correct.",
+      "description": "'far from correct'는 '정답과는 거리가 멀다', 즉 틀렸다는 의미입니다."
+    },
+    {
+      "ko": "그 길은 전혀 안전하지 않았어요.",
+      "en": "The road was far from safe.",
+      "description": "'far from safe'는 '전혀 안전하지 않다'는 표현으로 위험함을 나타냅니다."
+    },
+    {
+      "ko": "우리 집은 학교에서 멀어요",
+      "en": "My house is far from the school.",
+      "description": "이 표현은 실제 거리상으로 멀다는 의미로, 'far from ~'이 물리적 거리로 쓰였습니다."
+    },
+    {
+      "ko": "그 사람은 나와 거리가 멀어요",
+      "en": "He is far from me.",
+      "description": "여기서 'far from me'는 거리상 멀다는 의미일 수도 있고, 비유적으로 '관계가 멀다'는 뜻으로도 해석될 수 있습니다."
+    }
+  ],
+  "howLong": [
+    {
+      "ko": "얼마나 걸려요?",
+      "en": "How long does it take?",
+      "description": "'How long'은 '얼마나 오래/길게'를 의미하고, 'does it take'은 '시간이 얼마나 걸리다'는 표현입니다."
+    },
+    {
+      "ko": "그 영화는 얼마나 길어요?",
+      "en": "How long is the movie?",
+      "description": "'is the movie'는 '영화는 ~이다'라는 현재형이며, 길이를 묻는 표현입니다."
+    },
+    {
+      "ko": "줄이 얼마나 길어요?",
+      "en": "How long is the line?",
+      "description": "'line'은 줄, 'How long is'는 '~은 얼마나 기냐'는 질문 형태입니다."
+    },
+    {
+      "ko": "얼마나 오래 기다렸어요?",
+      "en": "How long did you wait?",
+      "description": "'did you wait'는 과거 시제를 사용한 표현으로, '얼마나 오래 기다렸는지' 묻는 문장입니다."
+    },
+    {
+      "ko": "너희 여름방학은 얼마나 길어?",
+      "en": "How long is your summer vacation?",
+      "description": "'summer vacation'은 여름방학, 'How long is'는 '~은 얼마나 기냐'는 문장 구조입니다."
+    },
+    {
+      "ko": "얼마나 걸릴까요?",
+      "en": "How long will it take?",
+      "description": "'will it take'는 미래형으로, '얼마나 걸릴 것 같나요?'를 의미합니다."
+    },
+    {
+      "ko": "얼마나 오래 있을 수 있어요?",
+      "en": "How long can I stay?",
+      "description": "'can I stay'는 '내가 머물 수 있나요?'라는 의미로, 가능성과 기간을 묻습니다."
+    },
+    {
+      "ko": "얼마나 오래 걸려?",
+      "en": "How long does it take?",
+      "description": "'does it take'는 '시간이 얼마나 걸리다'는 현재형 표현입니다."
+    },
+    {
+      "ko": "얼마나 오래 기다려야 해?",
+      "en": "How long do I have to wait?",
+      "description": "'do I have to wait'는 '기다려야 하다'는 표현으로, 의무의 정도를 묻는 문장입니다."
+    }
+  ]
+}
+  

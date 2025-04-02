@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box;
+  }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    min-height: 100vh;
+    font-family: 'Segoe UI', sans-serif;
+    background: #fff;
+    font-size: 26px;
+  }
+
+  .container {
+    width: 100vw;
+    padding: 24px 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 40px;
+  }
+
+  h2 {
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+  }
+
+  .voice-control,
+  .control-group {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+  }
+
+  label {
+    font-size: 28px;
+    font-weight: 600;
+  }
+
+  input[type="range"] {
+    width: 100%;
+    height: 50px;
+  }
+
+  select,
+  button {
+    width: 100%;
+    padding: 20px;
+    font-size: 28px;
+    border: 1px solid #ccc;
+    border-radius: 14px;
+  }
+
+  button {
+    background-color: #2b7cff;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    /* margin-left: 20px; */
+  }
+
+  button:disabled {
+    background-color: #999;
+    cursor: not-allowed;
+  }
+
+  .card {
+    border: 2px solid #ddd;
+    padding: 28px;
+    border-radius: 16px;
+    background-color: #f9f9f9;
+    width: 100%;
+  }
+
+  .korean,
+  .timer,
+  .ready,
+  .english {
+    font-size: 40px;
+    margin-bottom: 20px;
+    line-height: 1.7;
+    font-weight: bold;
+  }
+
+  .english {
+    font-weight: bold;
+    display: none;
+  }
+
+  .replay-btn {
+    background: #c97a3e;
+    /* border: none; */
+    cursor: pointer;
+    font-size: 30px;
+  }
+
+  @media (min-width: 768px) {
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 40px;
+    }
+
+    .voice-control,
+    .control-group {
+      flex-direction: row;
+      align-items: center;
+    }
+
+    .voice-control label,
+    .control-group label {
+      width: 160px;
+    }
+
+    select,
+    input[type="range"],
+    button {
+      flex: 1;
+      width: auto;
+    }
+
+    button {
+      max-width: 260px;
+    }
+  }
+
+  /* 듣기 버튼 색상 변경 */
+  .control-group h2 {
+    color: #2b7cff; /* 제목 색상 변경 */
+  }
+
+  .control-group .listen {
+    background-color: #c97a3e;
+  }
+  .listen {
+    display: flex;
+    /* flex-direction: row;
+    align-items: center;
+    justify-content: center; */
+    gap: 22px;
+  }
