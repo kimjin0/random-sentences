@@ -75,12 +75,12 @@
     </select>
   </div>
   <div class="control-group">
-    <button onclick="generate()">랜덤 문장 보기</button>
-    <button class="listen" onclick="generateListen()">랜덤 문장 듣기</button>
+    <button onclick="sentenceView()">랜덤 문장 보기</button>
+    <button class="listen" onclick="sentenceListen()">랜덤 문장 듣기</button>
   </div>
   <div id="card" style="display: none">
     <p class="korean" id="korean-text"></p>
-    <button onclick="displayAnswer()">👉 영어 보기</button>
+    <button onclick="englishShow()">👉 영어 보기</button>
     <div class="english" id="english-text">
       <div ></div>
     </div>
@@ -126,12 +126,13 @@
   }
   const $cardListen = document.getElementById('cardListen');
   const $card = document.getElementById('card');
-  
+
   function escapeHtml(str) {
     return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
               .replace(/"/g, "&quot;").replace(/'/g, "&#039;").replace(/`/g, "&#x60;");
   }
-  function generateListen() {
+  //랜덤 문장 드기
+  function sentenceListen() {
     document.getElementById('explanation').style.display = 'none';
     showSentence = false;
 
@@ -151,16 +152,13 @@
     $cardListen.style.display = 'block';
     $card.style.display = 'none';
     const $englishListen = document.getElementById('english-listen');
-    let html = `<button class="replay-btn speak" onclick='fnSpeak("${escapeHtml(currentSentence.en)}");'>재생</button><button onclick="sentenceShow()">👉 문장 보기</button>`;
+    let html = `<button class="replay-btn" onclick='fnSpeak("${escapeHtml(currentSentence.en)}");'>재생</button><button onclick="sentenceShow()">👉 문장 보기</button>`;
     $englishListen.innerHTML = html;
   }
 
-  function generate() {
+  function sentenceView() {
     document.getElementById('english-text').style.display = 'none';
     showAnswer = false;
-
-    clearInterval(timer);
-    countdown = 10;
 
     let pool = selectedGroup === 'all' ? [].concat(...Object.values(sentences)) : sentences[selectedGroup] || [];
     const filteredPool = pool.filter(s => !usedSentences.has(s.ko));
@@ -179,6 +177,7 @@
     $cardListen.style.display = 'none';
   }
 
+  // 랜덤 문장 듣기 > 문장보기
   function sentenceShow() {
     const explanationElement = document.getElementById('explanation');
 
@@ -190,7 +189,7 @@
         html += `<hr><div class="fw-normal mt15 fs30">📝 ${currentSentence.description}</div>`;
       }
       if (currentSentence.talk) {
-        html += `<hr<div class="fw-normal mt15 fs30"><strong>Situation:</strong> ${currentSentence.talk.situation}</div>`;
+        html += `<hr><div class="fw-normal mt15 fs30"><strong>Situation:</strong> ${currentSentence.talk.situation}</div>`;
         html += `<ul class="fs30">`;
         currentSentence.talk.dialogue.forEach(function(dialog) {
           html += `
@@ -213,7 +212,8 @@
     }
   }
 
-  function displayAnswer() {
+  // 랜던 문장 보기 > 영어보기
+  function englishShow() {
     const englishTextElement = document.getElementById('english-text');
 
     if (!showAnswer) {
