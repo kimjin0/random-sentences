@@ -3055,603 +3055,2098 @@
     ],
     "iJustWantedTo": [
         {
-            "en": "I just wanted to check.",
-            "ko": "나는 그냥 확인하고 싶었어.",
-            "description": "'I just wanted to + 동사원형'은 '나는 그냥 ~하고 싶었어'라는 표현입니다. 'check'는 '확인하다'입니다."
-        },
-        {
-            "en": "I just wanted to say hello.",
-            "ko": "난 단지 인사를 하고 싶었을 뿐이야.",
-            "description": "'say hello'는 '인사하다'는 의미입니다."
-        },
-        {
-            "en": "I just wanted to help you.",
-            "ko": "나는 단지 널 도와주고 싶었어.",
-            "description": "'help you'는 '너를 돕다'는 표현입니다."
-        },
-        {
-            "en": "I just wanted to say thank you.",
-            "ko": "나는 단지 고맙다고 말하고 싶었어.",
-            "description": "'say thank you'는 '감사 인사를 하다'는 표현입니다."
-        },
-        {
-            "en": "I just wanted to make you smile.",
-            "ko": "나는 단지 널 웃게 하고 싶었어.",
-            "description": "'make you smile'은 '너를 웃게 만들다'는 표현입니다."
-        },
-        {
-            "en": "I just wanted to share my tips.",
-            "ko": "나는 단지 나의 팁을 공유하고 싶었어.",
-            "description": "'share my tips'는 '내 팁을 나누다'는 표현입니다."
-        },
-        {
-            "en": "I just wanted to tell the truth.",
-            "ko": "난 그냥 진실을 말하고 싶었어.",
-            "description": "'tell the truth'는 '진실을 말하다'는 표현입니다."
-        },
-        {
-            "en": "I just wanted to let her know.",
-            "ko": "나는 단지 그녀에게 알려주고 싶었어.",
-            "description": "'let her know'는 '그녀에게 알리다'는 표현입니다."
-        },
-        {
             "en": "I just wanted to check if you were okay.",
             "ko": "나는 단지 네가 괜찮은지 확인하고 싶었어.",
-            "description": "'check if ~'는 '~인지 확인하다'는 복합 문장 구조입니다."
+            "description": "'check if ~'는 '~인지 확인하다'는 복합 문장 구조입니다.",
+            "talk": {
+                "situation": "친구가 아픈 후 처음으로 만났을 때 사용할 수 있는 표현입니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I just wanted to check if you were okay, you seemed really sick last week.",
+                        "ko": "네가 괜찮은지 확인하고 싶었어, 지난주에 정말 아파 보였거든."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Thanks for checking, I'm feeling much better now.",
+                        "ko": "확인해줘서 고마워, 이제 많이 나아졌어."
+                    }
+                ]
+            }
         },
         {
             "en": "I just wanted to ask you if you're free tonight.",
             "ko": "나는 단지 오늘 밤 네가 시간이 있는지 묻고 싶었어.",
-            "description": "'ask you if ~'는 '~인지 물어보다'라는 표현입니다."
+            "description": "'ask you if ~'는 '~인지 물어보다'라는 표현입니다.",
+            "talk": {
+                "situation": "친구와 저녁 계획을 세우려고 할 때 사용할 수 있는 표현입니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I just wanted to ask you if you're free tonight for dinner?",
+                        "ko": "오늘 밤 저녁 먹으러 갈 시간 있나 해서 물어봤어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Sure, I'd love to! What time?",
+                        "ko": "좋아, 너무 좋은데! 몇 시에?"
+                    }
+                ]
+            }
         },
         {
             "en": "I just wanted to see you one last time.",
             "ko": "나는 단지 마지막으로 널 보고 싶었어.",
-            "description": "'see you one last time'은 '마지막으로 너를 보다'는 뜻입니다."
+            "description": "'see you one last time'은 '마지막으로 너를 보다'는 뜻입니다.",
+            "talk": {
+                "situation": "장거리로 이사가기 전 친구에게 작별 인사를 하려고 할 때 사용할 수 있습니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I just wanted to see you one last time before I move across the country.",
+                        "ko": "나라 건너 이사 가기 전에 마지막으로 널 보고 싶었어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "I'm really going to miss you. Let's make this a good one!",
+                        "ko": "정말 널 그리워할 거야. 이번을 잘 보내자!"
+                    }
+                ]
+            }
         },
         {
             "en": "I just wanted to try something new.",
             "ko": "나는 단지 새로운 걸 시도해 보고 싶었어.",
-            "description": "'try something new'는 '새로운 것을 시도하다'는 표현입니다."
+            "description": "'try something new'는 '새로운 것을 시도하다'는 표현입니다.",
+            "talk": {
+                "situation": "친구들과 새로운 취미나 활동을 제안할 때 사용할 수 있습니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I just wanted to try something new, how about we go rock climbing this weekend?",
+                        "ko": "새로운 걸 해보고 싶었어, 이번 주말에 암벽 등반 어때?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "That sounds exciting, I'm in!",
+                        "ko": "신나 보이네, 나도 할래!"
+                    }
+                ]
+            }
         },
         {
             "en": "I just didn’t want to hurt you.",
             "ko": "나는 단지 너를 상처 주고 싶지 않았어.",
-            "description": "'didn't want to + 동사원형'은 '~하고 싶지 않았다'는 뜻입니다. 'hurt you'는 '너를 다치게 하다/상처 주다'입니다."
+            "description": "'didn't want to + 동사원형'은 '~하고 싶지 않았다'는 뜻입니다. 'hurt you'는 '너를 다치게 하다/상처 주다'입니다.",
+            "talk": {
+                "situation": "친구와의 어려운 대화에서 솔직함을 유지하려 할 때 사용할 수 있습니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I just didn’t want to hurt you, but I think we need to talk about our issues.",
+                        "ko": "널 상처 주고 싶지 않았어, 하지만 우리 문제에 대해 이야기할 필요가 있다고 생각해."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "I appreciate your honesty. Let's discuss it openly.",
+                        "ko": "네 솔직함을 높이 평가해. 솔직하게 이야기해 보자."
+                    }
+                ]
+            }
         },
         {
             "en": "I just didn’t want to bother you.",
             "ko": "나는 단지 너를 귀찮게 하고 싶지 않았어.",
-            "description": "'bother you'는 '너를 귀찮게 하다'는 뜻입니다."
+            "description": "'bother you'는 '너를 귀찮게 하다'는 뜻입니다.",
+            "talk": {
+                "situation": "친구에게 늦은 시간에 연락하는 것을 망설일 때 사용할 수 있는 표현입니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I just didn’t want to bother you, but I needed some advice.",
+                        "ko": "널 귀찮게 하고 싶지 않았어, 하지만 조언이 필요했어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "No worries, I'm always here to help. What's up?",
+                        "ko": "걱정 마, 언제든지 도와줄게. 무슨 일이야?"
+                    }
+                ]
+            }
         },
         {
             "en": "I just didn’t want to disappoint you.",
             "ko": "나는 단지 너를 실망시키고 싶지 않았어.",
-            "description": "'disappoint you'는 '너를 실망시키다'는 표현입니다."
+            "description": "'disappoint you'는 '너를 실망시키다'는 표현입니다.",
+            "talk": {
+                "situation": "기대에 못 미치는 성적을 받고 부모에게 설명할 때 사용할 수 있습니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I just didn’t want to disappoint you, but my exam didn’t go as well as I hoped.",
+                        "ko": "너를 실망시키고 싶지 않았는데, 내 시험 결과가 기대했던 것만큼 좋지 않았어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "It's okay, what matters is that you did your best.",
+                        "ko": "괜찮아, 중요한 건 네가 최선을 다했다는 거야."
+                    }
+                ]
+            }
         },
         {
             "en": "I just didn’t want to be late.",
             "ko": "나는 단지 늦고 싶지 않았어.",
-            "description": "'be late'는 '늦다'는 의미입니다."
+            "description": "'be late'는 '늦다'는 의미입니다.",
+            "talk": {
+                "situation": "중요한 회의나 약속에 늦지 않으려고 서둘렀을 때 사용할 수 있습니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I just didn’t want to be late, so I left home early today.",
+                        "ko": "늦고 싶지 않아서 오늘 일찍 집을 나섰어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "That's very responsible of you. We appreciate it.",
+                        "ko": "너 정말 책임감 있어. 우리도 고마워하고 있어."
+                    }
+                ]
+            }
         },
         {
             "en": "I just didn’t want to spend too much money.",
             "ko": "나는 단지 돈을 너무 많이 쓰고 싶지 않았어.",
-            "description": "'spend too much money'는 '돈을 너무 많이 쓰다'는 표현입니다."
+            "description": "'spend too much money'는 '돈을 너무 많이 쓰다'는 표현입니다.",
+            "talk": {
+                "situation": "친구와 쇼핑할 때 비용을 절약하려고 할 때 사용할 수 있습니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I just didn’t want to spend too much money, so I'm looking for cheaper options.",
+                        "ko": "돈을 너무 많이 쓰고 싶지 않아서, 더 저렴한 옵션을 찾고 있어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "That's smart. Let's find some good deals then.",
+                        "ko": "현명한 선택이야. 그럼 좋은 거래를 찾아보자."
+                    }
+                ]
+            }
         }
     ],
     "doIHaveTo": [
         {
             "en": "Do I have to go?",
             "ko": "제가 가야 하나요?",
-            "description": "'Do I have to + 동사원형?'은 '~해야 하나요?'라는 의미로, 의무를 묻는 표현입니다."
+            "description": "'Do I have to + 동사원형?'은 '~해야 하나요?'라는 의미로, 의무를 묻는 표현입니다.",
+            "talk": {
+                "situation": "친구가 파티에 초대했을 때, 참석 의무에 대해 물어보고 싶을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do I have to go, or is it optional?",
+                        "ko": "제가 꼭 가야 해요, 아니면 선택적인가요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "It's just a casual get-together, so it's totally up to you!",
+                        "ko": "그냥 가볍게 모이는 거라서 완전히 당신 마음대로예요!"
+                    }
+                ]
+            }
         },
         {
             "en": "Do I have to do that?",
             "ko": "(꼭) 그렇게 해야 하나요?",
-            "description": "'do that'은 '그것을 하다'라는 의미입니다."
+            "description": "'do that'은 '그것을 하다'라는 의미입니다.",
+            "talk": {
+                "situation": "상사가 추가 업무를 지시했을 때 필요성을 질문하고 싶을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do I have to do that, or can someone else handle it?",
+                        "ko": "제가 꼭 그걸 해야 하나요, 아니면 다른 사람이 처리할 수 있나요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "If you're too busy, I can assign it to someone else.",
+                        "ko": "너무 바쁘시면 다른 사람에게 맡길 수 있습니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Do I have to answer that?",
             "ko": "대답해야 하나요?",
-            "description": "'answer that'은 '그것에 대답하다'는 표현입니다."
+            "description": "'answer that'은 '그것에 대답하다'는 표현입니다.",
+            "talk": {
+                "situation": "불편한 질문을 받았을 때, 대답할 의무가 있는지 확인하고 싶을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do I have to answer that, or can we change the subject?",
+                        "ko": "그거 대답해야 하나요, 아니면 주제를 바꿀 수 있나요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Oh, sorry if that was too personal. Let's talk about something else.",
+                        "ko": "아, 너무 개인적인 질문이었다면 죄송해요. 다른 이야기를 해요."
+                    }
+                ]
+            }
         },
         {
             "en": "Do I have to explain everything?",
             "ko": "내가 모든 걸 설명해야 해?",
-            "description": "'explain everything'은 '모든 것을 설명하다'는 의미입니다."
+            "description": "'explain everything'은 '모든 것을 설명하다'는 의미입니다.",
+            "talk": {
+                "situation": "답답한 상황에서 모든 것을 설명해야 하는지 의문을 가질 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do I have to explain everything, or can you try to understand on your own?",
+                        "ko": "제가 모든 걸 설명해야 하나요, 아니면 당신 스스로 이해해볼 수 있나요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "I'll give it another shot. Maybe I missed something.",
+                        "ko": "다시 한번 해볼게요. 뭔가 놓친 것 같아요."
+                    }
+                ]
+            }
         },
         {
             "en": "Do I have to apologize to him?",
             "ko": "내가 그에게 사과해야 해?",
-            "description": "'apologize to ~'는 '~에게 사과하다'는 표현입니다."
+            "description": "'apologize to ~'는 '~에게 사과하다'는 표현입니다.",
+            "talk": {
+                "situation": "친구와의 오해가 있었고, 다른 친구가 사과를 권할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do I have to apologize to him? It wasn't really my fault.",
+                        "ko": "내가 그에게 사과해야 해? 사실 내 잘못은 아니었어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "It might help to clear the air, even if you feel you weren't in the wrong.",
+                        "ko": "잘못이 없다고 느낀다 해도, 분위기를 맑게 하는 데 도움이 될 거야."
+                    }
+                ]
+            }
         },
         {
             "en": "Do I have to decide right now?",
             "ko": "지금 당장 결정해야 해?",
-            "description": "'decide right now'는 '지금 즉시 결정하다'는 의미입니다."
+            "description": "'decide right now'는 '지금 즉시 결정하다'는 의미입니다.",
+            "talk": {
+                "situation": "회사에서 중요한 결정을 압박받을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do I have to decide right now? I need more time to think it over.",
+                        "ko": "지금 당장 결정해야 해? 좀 더 생각할 시간이 필요해."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "We do need an answer soon, but you can take the rest of the day to think about it.",
+                        "ko": "곧 답이 필요하지만, 하루 종일 생각해봐도 돼."
+                    }
+                ]
+            }
         },
         {
             "en": "Do I have to make a decision?",
             "ko": "제가 결정을 내려야 하나요?",
-            "description": "'make a decision'은 '결정하다'는 표현입니다."
-        },
-        {
-            "en": "Do I have to return it?",
-            "ko": "반납해야 하나요?",
-            "description": "'return it'은 '그것을 반납하다, 돌려주다'는 표현입니다."
-        },
-        {
-            "en": "Do I have to change my mind?",
-            "ko": "제가 생각을 바꿔야 하나요?",
-            "description": "'change my mind'는 '마음을 바꾸다'는 의미입니다."
-        },
-        {
-            "en": "Do I have to finish this today?",
-            "ko": "이거 오늘 꼭 끝내야 하나요?",
-            "description": "'finish this today'는 '이것을 오늘 끝내다'는 의미입니다."
-        },
-        {
-            "en": "What do I have to do?",
-            "ko": "제가 뭘 해야 하나요?",
-            "description": "'What do I have to do?'는 '무엇을 해야 하나요?'라는 의미입니다."
-        },
-        {
-            "en": "What do I have to start with?",
-            "ko": "무엇부터 시작해야 하나요?",
-            "description": "'start with ~'는 '~부터 시작하다'는 표현입니다."
+            "description": "'make a decision'은 '결정하다'는 표현입니다.",
+            "talk": {
+                "situation": "여러 옵션이 있는 상황에서, 결정의 필요성을 물을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do I have to make a decision, or can we discuss it with the team first?",
+                        "ko": "제가 결정을 내려야 하나요, 아니면 먼저 팀과 상의할 수 있나요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Let's bring it up in the next team meeting and decide together.",
+                        "ko": "다음 팀 회의에서 이야기해 보고 함께 결정합시다."
+                    }
+                ]
+            }
         },
         {
             "en": "How long do I have to wait?",
             "ko": "얼마나 오래 기다려야 하나요?",
-            "description": "'How long do I have to ~?'는 '~하는 데 얼마나 시간이 걸리냐'를 의미합니다."
+            "description": "'How long do I have to ~?'는 '~하는 데 얼마나 시간이 걸리냐'를 의미합니다.",
+            "talk": {
+                "situation": "의사의 진료실에서 대기 시간에 대해 물을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "How long do I have to wait to see the doctor?",
+                        "ko": "의사 선생님을 만나려면 얼마나 기다려야 하나요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "It should be about 30 minutes; we're a bit backed up today.",
+                        "ko": "오늘은 좀 밀려서 대략 30분 정도 기다려야 할 것 같습니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Who do I have to report this problem to?",
             "ko": "이 문제를 누구에게 꼭 보고해야 하나요?",
-            "description": "'report ~ to ~'는 '~을 ~에게 보고하다'는 표현입니다."
+            "description": "'report ~ to ~'는 '~을 ~에게 보고하다'는 표현입니다.",
+            "talk": {
+                "situation": "업무 중 문제가 발생했을 때 적절한 담당자를 찾아보고하려고 할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Who do I have to report this problem to?",
+                        "ko": "이 문제를 누구에게 보고해야 하나요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Please report it to the IT department; they can handle it from there.",
+                        "ko": "IT 부서에 보고해 주세요; 그들이 거기서 처리할 수 있습니다."
+                    }
+                ]
+            }
         },
         {
             "en": "When do I have to submit the assignment?",
             "ko": "과제를 언제까지 제출해야 하나요?",
-            "description": "'submit the assignment'는 '과제를 제출하다'는 표현입니다."
+            "description": "'submit the assignment'는 '과제를 제출하다'는 표현입니다.",
+            "talk": {
+                "situation": "학교에서 과제 제출 기한을 확인할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "When do I have to submit the assignment?",
+                        "ko": "과제를 언제까지 제출해야 하나요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "It's due by next Friday, so you have a week to complete it.",
+                        "ko": "다음 금요일까지 제출해야 하므로, 완성할 시간이 일주일 있습니다."
+                    }
+                ]
+            }
         },
         {
             "en": "What do I have to prepare for the presentation?",
             "ko": "발표를 위해 무엇을 준비해야 하나요?",
-            "description": "'prepare for ~'는 '~을 준비하다', 'presentation'은 '발표'라는 뜻입니다."
+            "description": "'prepare for ~'는 '~을 준비하다', 'presentation'은 '발표'라는 뜻입니다.",
+            "talk": {
+                "situation": "팀 프로젝트 발표 준비에 필요한 사항을 문의할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "What do I have to prepare for the presentation next week?",
+                        "ko": "다음 주 발표를 위해 무엇을 준비해야 하나요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Please prepare the slides and a brief summary of the project outcomes.",
+                        "ko": "슬라이드와 프로젝트 결과에 대한 간단한 요약을 준비해 주세요."
+                    }
+                ]
+            }
         },
         {
             "en": "Why do I have to attend this meeting?",
             "ko": "왜 내가 이 회의에 참석해야 하나요?",
-            "description": "'attend this meeting'은 '이 회의에 참석하다'는 표현입니다."
+            "description": "'attend this meeting'은 '이 회의에 참석하다'는 표현입니다.",
+            "talk": {
+                "situation": "회의의 목적과 자신의 참여 필요성에 대해 물을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Why do I have to attend this meeting?",
+                        "ko": "왜 이 회의에 참석해야 하나요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Your expertise is essential for the discussion on the new project proposal.",
+                        "ko": "새 프로젝트 제안에 대한 논의에 당신의 전문 지식이 필수적입니다."
+                    }
+                ]
+            }
         }
     ],
     "doYouWantTo": [
         {
             "en": "Do you want to come?",
             "ko": "오고 싶어요?",
-            "description": "'Do you want to'는 '~하고 싶나요?'라는 의미이며, 'come'은 '오다'라는 동사입니다."
+            "description": "'Do you want to'는 '~하고 싶나요?'라는 의미이며, 'come'은 '오다'라는 동사입니다.",
+            "talk": {
+                "situation": "파티나 모임에 친구를 초대할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you want to come to the party tonight?",
+                        "ko": "오늘 밤 파티에 오고 싶어요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Sure, that sounds like fun!",
+                        "ko": "그래, 재밌을 것 같아!"
+                    }
+                ]
+            }
         },
         {
             "en": "Do you want to rest?",
             "ko": "쉬고 싶어요?",
-            "description": "'rest'는 '쉬다'라는 뜻으로, 제안이나 의향을 묻는 표현입니다."
+            "description": "'rest'는 '쉬다'라는 뜻으로, 제안이나 의향을 묻는 표현입니다.",
+            "talk": {
+                "situation": "하이킹 중 휴식이 필요해 보이는 친구에게 제안할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you want to rest for a while? You look tired.",
+                        "ko": "잠깐 쉬고 싶어요? 피곤해 보여요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yes, let's take a short break.",
+                        "ko": "응, 잠깐 쉬자."
+                    }
+                ]
+            }
         },
         {
             "en": "Do you want to eat snacks?",
             "ko": "간식 먹을래요?",
-            "description": "'eat snacks'는 '간식을 먹다'를 의미하며, 'want to'는 하고 싶은 행동을 묻습니다."
+            "description": "'eat snacks'는 '간식을 먹다'를 의미하며, 'want to'는 하고 싶은 행동을 묻습니다.",
+            "talk": {
+                "situation": "오후 시간에 일하는 동료에게 간식을 제안할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you want to eat snacks? I brought some cookies.",
+                        "ko": "간식 먹을래요? 쿠키 좀 가져왔어요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "That would be great, thanks!",
+                        "ko": "좋아요, 고마워요!"
+                    }
+                ]
+            }
         },
         {
             "en": "Do you want to grab a coffee?",
             "ko": "커피 한 잔 할래요?",
-            "description": "'grab a coffee'는 '커피를 한 잔 하다'는 표현으로, 일상적인 제안에 자주 쓰입니다."
+            "description": "'grab a coffee'는 '커피를 한 잔 하다'는 표현으로, 일상적인 제안에 자주 쓰입니다.",
+            "talk": {
+                "situation": "동료와의 작업 중 휴식을 제안할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you want to grab a coffee? We could use a break.",
+                        "ko": "커피 한 잔 할래요? 휴식이 필요할 것 같아요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Absolutely, let's go!",
+                        "ko": "당연하지, 가자!"
+                    }
+                ]
+            }
         },
         {
             "en": "Do you want to go for a walk?",
             "ko": "산책하러 갈래요?",
-            "description": "'go for a walk'는 '산책하다'는 의미로, 가벼운 활동 제안입니다."
+            "description": "'go for a walk'는 '산책하다'는 의미로, 가벼운 활동 제안입니다.",
+            "talk": {
+                "situation": "사무실에서 긴 시간 일한 후 신선한 공기를 마시고 싶을 때 제안합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you want to go for a walk? It's really nice outside.",
+                        "ko": "산책하러 갈래요? 밖에 날씨가 정말 좋아요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Sure, a bit of fresh air would be great right now.",
+                        "ko": "좋아요, 지금 신선한 공기가 좀 필요하네요."
+                    }
+                ]
+            }
         },
         {
             "en": "Do you want to watch a movie tonight?",
             "ko": "오늘 밤에 영화 볼래?",
-            "description": "'watch a movie'는 '영화를 보다', 'tonight'는 '오늘 밤'이라는 시간 표현입니다."
+            "description": "'watch a movie'는 '영화를 보다', 'tonight'는 '오늘 밤'이라는 시간 표현입니다.",
+            "talk": {
+                "situation": "저녁 시간을 함께 보내고 싶은 친구에게 제안할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you want to watch a movie tonight? I heard there's a good one playing at the cinema.",
+                        "ko": "오늘 밤에 영화 볼래? 영화관에서 좋은 영화가 한다고 들었어요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "That sounds fun, I'd love to!",
+                        "ko": "재밌겠네요, 좋아요!"
+                    }
+                ]
+            }
         },
         {
             "en": "Do you want to order some food?",
             "ko": "음식 주문할래?",
-            "description": "'order some food'는 '음식을 주문하다'는 표현으로 식사 제안할 때 사용됩니다."
+            "description": "'order some food'는 '음식을 주문하다'는 표현으로 식사 제안할 때 사용됩니다.",
+            "talk": {
+                "situation": "저녁 시간에 집에서 친구와 함께 음식을 주문할 것을 제안할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you want to order some food? Maybe pizza or Chinese?",
+                        "ko": "음식 주문할래? 피자나 중국 음식 어때?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Pizza sounds good, let's order that!",
+                        "ko": "피자 좋아요, 그거 주문합시다!"
+                    }
+                ]
+            }
         },
         {
             "en": "Do you want to take a break?",
             "ko": "잠깐 쉬고 싶어?",
-            "description": "'take a break'는 '휴식을 취하다'는 뜻의 표현입니다."
+            "description": "'take a break'는 '휴식을 취하다'는 뜻의 표현입니다.",
+            "talk": {
+                "situation": "공부나 프로젝트 작업 중 파트너가 지친 것 같을 때 제안합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you want to take a break? We've been at this for hours.",
+                        "ko": "잠깐 쉬고 싶어? 우리 이거 몇 시간째 하고 있어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yeah, a break would be great. Thanks for suggesting!",
+                        "ko": "응, 쉬는 게 좋겠어. 제안해 줘서 고마워!"
+                    }
+                ]
+            }
         },
         {
             "en": "Do you want to know why?",
             "ko": "이유를 알고 싶어요?",
-            "description": "'know why'는 '이유를 알다'라는 뜻이며, 호기심이나 설명을 유도하는 질문입니다."
+            "description": "'know why'는 '이유를 알다'라는 뜻이며, 호기심이나 설명을 유도하는 질문입니다.",
+            "talk": {
+                "situation": "무언가를 설명하기 전에 상대방의 관심을 확인할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you want to know why we need to change the project deadline?",
+                        "ko": "우리가 프로젝트 마감 기한을 왜 바꿔야 하는지 알고 싶어요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yes, please explain. I'm a bit confused about it.",
+                        "ko": "네, 설명해 주세요. 조금 혼란스러워요."
+                    }
+                ]
+            }
         },
         {
             "en": "Do you want to go with me?",
             "ko": "나랑 같이 갈래요?",
-            "description": "'go with me'는 '나와 함께 가다'라는 뜻으로, 동행을 권유하는 표현입니다."
+            "description": "'go with me'는 '나와 함께 가다'라는 뜻으로, 동행을 권유하는 표현입니다.",
+            "talk": {
+                "situation": "이벤트나 행사에 친구를 초대하고자 할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you want to go with me to the concert this weekend?",
+                        "ko": "이번 주말에 콘서트에 나랑 같이 갈래요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "I'd love to! Thanks for inviting me.",
+                        "ko": "좋아요! 초대해 줘서 고마워요."
+                    }
+                ]
+            }
         }
     ],
     "IWantYouTo": [
         {
             "en": "I want you to come.",
             "ko": "나는 니가 오면 좋겠어.",
-            "description": "'you'는 요청의 대상이고, 'to come'은 원하는 행동을 나타냅니다."
+            "description": "'you'는 요청의 대상이고, 'to come'은 원하는 행동을 나타냅니다.",
+            "talk": {
+                "situation": "친구를 자신의 생일 파티에 초대하고 싶을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I want you to come to my birthday party next Saturday. Can you make it?",
+                        "ko": "다음 토요일 내 생일 파티에 오면 좋겠어. 올 수 있어?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Absolutely, I wouldn't miss it for the world!",
+                        "ko": "물론이야, 세상 무엇과도 바꿀 수 없어!"
+                    }
+                ]
+            }
         },
         {
             "en": "I want you to help me with this.",
             "ko": "나는 네가 이것을 도와줬으면 해.",
-            "description": "'help me with this'는 목적어(me)와 전치사구(with this)를 포함한 구조입니다."
+            "description": "'help me with this'는 목적어(me)와 전치사구(with this)를 포함한 구조입니다.",
+            "talk": {
+                "situation": "어려운 프로젝트에서 동료의 도움이 필요할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I want you to help me with this report. I'm really struggling with the data analysis.",
+                        "ko": "이 보고서 좀 도와줬으면 해. 데이터 분석하는 게 정말 힘들어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Of course, let's sit down together and go through it.",
+                        "ko": "물론이지, 같이 앉아서 한번 살펴보자."
+                    }
+                ]
+            }
         },
         {
             "en": "I want you to listen carefully.",
             "ko": "나는 네가 주의 깊게 들어줬으면 좋겠어.",
-            "description": "'listen carefully'는 동사와 부사로 이루어진 구로, 행동의 방식을 나타냅니다."
+            "description": "'listen carefully'는 동사와 부사로 이루어진 구로, 행동의 방식을 나타냅니다.",
+            "talk": {
+                "situation": "중요한 지시사항을 동료에게 전달할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I want you to listen carefully because these instructions are crucial for the next phase of our project.",
+                        "ko": "다음 프로젝트 단계에 꼭 필요한 지시사항이니 주의 깊게 들어줬으면 좋겠어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Understood, I'm all ears.",
+                        "ko": "알겠어, 집중할게."
+                    }
+                ]
+            }
         },
         {
             "en": "I want you to call me when you arrive.",
             "ko": "나는 네가 도착하면 전화해 줬으면 해.",
-            "description": "'call me'는 동사 + 목적어 구조이며, 'when you arrive'는 시간 부사절입니다."
+            "description": "'call me'는 동사 + 목적어 구조이며, 'when you arrive'는 시간 부사절입니다.",
+            "talk": {
+                "situation": "친구가 장거리 여행에서 도착하면 안전을 확인하고자 할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I want you to call me when you arrive, just to make sure you're safe.",
+                        "ko": "도착하면 전화해 줬으면 해, 안전한지 확인하려고."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Will do, I'll give you a ring as soon as I get there.",
+                        "ko": "그럴게, 도착하자마자 바로 전화할게."
+                    }
+                ]
+            }
         },
         {
             "en": "I want you to be honest with me.",
             "ko": "나는 네가 나한테 솔직했으면 좋겠어.",
-            "description": "'be honest with me'는 형용사(honest)를 사용한 상태 표현이며, 'with me'는 대상입니다."
+            "description": "'be honest with me'는 형용사(honest)를 사용한 상태 표현이며, 'with me'는 대상입니다.",
+            "talk": {
+                "situation": "중요한 개인적 또는 전문적 결정을 내릴 때 친구의 솔직한 의견을 구할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I want you to be honest with me about what you think of my business proposal.",
+                        "ko": "내 비즈니스 제안에 대해 솔직하게 의견을 말해줬으면 좋겠어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "I think it's a great idea, but you might need to consider more about the market demand.",
+                        "ko": "좋은 아이디어라고 생각해. 하지만 시장 수요에 대해 좀 더 고려해볼 필요가 있을 거야."
+                    }
+                ]
+            }
         },
         {
             "en": "I want you to stay here.",
             "ko": "나는 네가 여기 남아 있으면 좋겠어.",
-            "description": "'stay here'는 장소 부사 'here'를 사용하여 위치를 나타냅니다."
+            "description": "'stay here'는 장소 부사 'here'를 사용하여 위치를 나타냅니다.",
+            "talk": {
+                "situation": "친구가 위험한 상황을 피하도록 하고자 할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I want you to stay here while I check out what's going on outside.",
+                        "ko": "밖에서 무슨 일이 일어나고 있는지 확인하는 동안 여기 남아 있었으면 해."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Okay, be careful.",
+                        "ko": "알았어, 조심해."
+                    }
+                ]
+            }
         },
         {
             "en": "I want you to eat good food.",
             "ko": "나는 니가 좋은 음식을 먹었으면 좋겠어.",
-            "description": "'eat good food'는 동사 + 형용사 + 명사로 구성된 간단한 목적어 구조입니다."
+            "description": "'eat good food'는 동사 + 형용사 + 명사로 구성된 간단한 목적어 구조입니다.",
+            "talk": {
+                "situation": "친구가 건강을 유지하도록 권장할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I want you to eat good food and take care of your health.",
+                        "ko": "좋은 음식 먹고 건강을 챙겼으면 좋겠어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Thanks for caring, I will.",
+                        "ko": "신경 써줘서 고마워, 그럴게."
+                    }
+                ]
+            }
         },
         {
             "en": "I want you to do me a favor.",
             "ko": "제 부탁을 들어주셨으면 좋겠어요.",
-            "description": "'do me a favor'는 간접목적어(me)와 직접목적어(a favor)를 함께 쓰는 표현입니다."
+            "description": "'do me a favor'는 간접목적어(me)와 직접목적어(a favor)를 함께 쓰는 표현입니다.",
+            "talk": {
+                "situation": "친구에게 작은 도움을 요청할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I want you to do me a favor. Could you help me move this weekend?",
+                        "ko": "제 부탁 하나 들어주셨으면 좋겠어요. 이번 주말에 이사 좀 도와줄 수 있어요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Sure, what time should I come over?",
+                        "ko": "물론이죠, 몇 시에 갈까요?"
+                    }
+                ]
+            }
         },
         {
             "en": "I want you to hurry.",
             "ko": "나는 니가 서둘렀으면 좋겠어.",
-            "description": "'hurry'는 동사로, 추가 요소 없이 단독으로 사용됩니다."
+            "description": "'hurry'는 동사로, 추가 요소 없이 단독으로 사용됩니다.",
+            "talk": {
+                "situation": "친구를 기다리고 있을 때 늦지 않도록 재촉할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I want you to hurry, we're going to be late for the movie.",
+                        "ko": "서둘렀으면 좋겠어, 영화에 늦을 거야."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "I'm leaving right now, I'll be there in 10 minutes!",
+                        "ko": "지금 나가고 있어, 10분 안에 도착할게!"
+                    }
+                ]
+            }
         },
         {
             "en": "I want you to come with me.",
             "ko": "니가 나와 함께 가면 좋겠어.",
-            "description": "'come with me'는 동사 + 전치사구 구조로, 함께 이동함을 나타냅니다."
+            "description": "'come with me'는 동사 + 전치사구 구조로, 함께 이동함을 나타냅니다.",
+            "talk": {
+                "situation": "특별한 이벤트나 활동에 친구를 초대할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I want you to come with me to the art exhibition this weekend. It'll be fun!",
+                        "ko": "이번 주말에 미술 전시회에 나랑 같이 가면 좋겠어. 재밌을 거야!"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "That sounds great! I'd love to go with you.",
+                        "ko": "좋아 보여! 같이 가고 싶어."
+                    }
+                ]
+            }
         },
         {
             "en": "I want you to take care of yourself.",
             "ko": "나는 네가 스스로 건강을 챙겼으면 해.",
-            "description": "'take care of yourself'는 구동사 'take care of'와 재귀대명사 'yourself'로 구성된 표현입니다."
+            "description": "'take care of yourself'는 구동사 'take care of'와 재귀대명사 'yourself'로 구성된 표현입니다.",
+            "talk": {
+                "situation": "친구가 건강에 문제가 있을 때 걱정되어 강조할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I want you to take care of yourself, especially now that you're recovering from the flu.",
+                        "ko": "네가 스스로 건강을 챙겼으면 해, 특히 독감에서 회복 중일 때는 더욱."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Thanks for your concern. I'll make sure to rest well.",
+                        "ko": "걱정해줘서 고마워. 충분히 쉬도록 할게."
+                    }
+                ]
+            }
         },
         {
             "en": "I want you to apologize to her.",
             "ko": "나는 네가 그녀에게 사과했으면 해.",
-            "description": "'apologize to her'는 동사와 전치사구를 사용해 사과의 대상을 나타냅니다."
+            "description": "'apologize to her'는 동사와 전치사구를 사용해 사과의 대상을 나타냅니다.",
+            "talk": {
+                "situation": "친구가 다른 친구와 갈등을 겪었을 때 중재하고자 할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I want you to apologize to her. It was a misunderstanding, and clearing it up will help.",
+                        "ko": "그녀에게 사과했으면 해. 오해였어, 그리고 해명하면 도움이 될 거야."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "You're right, I'll talk to her today.",
+                        "ko": "맞아, 오늘 그녀에게 말할게."
+                    }
+                ]
+            }
         },
         {
             "en": "I want you to stop worrying.",
             "ko": "나는 네가 걱정하는 걸 멈췄으면 좋겠어.",
-            "description": "'stop worrying'은 동사(stop) 뒤에 동명사(worrying)가 오는 구조입니다."
+            "description": "'stop worrying'은 동사(stop) 뒤에 동명사(worrying)가 오는 구조입니다.",
+            "talk": {
+                "situation": "친구가 지나치게 걱정을 할 때 안심시키고자 할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I want you to stop worrying about the job interview. You're well prepared.",
+                        "ko": "면접에 대해 걱정하는 걸 멈췄으면 좋겠어. 넌 잘 준비했어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Thanks, I needed to hear that. I'll do my best.",
+                        "ko": "고마워, 그 말을 들어야만 했어. 최선을 다할게."
+                    }
+                ]
+            }
         },
         {
             "en": "I want you to finish it by this week.",
             "ko": "니가 이번주까지 그걸 끝냈으면 좋겠어.",
-            "description": "'finish it'은 동사 + 목적어 구조이고, 'by this week'는 기한을 나타내는 시간 표현입니다."
+            "description": "'finish it'은 동사 + 목적어 구조이고, 'by this week'는 기한을 나타내는 시간 표현입니다.",
+            "talk": {
+                "situation": "팀 프로젝트의 마감일이 다가올 때 팀원에게 완료를 재촉할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I want you to finish it by this week so we can review everything together on Friday.",
+                        "ko": "이번 주까지 그걸 끝냈으면 해서 우리가 금요일에 모든 걸 함께 검토할 수 있어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Understood. I'll ensure it's done on time.",
+                        "ko": "알겠어. 시간 맞춰서 꼭 끝낼게."
+                    }
+                ]
+            }
         }
     ],
     "wouldYouLike": [
         {
             "en": "Would you like a drink?",
             "ko": "마실 것 드릴까요?",
-            "description": "'Would you like ~?'는 정중한 제안 표현이며, 'a drink'는 '한 잔 마실 것'을 의미합니다."
+            "description": "'Would you like ~?'는 정중한 제안 표현이며, 'a drink'는 '한 잔 마실 것'을 의미합니다.",
+            "talk": {
+                "situation": "친구를 집으로 초대했을 때 음료를 제공하고자 할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you like a drink? I have coffee, tea, or maybe some soda.",
+                        "ko": "마실 것 드릴까요? 커피, 차, 혹은 소다도 있어요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "A cup of tea would be lovely, thank you.",
+                        "ko": "차 한 잔 주시면 좋겠네요, 감사합니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you like some coffee?",
             "ko": "커피 좀 드실래요?",
-            "description": "'some coffee'는 '약간의 커피'를 뜻하며, 부드럽고 공손한 권유 표현입니다."
+            "description": "'some coffee'는 '약간의 커피'를 뜻하며, 부드럽고 공손한 권유 표현입니다.",
+            "talk": {
+                "situation": "회의 중에 참석자들에게 커피를 제안할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you like some coffee before we start?",
+                        "ko": "시작하기 전에 커피 좀 드실래요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yes, please. That would be great.",
+                        "ko": "네, 좋습니다. 정말 좋을 것 같아요."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you like a glass of water?",
             "ko": "물 한 잔 드릴까요?",
-            "description": "'a glass of water'는 '물 한 잔'이라는 표현이며, 요청이나 권유할 때 사용됩니다."
+            "description": "'a glass of water'는 '물 한 잔'이라는 표현이며, 요청이나 권유할 때 사용됩니다.",
+            "talk": {
+                "situation": "누군가가 방문했을 때 기본적인 대접을 제공할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you like a glass of water while you wait?",
+                        "ko": "기다리시는 동안 물 한 잔 드릴까요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yes, thank you. That would be nice.",
+                        "ko": "네, 감사합니다. 좋겠네요."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you like some help?",
             "ko": "도움이 필요하세요?",
-            "description": "'some help'는 '약간의 도움'을 의미하며, 정중하게 도움을 제안할 때 쓰입니다."
+            "description": "'some help'는 '약간의 도움'을 의미하며, 정중하게 도움을 제안할 때 쓰입니다.",
+            "talk": {
+                "situation": "친구가 집 이사를 할 때 도움을 제공하고 싶을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you like some help packing? I'm free this afternoon.",
+                        "ko": "짐 싸는 데 도움이 필요하세요? 저는 오늘 오후에 시간이 있어요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "That would be really helpful, thank you!",
+                        "ko": "정말 도움이 될 것 같아요, 감사합니다!"
+                    }
+                ]
+            }
         },
         {
             "en": "Would you like to go on?",
             "ko": "계속하시겠습니까?",
-            "description": "'to go on'은 '계속하다'를 뜻하는 표현이며, 진행 의사를 공손하게 묻는 말입니다."
+            "description": "'to go on'은 '계속하다'를 뜻하는 표현이며, 진행 의사를 공손하게 묻는 말입니다.",
+            "talk": {
+                "situation": "회의 또는 프레젠테이션 중 발표자에게 다음 주제로 넘어갈 준비가 되었는지 물어볼 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you like to go on with the next part of your presentation?",
+                        "ko": "프레젠테이션의 다음 부분으로 계속하시겠습니까?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yes, I'll proceed. Thank you.",
+                        "ko": "네, 계속하겠습니다. 감사합니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you like to try this new dish?",
             "ko": "이 새로운 요리를 드셔 보시겠어요?",
-            "description": "'to try'는 '시도하다/먹어보다'는 뜻이고, 'this new dish'는 '이 새로운 요리'를 말합니다."
+            "description": "'to try'는 '시도하다/먹어보다'는 뜻이고, 'this new dish'는 '이 새로운 요리'를 말합니다.",
+            "talk": {
+                "situation": "레스토랑에서 친구나 고객에게 새로운 요리를 추천할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you like to try this new dish? It's our chef's special for today.",
+                        "ko": "이 새로운 요리를 드셔 보시겠어요? 오늘의 셰프 특선이에요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "That sounds intriguing. I'll give it a try.",
+                        "ko": "흥미로워 보여요. 한 번 먹어볼게요."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you like some dessert after your meal?",
             "ko": "식사 후에 디저트 드시겠어요?",
-            "description": "'some dessert'는 '약간의 디저트', 'after your meal'은 '식사 후에'라는 시간 표현입니다."
+            "description": "'some dessert'는 '약간의 디저트', 'after your meal'은 '식사 후에'라는 시간 표현입니다.",
+            "talk": {
+                "situation": "식사를 마친 손님에게 디저트를 제안할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you like some dessert after your meal? Perhaps some cheesecake or fruit salad?",
+                        "ko": "식사 후에 디저트 드시겠어요? 치즈케이크나 과일 샐러드는 어떠세요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Cheesecake sounds perfect, thank you.",
+                        "ko": "치즈케이크 좋네요, 감사합니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you like anything else?",
             "ko": "더 필요한 것 있으세요?",
-            "description": "'anything else'는 '그 외 다른 것'을 의미하며, 추가적인 요청 여부를 묻는 정중한 표현입니다."
+            "description": "'anything else'는 '그 외 다른 것'을 의미하며, 추가적인 요청 여부를 묻는 정중한 표현입니다.",
+            "talk": {
+                "situation": "호텔의 리셉션에서 체크인 후 손님의 추가 요구사항을 확인할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you like anything else? Extra towels or perhaps a morning wake-up call?",
+                        "ko": "더 필요한 것 있으세요? 추가 수건이나 아침에 알람 서비스를 원하시나요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "A wake-up call at 7 AM would be great, thanks.",
+                        "ko": "오전 7시에 알람 부탁드려요, 감사합니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you like to watch a movie with me?",
             "ko": "저와 함께 영화 보실래요?",
-            "description": "'to watch a movie with me'는 '나와 함께 영화보다'라는 의미로 초대나 제안 시 사용됩니다."
+            "description": "'to watch a movie with me'는 '나와 함께 영화보다'라는 의미로 초대나 제안 시 사용됩니다.",
+            "talk": {
+                "situation": "친구를 집에 초대하여 함께 영화를 보고자 할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you like to watch a movie with me tonight? I've got a few new films we could see.",
+                        "ko": "오늘 밤 저와 함께 영화 보실래요? 볼만한 새 영화 몇 개 있어요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "That sounds like a perfect plan for the evening. I'm in!",
+                        "ko": "저녁 계획으로 딱 좋네요. 저도 참여할게요!"
+                    }
+                ]
+            }
         },
         {
             "en": "Would you like to visit our office next week?",
             "ko": "다음 주에 저희 사무실을 방문하시겠어요?",
-            "description": "'to visit our office'는 '우리 사무실을 방문하다', 'next week'은 시간 표현입니다."
+            "description": "'to visit our office'는 '우리 사무실을 방문하다', 'next week'은 시간 표현입니다.",
+            "talk": {
+                "situation": "비즈니스 파트너에게 회사 사무실 방문을 제안할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you like to visit our office next week? We could discuss the project details in person.",
+                        "ko": "다음 주에 저희 사무실을 방문하시겠어요? 프로젝트 세부 사항을 직접 논의할 수 있습니다."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yes, that would be very helpful. I'll arrange my schedule.",
+                        "ko": "네, 그게 도움이 될 것 같습니다. 제 일정을 조정하겠습니다."
+                    }
+                ]
+            }
         }
     ],
     "WouldYouMind": [
         {
             "en": "Would you mind checking it?",
             "ko": "그것 좀 확인해 주시겠어요?",
-            "description": "'checking it'은 동명사 + 목적어 구조로, 공손하게 확인해 달라는 요청입니다."
+            "description": "'checking it'은 동명사 + 목적어 구조로, 공손하게 확인해 달라는 요청입니다.",
+            "talk": {
+                "situation": "문서의 내용에 오류가 없는지 동료에게 검토를 부탁할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you mind checking this report for any errors before we submit it?",
+                        "ko": "제출하기 전에 이 보고서에서 오류가 없는지 확인해 주시겠어요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Not at all, I'll review it right now.",
+                        "ko": "물론이죠, 지금 바로 검토하겠습니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you mind moving your car now?",
             "ko": "지금 차 좀 빼주시겠어요?",
-            "description": "'moving your car now'는 동명사구로, 동작의 시점은 'now'로 나타냅니다."
+            "description": "'moving your car now'는 동명사구로, 동작의 시점은 'now'로 나타냅니다.",
+            "talk": {
+                "situation": "누군가의 차량이 출입구를 막고 있을 때 부탁할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you mind moving your car now? It's blocking the driveway.",
+                        "ko": "지금 차 좀 빼주시겠어요? 출입구를 막고 있어서요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Oh, I'm sorry about that. I'll move it immediately.",
+                        "ko": "아, 죄송합니다. 바로 옮기겠습니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you mind calling back in 5 minutes?",
             "ko": "5분 뒤에 다시 전화해주시겠어요?",
-            "description": "'calling back in 5 minutes'는 '5분 후에 다시 전화하다'라는 의미의 동명사구입니다."
+            "description": "'calling back in 5 minutes'는 '5분 후에 다시 전화하다'라는 의미의 동명사구입니다.",
+            "talk": {
+                "situation": "현재 통화하기 어려운 상황에서 상대방에게 잠시 후 다시 전화하기를 요청할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you mind calling back in 5 minutes? I'm just finishing up something important.",
+                        "ko": "5분 뒤에 다시 전화해주시겠어요? 지금 중요한 일을 마무리 중이에요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Sure, I'll call you back in 5 minutes.",
+                        "ko": "네, 5분 후에 다시 전화 드리겠습니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you mind giving me the salt?",
             "ko": "소금 좀 건네주시겠어요?",
-            "description": "'giving me the salt'는 '나에게 소금을 주다'라는 구조로, 간접목적어와 직접목적어를 함께 사용합니다."
+            "description": "'giving me the salt'는 '나에게 소금을 주다'라는 구조로, 간접목적어와 직접목적어를 함께 사용합니다.",
+            "talk": {
+                "situation": "식탁에서 소금을 달라고 요청할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you mind giving me the salt? It's just out of my reach.",
+                        "ko": "소금 좀 건네주시겠어요? 제가 닿지 않아서요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Here you go, anything else you need?",
+                        "ko": "여기 있습니다, 다른 거 필요한 거 있나요?"
+                    }
+                ]
+            }
         },
         {
             "en": "Would you mind turning down the music?",
             "ko": "음악 좀 줄여주시겠어요?",
-            "description": "'turning down the music'는 구동사 'turn down'을 사용한 동명사 표현입니다."
+            "description": "'turning down the music'는 구동사 'turn down'을 사용한 동명사 표현입니다.",
+            "talk": {
+                "situation": "음악 소리가 너무 커서 조금 줄여달라고 요청할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you mind turning down the music a bit? It's quite loud.",
+                        "ko": "음악 소리 좀 줄여주시겠어요? 좀 크네요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Of course, I'll lower it right now.",
+                        "ko": "물론이죠, 바로 줄이겠습니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you mind speaking a little louder?",
             "ko": "좀 더 크게 말씀해주시겠어요?",
-            "description": "'speaking a little louder'는 '더 큰 목소리로 말하다'라는 뜻의 동명사구입니다."
+            "description": "'speaking a little louder'는 '더 큰 목소리로 말하다'라는 뜻의 동명사구입니다.",
+            "talk": {
+                "situation": "상대방의 목소리가 작아 들리지 않을 때 더 크게 말해달라고 부탁할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you mind speaking a little louder? It's hard to hear you over the noise here.",
+                        "ko": "좀 더 크게 말씀해주시겠어요? 여기 소음 때문에 잘 안 들려요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Sure, I'll try to speak up.",
+                        "ko": "네, 좀 더 크게 말할게요."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you mind opening the window?",
             "ko": "창문 좀 열어 주시겠어요?",
-            "description": "'opening the window'는 '창문을 열다'라는 의미의 기본 동명사 구조입니다."
+            "description": "'opening the window'는 '창문을 열다'라는 의미의 기본 동명사 구조입니다.",
+            "talk": {
+                "situation": "실내 공기가 답답할 때 창문을 열어달라고 요청할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you mind opening the window? It's getting a bit stuffy in here.",
+                        "ko": "창문 좀 열어 주시겠어요? 여기 안이 좀 답답해지고 있어요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "No problem, I'll open it now.",
+                        "ko": "문제 없어요, 지금 열게요."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you mind turning down the volume?",
             "ko": "볼륨 좀 줄여 주시겠어요?",
-            "description": "'turning down the volume'는 '볼륨을 줄이다'라는 구동사를 동명사로 표현한 구조입니다."
+            "description": "'turning down the volume'는 '볼륨을 줄이다'라는 구동사를 동명사로 표현한 구조입니다.",
+            "talk": {
+                "situation": "TV나 라디오의 소리가 너무 커서 주변에 방해가 될 때 부탁할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you mind turning down the volume? I'm trying to concentrate on my work.",
+                        "ko": "볼륨 좀 줄여 주시겠어요? 제가 일에 집중하려고 해요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Oh, sorry for the disturbance. I'll adjust it right away.",
+                        "ko": "아, 방해해서 죄송합니다. 바로 조정할게요."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you mind waiting a few more minutes?",
             "ko": "몇 분만 더 기다려 주시겠어요?",
-            "description": "'waiting a few more minutes'는 기다리는 시간을 'a few more minutes'로 명시한 동명사구입니다."
+            "description": "'waiting a few more minutes'는 기다리는 시간을 'a few more minutes'로 명시한 동명사구입니다.",
+            "talk": {
+                "situation": "약속 시간에 약간 늦을 때 상대방에게 조금 더 기다려달라고 요청할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you mind waiting a few more minutes? I'm almost there.",
+                        "ko": "몇 분만 더 기다려 주시겠어요? 거의 다 왔어요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "No problem, take your time.",
+                        "ko": "문제 없어요, 천천히 오세요."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you mind sending me the file again?",
             "ko": "그 파일 다시 보내 주시겠어요?",
-            "description": "'sending me the file again'은 간접목적어(me)와 직접목적어(the file)를 함께 사용한 구조입니다."
+            "description": "'sending me the file again'은 간접목적어(me)와 직접목적어(the file)를 함께 사용한 구조입니다.",
+            "talk": {
+                "situation": "이메일로 받아야 할 파일이 도착하지 않았을 때 다시 보내달라고 요청할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you mind sending me the project file again? I don't seem to have received it.",
+                        "ko": "그 프로젝트 파일 다시 보내 주시겠어요? 받은 것 같지 않아요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Sure, I'll resend it right now.",
+                        "ko": "네, 지금 다시 보내드릴게요."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you mind closing the door behind you?",
             "ko": "들어오면서 문 좀 닫아 주시겠어요?",
-            "description": "'closing the door behind you'는 '뒤로 문을 닫다'는 전치사구를 포함한 동명사구입니다."
+            "description": "'closing the door behind you'는 '뒤로 문을 닫다'는 전치사구를 포함한 동명사구입니다.",
+            "talk": {
+                "situation": "누군가가 방에 들어올 때 바깥쪽 소음이나 추위로 인해 문을 닫아달라고 요청할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you mind closing the door behind you? It's quite chilly outside.",
+                        "ko": "들어오면서 문 좀 닫아 주시겠어요? 밖이 꽤 춥네요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Of course, sorry for leaving it open.",
+                        "ko": "물론이요, 열어놓고 미안합니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you mind not smoking here?",
             "ko": "여기서 담배 안 피워 주시겠어요?",
-            "description": "'not smoking here'는 부정형 동명사 구조로, 금지 요청을 부드럽게 표현합니다."
+            "description": "'not smoking here'는 부정형 동명사 구조로, 금지 요청을 부드럽게 표현합니다.",
+            "talk": {
+                "situation": "비흡연 구역에서 누군가가 담배를 피울 때 부탁할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you mind not smoking here? It's a non-smoking area.",
+                        "ko": "여기서 담배 안 피워 주시겠어요? 금연 구역이거든요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Oh, I didn't notice. I'll step outside, thanks for letting me know.",
+                        "ko": "아, 몰랐네요. 밖으로 나가겠습니다. 알려주셔서 감사합니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you mind explaining that again?",
             "ko": "그거 다시 한 번 설명해 주시겠어요?",
-            "description": "'explaining that again'은 '다시 설명하다'는 동작을 동명사로 표현한 구조입니다."
+            "description": "'explaining that again'은 '다시 설명하다'는 동작을 동명사로 표현한 구조입니다.",
+            "talk": {
+                "situation": "회의나 강의에서 어떤 개념이나 지시사항을 명확히 이해하지 못했을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you mind explaining that again? I didn't quite catch the last part.",
+                        "ko": "그거 다시 한 번 설명해 주시겠어요? 마지막 부분을 잘 못 알아들었어요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Of course, I'll go over it one more time.",
+                        "ko": "물론이죠, 다시 한 번 설명하겠습니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you mind if I used your phone for a second?",
             "ko": "잠깐 네 폰 좀 써도 될까요?",
-            "description": "'if I used your phone for a second'는 'Would you mind if ~?' 구문에서 조건절을 사용한 문장입니다."
+            "description": "'if I used your phone for a second'는 'Would you mind if ~?' 구문에서 조건절을 사용한 문장입니다.",
+            "talk": {
+                "situation": "자신의 휴대폰이 배터리가 다 되어 긴급하게 다른 사람의 휴대폰을 사용해야 할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you mind if I used your phone for a second? Mine just died, and I need to make an urgent call.",
+                        "ko": "잠깐 네 폰 좀 써도 될까요? 제 폰이 방금 꺼져서 급한 전화를 해야 해요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Not at all, go ahead.",
+                        "ko": "전혀요, 사용하세요."
+                    }
+                ]
+            }
         },
         {
             "en": "Would you mind if I sat here?",
             "ko": "여기 앉아도 괜찮을까요?",
-            "description": "'if I sat here'는 가정법 과거로, 정중하게 허락을 구하는 표현입니다."
+            "description": "'if I sat here'는 가정법 과거로, 정중하게 허락을 구하는 표현입니다.",
+            "talk": {
+                "situation": "공공장소나 행사에서 빈 자리를 발견했을 때 그 자리에 앉아도 되는지 물어볼 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Would you mind if I sat here? It looks like one of the few spots left.",
+                        "ko": "여기 앉아도 괜찮을까요? 남은 자리 중 하나인 것 같아요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Not at all, please take a seat.",
+                        "ko": "괜찮습니다, 앉으세요."
+                    }
+                ]
+            }
         }
     ],
     "doYouHaveAny": [
         {
             "en": "Do you have any questions?",
             "ko": "질문 있으신가요?",
-            "description": "'Do you have'는 '~을 가지고 있나요?'를 뜻하고, 'any questions'는 '어떤 질문이라도'라는 의미로 의문문에서 사용됩니다."
+            "description": "'Do you have'는 '~을 가지고 있나요?'를 뜻하고, 'any questions'는 '어떤 질문이라도'라는 의미로 의문문에서 사용됩니다.",
+            "talk": {
+                "situation": "회의나 프레젠테이션 후에 참석자들에게 질문이 있는지 확인할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you have any questions about the material we just covered?",
+                        "ko": "방금 다룬 내용에 대해 질문 있으신가요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yes, could you explain the last part again?",
+                        "ko": "네, 마지막 부분 다시 설명해주실 수 있나요?"
+                    }
+                ]
+            }
         },
         {
             "en": "Do you have any plans?",
             "ko": "계획이 있으신가요?",
-            "description": "'plans(계획들)'은 복수 명사로, 'any'와 함께 사용되어 '어떤 계획이라도'를 뜻합니다."
+            "description": "'plans(계획들)'은 복수 명사로, 'any'와 함께 사용되어 '어떤 계획이라도'를 뜻합니다.",
+            "talk": {
+                "situation": "친구와의 주말 계획을 논의할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you have any plans for the weekend?",
+                        "ko": "주말 계획 있으신가요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Not really, I'm pretty free. What's up?",
+                        "ko": "별로요, 꽤 자유로워요. 무슨 일이세요?"
+                    }
+                ]
+            }
         },
         {
             "en": "Do you have any good ideas?",
             "ko": "좋은 아이디어 있으신가요?",
-            "description": "'good ideas'는 '좋은 생각들'이라는 뜻으로, 'any'는 가능한 모든 것을 묻는 표현입니다."
+            "description": "'good ideas'는 '좋은 생각들'이라는 뜻으로, 'any'는 가능한 모든 것을 묻는 표현입니다.",
+            "talk": {
+                "situation": "팀 미팅에서 프로젝트 아이디어를 물어볼 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you have any good ideas for our new marketing campaign?",
+                        "ko": "새 마케팅 캠페인에 대한 좋은 아이디어 있으신가요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "I was thinking about a social media challenge that could go viral.",
+                        "ko": "바이럴 될 수 있는 소셜 미디어 챌린지에 대해 생각 중이었습니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Do you have any time this afternoon?",
             "ko": "오늘 오후에 시간 좀 있으세요?",
-            "description": "'any time'은 '시간이 좀이라도 있나요?'라는 뜻으로, 공손한 질문 표현입니다."
+            "description": "'any time'은 '시간이 좀이라도 있나요?'라는 뜻으로, 공손한 질문 표현입니다.",
+            "talk": {
+                "situation": "동료에게 오후에 짧은 회의를 제안할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you have any time this afternoon to discuss the project update?",
+                        "ko": "오늘 오후에 프로젝트 업데이트에 대해 논의할 시간 좀 있으세요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yes, I can make some time around 3 PM.",
+                        "ko": "네, 오후 3시쯤 시간을 만들 수 있어요."
+                    }
+                ]
+            }
         },
         {
             "en": "Do you have any updates on the project?",
             "ko": "그 프로젝트 관련해서 새 소식 있나요?",
-            "description": "'updates on the project'는 '프로젝트에 대한 최신 소식'을 의미합니다."
+            "description": "'updates on the project'는 '프로젝트에 대한 최신 소식'을 의미합니다.",
+            "talk": {
+                "situation": "프로젝트 관리자에게 프로젝트의 진행 상황을 업데이트 받을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you have any updates on the project? Our client is asking for a progress report.",
+                        "ko": "그 프로젝트 관련해서 새 소식 있나요? 고객이 진행 상황 보고서를 요청하고 있어요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yes, I've just completed the latest analysis. I'll send it over in a few minutes.",
+                        "ko": "네, 최신 분석을 막 완료했습니다. 몇 분 내로 보내드리겠습니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Do you have any regrets?",
             "ko": "후회되는 게 있나요?",
-            "description": "'regrets'는 복수형으로, '후회들'이라는 뜻이며, 감정 표현을 묻는 질문입니다."
+            "description": "'regrets'는 복수형으로, '후회들'이라는 뜻이며, 감정 표현을 묻는 질문입니다.",
+            "talk": {
+                "situation": "개인적인 대화에서 깊은 주제를 탐구할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you have any regrets about moving abroad?",
+                        "ko": "해외로 이주한 것에 대해 후회되는 게 있나요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Sometimes, I miss my family, but I've learned a lot living here.",
+                        "ko": "가끔 가족이 그리워요, 하지만 여기서 많은 것을 배웠어요."
+                    }
+                ]
+            }
         },
         {
             "en": "Do you have any kids?",
             "ko": "아이가 있으세요?",
-            "description": "'kids'는 '아이들'이라는 뜻으로, 복수형에 'any'를 사용하여 자녀 유무를 묻습니다."
+            "description": "'kids'는 '아이들'이라는 뜻으로, 복수형에 'any'를 사용하여 자녀 유무를 묻습니다.",
+            "talk": {
+                "situation": "새로운 이웃이나 동료에 대해 알아갈 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you have any kids?",
+                        "ko": "아이가 있으세요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yes, I have two daughters. They're in elementary school.",
+                        "ko": "네, 딸 두 명이 있어요. 그들은 초등학교에 다니고 있습니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Do you have any allergies?",
             "ko": "혹시 알레르기 있으세요?",
-            "description": "'allergies'는 복수형으로, '어떤 알레르기라도 있나요?'라는 건강 상태를 묻는 표현입니다."
+            "description": "'allergies'는 복수형으로, '어떤 알레르기라도 있나요?'라는 건강 상태를 묻는 표현입니다.",
+            "talk": {
+                "situation": "식당에서 고객의 건강을 고려하여 주문을 받을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you have any allergies we should be aware of before you order?",
+                        "ko": "주문하시기 전에 우리가 알아야 할 알레르기가 있으세요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yes, I'm allergic to peanuts.",
+                        "ko": "네, 저는 땅콩에 알레르기가 있어요."
+                    }
+                ]
+            }
         },
         {
             "en": "Do you have any experience?",
             "ko": "어떤 경험이 있나요?",
-            "description": "'experience'는 불가산 명사지만, 'any'와 함께 사용되어 '조금이라도 경험이 있나요?'라는 뜻입니다."
+            "description": "'experience'는 불가산 명사지만, 'any'와 함께 사용되어 '조금이라도 경험이 있나요?'라는 뜻입니다.",
+            "talk": {
+                "situation": "채용 면접에서 지원자의 경력을 질문할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you have any experience in digital marketing?",
+                        "ko": "디지털 마케팅 경험이 있나요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yes, I've worked in digital marketing for over five years.",
+                        "ko": "네, 저는 디지털 마케팅 분야에서 5년 이상 일했습니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Do you have any messages for her?",
             "ko": "그녀에게 전할 메시지가 있나요?",
-            "description": "'messages for her'는 '그녀를 위한 메시지들'이라는 뜻으로 전달할 말이 있는지 묻는 표현입니다."
+            "description": "'messages for her'는 '그녀를 위한 메시지들'이라는 뜻으로 전달할 말이 있는지 묻는 표현입니다.",
+            "talk": {
+                "situation": "친구가 다른 친구에게 메시지를 전달하고자 할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you have any messages for her before I see her later today?",
+                        "ko": "나중에 그녀를 만나기 전에 그녀에게 전할 메시지가 있나요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yes, could you please tell her to call me?",
+                        "ko": "네, 그녀에게 저에게 전화하라고 전해 주시겠어요?"
+                    }
+                ]
+            }
         },
         {
             "en": "Do you have any problem with that?",
             "ko": "그것에 무슨 문제가 있나요?",
-            "description": "'problem with that'은 '~에 문제가 있나요?'를 의미하며, 의견이나 동의를 묻는 질문입니다."
+            "description": "'problem with that'은 '~에 문제가 있나요?'를 의미하며, 의견이나 동의를 묻는 질문입니다.",
+            "talk": {
+                "situation": "회의에서 제안한 계획에 대해 동료들의 의견을 물을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you have any problem with the proposed schedule?",
+                        "ko": "제안된 일정에 문제가 있나요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "No, it looks good to me.",
+                        "ko": "아니요, 저는 괜찮습니다."
+                    }
+                ]
+            }
         },
         {
             "en": "Do you have any rooms available tonight?",
             "ko": "오늘 밤 빈 방 있나요?",
-            "description": "'rooms available'은 '이용 가능한 방들'이라는 뜻으로, 숙소 예약 시 자주 쓰이는 표현입니다."
+            "description": "'rooms available'은 '이용 가능한 방들'이라는 뜻으로, 숙소 예약 시 자주 쓰이는 표현입니다.",
+            "talk": {
+                "situation": "호텔에 도착한 고객이 프런트 데스크에서 빈 방의 유무를 확인할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you have any rooms available tonight?",
+                        "ko": "오늘 밤 빈 방 있나요?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yes, we have several rooms available. Would you like a single or a double?",
+                        "ko": "네, 여러 방이 비어 있습니다. 싱글룸이나 더블룸 원하시나요?"
+                    }
+                ]
+            }
         },
         {
             "en": "Do you have any bread left?",
             "ko": "빵 좀 남았나요?",
-            "description": "'bread left'는 '남아 있는 빵'을 의미하며, 남은 양을 확인하는 질문입니다."
+            "description": "'bread left'는 '남아 있는 빵'을 의미하며, 남은 양을 확인하는 질문입니다.",
+            "talk": {
+                "situation": "빵집에서 하루 말에 남아 있는 빵을 확인하고자 할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Do you have any bread left? I was hoping to pick up a loaf of sourdough.",
+                        "ko": "빵 좀 남았나요? 사워도우 빵 한 덩어리 사고 싶어서요."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yes, we have a few loaves left. I'll get one for you.",
+                        "ko": "네, 몇 덩어리 남았습니다. 하나 가져다 드릴게요."
+                    }
+                ]
+            }
         }
     ],
     "iWanna": [
         {
             "ko": "집에 가고 싶어.",
             "en": "I wanna go home.",
-            "description": "'I wanna'는 'I want to'의 줄임말이며, 'go home'은 '집에 가다'는 표현입니다."
+            "description": "'I wanna'는 'I want to'의 줄임말이며, 'go home'은 '집에 가다'는 표현입니다.",
+            "talk": {
+                "situation": "피곤한 하루 끝에 친구에게 집에 가고 싶다고 말할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I'm really tired. I wanna go home and rest.",
+                        "ko": "정말 피곤해. 집에 가서 쉬고 싶어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yeah, today was exhausting. Let's call it a day.",
+                        "ko": "응, 오늘 일이 많았어. 오늘은 이만 해야겠다."
+                    }
+                ]
+            }
         },
         {
             "ko": "나는 여행을 가고 싶어.",
             "en": "I wanna go on a trip.",
-            "description": "'go on a trip'은 '여행을 가다'는 표현으로 자주 쓰입니다."
+            "description": "'go on a trip'은 '여행을 가다'는 표현으로 자주 쓰입니다.",
+            "talk": {
+                "situation": "친구와 주말 계획을 논의하면서 여행을 제안할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I've been feeling stuck lately. I wanna go on a trip this weekend.",
+                        "ko": "요즘 좀 막힌 기분이야. 이번 주말에 여행 가고 싶어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "That sounds like a great idea. Where should we go?",
+                        "ko": "좋은 생각이야. 어디로 갈까?"
+                    }
+                ]
+            }
         },
         {
             "ko": "나 일 그만두고 싶어.",
             "en": "I wanna quit my job.",
-            "description": "'quit my job'은 '내 일을 그만두다'는 의미입니다."
+            "description": "'quit my job'은 '내 일을 그만두다'는 의미입니다.",
+            "talk": {
+                "situation": "스트레스 받는 직장 상황을 친구에게 토로하면서 그만두고 싶다고 말할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I can't handle the pressure anymore. I wanna quit my job.",
+                        "ko": "더 이상 압박을 견딜 수 없어. 나 일 그만두고 싶어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "That sounds tough. Have you thought about what you'll do next?",
+                        "ko": "힘들겠다. 다음에 뭘 할지 생각해 봤어?"
+                    }
+                ]
+            }
         },
         {
             "ko": "달달한 거 먹고 싶어.",
             "en": "I wanna eat something sweet.",
-            "description": "'eat something sweet'은 '달콤한 것을 먹다'는 의미로, 구체적 욕구 표현입니다."
+            "description": "'eat something sweet'은 '달콤한 것을 먹다'는 의미로, 구체적 욕구 표현입니다.",
+            "talk": {
+                "situation": "저녁 식사 후 디저트를 선택할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I wanna eat something sweet. Maybe some ice cream or cake?",
+                        "ko": "달달한 거 먹고 싶어. 아이스크림이나 케이크 어때?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Ice cream sounds good. Let's get some!",
+                        "ko": "아이스크림 좋아. 가서 사자!"
+                    }
+                ]
+            }
         },
         {
             "ko": "오늘 밤 영화 보고 싶어.",
             "en": "I wanna watch a movie tonight.",
-            "description": "'watch a movie'는 '영화를 보다', 'tonight'은 시간 표현입니다."
+            "description": "'watch a movie'는 '영화를 보다', 'tonight'은 시간 표현입니다.",
+            "talk": {
+                "situation": "친구와의 여가 시간을 계획하면서 영화 관람을 제안할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I wanna watch a movie tonight. Are you interested?",
+                        "ko": "오늘 밤 영화 보고 싶어. 관심 있어?"
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Sure, what's playing?",
+                        "ko": "좋아, 뭐 하고 있어?"
+                    }
+                ]
+            }
         },
         {
             "ko": "낮잠 좀 자고 싶어.",
             "en": "I wanna take a nap.",
-            "description": "'take a nap'은 '낮잠 자다'는 표현입니다."
+            "description": "'take a nap'은 '낮잠 자다'는 표현입니다.",
+            "talk": {
+                "situation": "피곤한 오후를 보내고 있는 동안 동료에게 낮잠을 자고 싶다고 말할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I'm so sleepy after lunch. I wanna take a nap.",
+                        "ko": "점심 먹고 나니까 너무 졸려. 낮잠 좀 자고 싶어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Yeah, a quick power nap might help us recharge.",
+                        "ko": "그래, 잠깐 낮잠 자면 다시 에너지를 얻을 수 있을 거야."
+                    }
+                ]
+            }
         },
         {
             "ko": "나는 새 핸드폰을 사고 싶어.",
             "en": "I wanna buy a new cell phone.",
-            "description": "'buy a new cell phone'은 '새 휴대폰을 사다'는 의미입니다."
+            "description": "'buy a new cell phone'은 '새 휴대폰을 사다'는 의미입니다.",
+            "talk": {
+                "situation": "핸드폰 매장에서 새로운 모델을 둘러보며 친구에게 새 휴대폰 구매 의사를 밝힐 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "My phone is so outdated. I wanna buy a new cell phone.",
+                        "ko": "내 폰 너무 구식이야. 나 새 핸드폰 사고 싶어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Let's check out the latest models then. Maybe you'll find something you like.",
+                        "ko": "그럼 최신 모델을 확인해 보자. 마음에 드는 게 있을지도 몰라."
+                    }
+                ]
+            }
         },
         {
             "ko": "너랑 얘기 좀 하고 싶어.",
             "en": "I wanna talk to you.",
-            "description": "'talk to you'는 '너에게 말하다, 대화하다'는 의미입니다."
+            "description": "'talk to you'는 '너에게 말하다, 대화하다'는 의미입니다.",
+            "talk": {
+                "situation": "중요한 개인적인 문제를 친구에게 상의하고자 할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Can we sit down for a moment? I wanna talk to you about something important.",
+                        "ko": "잠깐 앉아서 얘기할 수 있을까? 중요한 얘기 좀 하고 싶어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Of course, what's on your mind?",
+                        "ko": "물론이지, 무슨 일이야?"
+                    }
+                ]
+            }
         },
         {
             "ko": "그 새 식당 가보고 싶어.",
             "en": "I wanna try that new restaurant.",
-            "description": "'try that new restaurant'은 '그 새 식당을 시도해보다' 즉, 가보고 싶다는 표현입니다."
+            "description": "'try that new restaurant'은 '그 새 식당을 시도해보다' 즉, 가보고 싶다는 표현입니다.",
+            "talk": {
+                "situation": "지역 내에 새로 생긴 식당에 가보고 싶다는 의견을 친구에게 제시할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Have you heard about the new Italian place downtown? I wanna try that new restaurant.",
+                        "ko": "도심에 새로 생긴 이탈리안 식당 들었어? 그 새 식당 한 번 가보고 싶어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "I've heard it's great! Let's go check it out this weekend.",
+                        "ko": "정말 좋다고 들었어! 이번 주말에 가보자."
+                    }
+                ]
+            }
         },
         {
             "ko": "다음 달에 여행 가고 싶어.",
             "en": "I wanna travel next month.",
-            "description": "'travel next month'는 '다음 달에 여행하다'는 의미로 시간 표현이 포함되어 있습니다."
+            "description": "'travel next month'는 '다음 달에 여행하다'는 의미로 시간 표현이 포함되어 있습니다.",
+            "talk": {
+                "situation": "휴가 계획을 세우면서 가족이나 친구들에게 다음 달 여행 계획을 공유할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I'm thinking of taking a vacation. I wanna travel next month, maybe to Greece.",
+                        "ko": "휴가를 가려고 생각 중이야. 다음 달에 여행 가고 싶어, 아마 그리스로."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "That sounds amazing! Count me in.",
+                        "ko": "정말 멋져 보여! 날도 포함시켜 줘."
+                    }
+                ]
+            }
         },
         {
             "ko": "이 프로젝트 너랑 같이 하고 싶어.",
             "en": "I wanna work on this project with you.",
-            "description": "'work on this project'는 '이 프로젝트에 참여하다', 'with you'는 '너와 함께'입니다."
+            "description": "'work on this project'는 '이 프로젝트에 참여하다', 'with you'는 '너와 함께'입니다.",
+            "talk": {
+                "situation": "팀 프로젝트를 진행하면서 특정 동료와 함께 작업하고 싶을 때 의사를 표현할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I really admire your work ethic. I wanna work on this project with you.",
+                        "ko": "정말 네 일하는 태도를 존경해. 이 프로젝트 너랑 같이 하고 싶어."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Thank you! I'd love to collaborate with you as well.",
+                        "ko": "고마워! 나도 너랑 협업하고 싶어."
+                    }
+                ]
+            }
         },
         {
             "ko": "오늘 출근하기 싫어.",
             "en": "I don't wanna go to work today.",
-            "description": "'I don't wanna'는 '~하고 싶지 않다', 'go to work'은 출근하다, 'today'는 오늘이라는 시간 표현입니다."
+            "description": "'I don't wanna'는 '~하고 싶지 않다', 'go to work'은 출근하다, 'today'는 오늘이라는 시간 표현입니다.",
+            "talk": {
+                "situation": "아침에 친구에게 메시지를 보내며 그 날의 기분을 표현할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I don't wanna go to work today. I feel like taking a personal day.",
+                        "ko": "오늘 출근하기 싫어. 개인 시간을 갖고 싶은 기분이야."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Maybe you should. Everyone needs a break now and then.",
+                        "ko": "그럴 수도 있어. 누구나 가끔은 휴식이 필요하니까."
+                    }
+                ]
+            }
         },
         {
             "ko": "과거로 돌아가고 싶지 않아.",
             "en": "I don't wanna go back.",
-            "description": "'go back'은 '돌아가다', 여기서는 과거로 돌아가기를 원치 않는다는 의미입니다."
+            "description": "'go back'은 '돌아가다', 여기서는 과거로 돌아가기를 원치 않는다는 의미입니다.",
+            "talk": {
+                "situation": "인생의 어려운 시기를 회상하면서 더 이상 과거로 돌아가고 싶지 않다고 친구에게 말할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Looking back, I've come so far. I don't wanna go back to those days.",
+                        "ko": "돌이켜보면, 나 많이 성장했어. 그때로 돌아가고 싶지 않아."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Absolutely, you've made incredible progress.",
+                        "ko": "맞아, 넌 정말 엄청난 발전을 했어."
+                    }
+                ]
+            }
         },
         {
             "ko": "그 얘기 하고 싶지 않아.",
             "en": "I don't wanna talk about it.",
-            "description": "'talk about it'은 '그것에 대해 말하다'는 뜻으로 회피하고 싶은 주제를 나타냅니다."
+            "description": "'talk about it'은 '그것에 대해 말하다'는 뜻으로 회피하고 싶은 주제를 나타냅니다.",
+            "talk": {
+                "situation": "친구가 민감한 주제에 대해 물어봤을 때 대화를 피하고 싶을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I don't wanna talk about it right now. Maybe another time.",
+                        "ko": "지금 그 얘기 하고 싶지 않아. 다음에 얘기하자."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Okay, I understand. Let me know when you're ready.",
+                        "ko": "알겠어, 이해해. 준비됐을 때 말해줘."
+                    }
+                ]
+            }
         },
         {
             "ko": "지금 아무것도 먹고 싶지 않아.",
             "en": "I don't wanna eat anything right now.",
-            "description": "'eat anything'은 '아무것도 먹다', 'right now'는 지금 당장이라는 뜻입니다."
+            "description": "'eat anything'은 '아무것도 먹다', 'right now'는 지금 당장이라는 뜻입니다.",
+            "talk": {
+                "situation": "식사 제안을 받았지만, 식욕이 없을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Thanks for the offer, but I don't wanna eat anything right now.",
+                        "ko": "제안 고마워, 하지만 지금은 아무것도 먹고 싶지 않아."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Alright, if you change your mind, just let me know.",
+                        "ko": "알겠어, 마음이 바뀌면 알려줘."
+                    }
+                ]
+            }
         },
         {
             "ko": "너랑 싸우고 싶지 않아.",
             "en": "I don't wanna argue with you.",
-            "description": "'argue with you'는 '너와 말다툼하다'는 뜻입니다."
+            "description": "'argue with you'는 '너와 말다툼하다'는 뜻입니다.",
+            "talk": {
+                "situation": "대화가 고조되어 갈등이 발생할 수 있는 상황에서 화해를 시도할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "Let's calm down. I don't wanna argue with you.",
+                        "ko": "진정하자. 너랑 싸우고 싶지 않아."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "You're right. It's not worth fighting over.",
+                        "ko": "맞아. 싸울 가치가 없어."
+                    }
+                ]
+            }
         },
         {
             "ko": "버스 놓치고 싶지 않아.",
             "en": "I don't wanna miss the bus.",
-            "description": "'miss the bus'는 '버스를 놓치다'는 표현으로 일상 대화에 자주 사용됩니다."
+            "description": "'miss the bus'는 '버스를 놓치다'는 표현으로 일상 대화에 자주 사용됩니다.",
+            "talk": {
+                "situation": "버스 정류장에 도착해서 시간이 촉박할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "We need to hurry. I don't wanna miss the bus.",
+                        "ko": "빨리 가야 해. 버스 놓치고 싶지 않아."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Let's run, it's about to leave!",
+                        "ko": "뛰자, 곧 출발할 거야!"
+                    }
+                ]
+            }
         },
         {
             "ko": "밖에 나가고 싶지 않아.",
             "en": "I don't wanna go outside.",
-            "description": "'go outside'는 '밖에 나가다'는 표현입니다."
+            "description": "'go outside'는 '밖에 나가다'는 표현입니다.",
+            "talk": {
+                "situation": "날씨가 나쁘거나 기분이 우울할 때 집에 머무르고 싶을 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "It's raining and I'm not feeling great. I don't wanna go outside.",
+                        "ko": "비 오고 기분도 안 좋아. 밖에 나가고 싶지 않아."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Let's stay in then. We can watch some movies.",
+                        "ko": "그럼 집에 있자. 영화라도 좀 보자."
+                    }
+                ]
+            }
         },
         {
             "ko": "널 실망시키고 싶지 않아.",
             "en": "I don't wanna disappoint you.",
-            "description": "'disappoint you'는 '너를 실망시키다'는 의미입니다."
+            "description": "'disappoint you'는 '너를 실망시키다'는 의미입니다.",
+            "talk": {
+                "situation": "친구나 가족에게 기대에 못 미칠까 봐 걱정할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "I'm trying my best, but I don't wanna disappoint you.",
+                        "ko": "내가 최선을 다하고 있어, 하지만 널 실망시키고 싶지 않아."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Don't worry about me. I'm proud of you no matter what.",
+                        "ko": "나 걱정 말고, 네가 뭐 하든 나는 네가 자랑스러워."
+                    }
+                ]
+            }
         },
         {
             "ko": "이거 혼자서 하고 싶지 않아.",
             "en": "I don't wanna do this alone.",
-            "description": "'do this alone'은 '이걸 혼자서 하다'는 뜻으로, 함께 하고 싶다는 뉘앙스를 줍니다."
+            "description": "'do this alone'은 '이걸 혼자서 하다'는 뜻으로, 함께 하고 싶다는 뉘앙스를 줍니다.",
+            "talk": {
+                "situation": "어려운 업무나 도전적인 프로젝트를 혼자서 처리하고 싶지 않을 때 도움을 요청합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "This project is really challenging. I don't wanna do this alone.",
+                        "ko": "이 프로젝트 정말 도전적이야. 이거 혼자서 하고 싶지 않아."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "I can help you. Let's work on it together.",
+                        "ko": "내가 도울게. 같이 작업하자."
+                    }
+                ]
+            }
         },
         {
             "ko": "시간을 낭비하고 싶지 않아.",
             "en": "I don't wanna waste time.",
-            "description": "'waste time'은 '시간을 낭비하다'는 표현입니다."
+            "description": "'waste time'은 '시간을 낭비하다'는 표현입니다.",
+            "talk": {
+                "situation": "효율적으로 일하고자 할 때 불필요한 활동을 피하고자 할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "We should focus on our priorities. I don't wanna waste time on trivial tasks.",
+                        "ko": "우리는 우선순위에 집중해야 해. 사소한 일에 시간을 낭비하고 싶지 않아."
+                    },
+                    {
+                        "speaker": "Other",
+                        "en": "Agreed. Let's streamline our process and be more efficient.",
+                        "ko": "동의해. 우리 과정을 간소화하고 더 효율적으로 하자."
+                    }
+                ]
+            }
         }
     ],
     "imGonna": [
@@ -3758,121 +5253,286 @@
     ],
     "farFrom": [
         {
-            "ko": "그 영화는 전혀 지루하지 않았어.",
             "en": "The movie was far from boring.",
-            "description": "'far from boring'은 '지루함과는 거리가 멀다'는 의미로, 전혀 지루하지 않았다는 강조 표현입니다."
+            "ko": "그 영화는 전혀 지루하지 않았어.",
+            "description": "'far from boring'은 '지루함과는 거리가 멀다'는 의미로, 전혀 지루하지 않았다는 강조 표현입니다.",
+            "talk": {
+                "situation": "친구와 영화에 대한 이야기를 할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "The movie was far from boring. I was actually quite entertained!",
+                        "ko": "그 영화는 전혀 지루하지 않았어. 나는 사실 꽤 재미있게 봤어!"
+                    },
+                    {
+                        "speaker": "Friend",
+                        "en": "That's good to hear. I was worried it might be too slow.",
+                        "ko": "그렇게 들으니 다행이야. 나는 그게 좀 느릴까봐 걱정했거든."
+                    }
+                ]
+            }
         },
         {
-            "ko": "그의 설명은 전혀 명확하지 않았어.",
             "en": "His explanation was far from clear.",
-            "description": "'far from clear'은 '전혀 명확하지 않다'는 뜻으로, 설명이 복잡하거나 불분명할 때 사용합니다."
+            "ko": "그의 설명은 전혀 명확하지 않았어.",
+            "description": "'far from clear'은 '전혀 명확하지 않다'는 뜻으로, 설명이 복잡하거나 불분명할 때 사용합니다.",
+            "talk": {
+                "situation": "회의에서 동료의 설명에 대해 논의할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "His explanation was far from clear. I think we need to ask for more details.",
+                        "ko": "그의 설명은 전혀 명확하지 않았어. 우리는 좀 더 자세한 정보를 요청해야 할 것 같아."
+                    },
+                    {
+                        "speaker": "Colleague",
+                        "en": "Agreed. Let's schedule a follow-up meeting.",
+                        "ko": "동의해. 후속 회의를 예약하자."
+                    }
+                ]
+            }
         },
         {
-            "ko": "오늘 날씨는 전혀 완벽하지 않아.",
             "en": "The weather is far from perfect today.",
-            "description": "'far from perfect'은 '완벽과는 거리가 멀다'는 뜻이며, 불만족스러운 상태를 나타냅니다."
+            "ko": "오늘 날씨는 전혀 완벽하지 않아.",
+            "description": "'far from perfect'은 '완벽과는 거리가 멀다'는 뜻이며, 불만족스러운 상태를 나타냅니다.",
+            "talk": {
+                "situation": "날씨로 인해 계획이 변경될 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "The weather is far from perfect today, so maybe we should cancel the picnic.",
+                        "ko": "오늘 날씨는 전혀 완벽하지 않으니, 우리 소풍을 취소하는 게 좋을 것 같아."
+                    },
+                    {
+                        "speaker": "Friend",
+                        "en": "Yeah, it looks like it might rain. Let's postpone it.",
+                        "ko": "그러게, 비가 올 것 같아. 연기하자."
+                    }
+                ]
+            }
         },
         {
-            "ko": "그 시험은 전혀 쉽지 않았어요.",
             "en": "The test was far from easy.",
-            "description": "'far from easy'는 '전혀 쉽지 않았다'는 강조 표현으로, 매우 어려웠음을 나타냅니다."
+            "ko": "그 시험은 전혀 쉽지 않았어요.",
+            "description": "'far from easy'는 '전혀 쉽지 않았다'는 강조 표현으로, 매우 어려웠음을 나타냅니다.",
+            "talk": {
+                "situation": "시험 후 학습 상태를 친구에게 토로할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "The test was far from easy. I really struggled with some of the questions.",
+                        "ko": "그 시험은 전혀 쉽지 않았어. 몇몇 문제에서 정말 힘들었어."
+                    },
+                    {
+                        "speaker": "Friend",
+                        "en": "I felt the same. Let's review together next time.",
+                        "ko": "나도 그랬어. 다음에 함께 복습하자."
+                    }
+                ]
+            }
         },
         {
-            "ko": "문제는 결코 간단하지 않습니다.",
             "en": "The problem is far from simple.",
-            "description": "'far from simple'은 '간단하지 않다'는 의미로, 문제의 복잡함을 강조합니다."
-        },
-        {
-            "ko": "그 방은 전혀 깨끗하지 않아요.",
-            "en": "The room is far from clean.",
-            "description": "'far from clean'은 '전혀 깨끗하지 않다'는 뜻으로, 방 상태가 매우 지저분함을 나타냅니다."
-        },
-        {
-            "ko": "그 결과는 전혀 좋지 않았어요.",
-            "en": "The result was far from good.",
-            "description": "'far from good'은 '좋지 않았다'는 뜻이며, 기대와는 다른 부정적인 결과를 표현합니다."
-        },
-        {
-            "ko": "그녀의 목소리는 전혀 크지 않았어요.",
-            "en": "Her voice was far from loud.",
-            "description": "'far from loud'는 '전혀 크지 않다'는 의미로, 매우 작은 목소리임을 강조합니다."
-        },
-        {
-            "ko": "그 수프는 전혀 뜨겁지 않아요.",
-            "en": "The soup is far from hot.",
-            "description": "'far from hot'은 '뜨겁지 않다'는 의미로, 수프가 미지근하거나 식었음을 말합니다."
-        },
-        {
-            "ko": "그 이야기는 전혀 사실이 아니었어요.",
-            "en": "The story was far from true.",
-            "description": "'far from true'는 '전혀 사실이 아니다'라는 뜻으로, 거짓말 또는 오해를 나타냅니다."
-        },
-        {
-            "ko": "그 대답은 전혀 맞지 않아요.",
-            "en": "The answer is far from correct.",
-            "description": "'far from correct'는 '정답과는 거리가 멀다', 즉 틀렸다는 의미입니다."
-        },
-        {
-            "ko": "그 길은 전혀 안전하지 않았어요.",
-            "en": "The road was far from safe.",
-            "description": "'far from safe'는 '전혀 안전하지 않다'는 표현으로 위험함을 나타냅니다."
-        },
-        {
-            "ko": "우리 집은 학교에서 멀어요",
-            "en": "My house is far from the school.",
-            "description": "이 표현은 실제 거리상으로 멀다는 의미로, 'far from ~'이 물리적 거리로 쓰였습니다."
-        },
-        {
-            "ko": "그 사람은 나와 거리가 멀어요",
-            "en": "He is far from me.",
-            "description": "여기서 'far from me'는 거리상 멀다는 의미일 수도 있고, 비유적으로 '관계가 멀다'는 뜻으로도 해석될 수 있습니다."
+            "ko": "문제는 결코 간단하지 않습니다.",
+            "description": "'far from simple'은 '간단하지 않다'는 의미로, 문제의 복잡함을 강조합니다.",
+            "talk": {
+                "situation": "프로젝트 미팅에서 복잡한 이슈를 논의할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "The problem is far from simple. We need to consider multiple factors.",
+                        "ko": "문제는 결코 간단하지 않습니다. 우리는 여러 요소를 고려해야 합니다."
+                    },
+                    {
+                        "speaker": "Team Leader",
+                        "en": "That's true. Let's approach it step by step.",
+                        "ko": "맞아. 차근차근 접근하자."
+                    }
+                ]
+            }
         }
     ],
     "howLong": [
         {
             "ko": "얼마나 걸려요?",
             "en": "How long does it take?",
-            "description": "'How long'은 '얼마나 오래/길게'를 의미하고, 'does it take'은 '시간이 얼마나 걸리다'는 표현입니다."
+            "description": "'How long'은 '얼마나 오래/길게'를 의미하고, 'does it take'은 '시간이 얼마나 걸리다'는 표현입니다.",
+            "talk": {
+                "situation": "버스나 기차 여행 시간을 물어볼 때 사용할 수 있습니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "How long does it take to get to New York by train?",
+                        "ko": "기차로 뉴욕까지 얼마나 걸려요?"
+                    },
+                    {
+                        "speaker": "Ticket Agent",
+                        "en": "It takes about four hours.",
+                        "ko": "대략 네 시간 걸립니다."
+                    }
+                ]
+            }
         },
         {
             "ko": "그 영화는 얼마나 길어요?",
             "en": "How long is the movie?",
-            "description": "'is the movie'는 '영화는 ~이다'라는 현재형이며, 길이를 묻는 표현입니다."
+            "description": "'is the movie'는 '영화는 ~이다'라는 현재형이며, 길이를 묻는 표현입니다.",
+            "talk": {
+                "situation": "영화 길이에 대해 친구와 대화할 때 사용할 수 있습니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "How long is the movie we're going to see tonight?",
+                        "ko": "우리 오늘 밤에 볼 그 영화는 얼마나 길어요?"
+                    },
+                    {
+                        "speaker": "Friend",
+                        "en": "It's about two and a half hours long.",
+                        "ko": "대략 두 시간 반 정도 됩니다."
+                    }
+                ]
+            }
         },
         {
             "ko": "줄이 얼마나 길어요?",
             "en": "How long is the line?",
-            "description": "'line'은 줄, 'How long is'는 '~은 얼마나 기냐'는 질문 형태입니다."
+            "description": "'line'은 줄, 'How long is'는 '~은 얼마나 기냐'는 질문 형태입니다.",
+            "talk": {
+                "situation": "친구와 테마파크에서 롤러코스터를 타려고 할 때 사용할 수 있습니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "How long is the line for the roller coaster?",
+                        "ko": "롤러코스터 줄이 얼마나 길어요?"
+                    },
+                    {
+                        "speaker": "Friend",
+                        "en": "It looks pretty long, maybe about an hour wait.",
+                        "ko": "꽤 긴 것 같아요, 대기 시간이 한 시간 정도 될 것 같습니다."
+                    }
+                ]
+            }
         },
         {
             "ko": "얼마나 오래 기다렸어요?",
             "en": "How long did you wait?",
-            "description": "'did you wait'는 과거 시제를 사용한 표현으로, '얼마나 오래 기다렸는지' 묻는 문장입니다."
+            "description": "'did you wait'는 과거 시제를 사용한 표현으로, '얼마나 오래 기다렸는지' 묻는 문장입니다.",
+            "talk": {
+                "situation": "친구가 늦게 도착했을 때 사용할 수 있습니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "How long did you wait for me? I'm so sorry I'm late.",
+                        "ko": "얼마나 오래 기다렸어요? 늦어서 정말 미안해요."
+                    },
+                    {
+                        "speaker": "Friend",
+                        "en": "It's okay, I just got here myself about five minutes ago.",
+                        "ko": "괜찮아요, 저도 이제 막 5분 전에 도착했어요."
+                    }
+                ]
+            }
         },
         {
             "ko": "너희 여름방학은 얼마나 길어?",
             "en": "How long is your summer vacation?",
-            "description": "'summer vacation'은 여름방학, 'How long is'는 '~은 얼마나 기냐'는 문장 구조입니다."
+            "description": "'summer vacation'은 여름방학, 'How long is'는 '~은 얼마나 기냐'는 문장 구조입니다.",
+            "talk": {
+                "situation": "친구들과 여름 계획을 논의할 때 사용할 수 있습니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "How long is your summer vacation? Do you have any plans?",
+                        "ko": "너희 여름방학은 얼마나 길어? 계획 있어?"
+                    },
+                    {
+                        "speaker": "Friend",
+                        "en": "We have two months off. I'm thinking about traveling to Europe.",
+                        "ko": "두 달 쉬어요. 유럽 여행을 생각 중이에요."
+                    }
+                ]
+            }
         },
         {
             "ko": "얼마나 걸릴까요?",
             "en": "How long will it take?",
-            "description": "'will it take'는 미래형으로, '얼마나 걸릴 것 같나요?'를 의미합니다."
+            "description": "'will it take'는 미래형으로, '얼마나 걸릴 것 같나요?'를 의미합니다.",
+            "talk": {
+                "situation": "어떤 서비스나 작업의 완료 시간을 문의할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "How long will it take to repair my car?",
+                        "ko": "내 차 수리는 얼마나 걸릴까요?"
+                    },
+                    {
+                        "speaker": "Mechanic",
+                        "en": "It should take about three hours.",
+                        "ko": "대략 세 시간 정도 걸릴 겁니다."
+                    }
+                ]
+            }
         },
         {
             "ko": "얼마나 오래 있을 수 있어요?",
             "en": "How long can I stay?",
-            "description": "'can I stay'는 '내가 머물 수 있나요?'라는 의미로, 가능성과 기간을 묻습니다."
+            "description": "'can I stay'는 '내가 머물 수 있나요?'라는 의미로, 가능성과 기간을 묻습니다.",
+            "talk": {
+                "situation": "숙박 예약 시 머무를 수 있는 기간을 확인할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "How long can I stay in this hotel?",
+                        "ko": "이 호텔에서 얼마나 오래 있을 수 있어요?"
+                    },
+                    {
+                        "speaker": "Receptionist",
+                        "en": "You can stay up to a maximum of 30 days.",
+                        "ko": "최대 30일까지 머물 수 있습니다."
+                    }
+                ]
+            }
         },
         {
             "ko": "얼마나 오래 걸려?",
             "en": "How long does it take?",
-            "description": "'does it take'는 '시간이 얼마나 걸리다'는 현재형 표현입니다."
+            "description": "'does it take'는 '시간이 얼마나 걸리다'는 현재형 표현입니다.",
+            "talk": {
+                "situation": "친구와 함께 저녁 식사 계획을 세울 때 사용할 수 있습니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "How long does it take to cook this recipe?",
+                        "ko": "이 요리를 만드는 데 얼마나 오래 걸려?"
+                    },
+                    {
+                        "speaker": "Friend",
+                        "en": "It only takes about 20 minutes.",
+                        "ko": "20분 정도밖에 걸리지 않아."
+                    }
+                ]
+            }
         },
         {
             "ko": "얼마나 오래 기다려야 해?",
             "en": "How long do I have to wait?",
-            "description": "'do I have to wait'는 '기다려야 하다'는 표현으로, 의무의 정도를 묻는 문장입니다."
+            "description": "'do I have to wait'는 '기다려야 하다'는 표현으로, 의무의 정도를 묻는 문장입니다.",
+            "talk": {
+                "situation": "병원에서 의사를 기다리며 접수대에 문의할 때 사용합니다.",
+                "dialogue": [
+                    {
+                        "speaker": "You",
+                        "en": "How long do I have to wait to see the doctor?",
+                        "ko": "의사 선생님을 만나려면 얼마나 오래 기다려야 해?"
+                    },
+                    {
+                        "speaker": "Receptionist",
+                        "en": "There are a few patients ahead of you, so it might take about 45 minutes.",
+                        "ko": "당신 앞에 몇 명의 환자가 있어서 대략 45분 정도 걸릴 것 같습니다."
+                    }
+                ]
+            }
         }
     ]
 }
