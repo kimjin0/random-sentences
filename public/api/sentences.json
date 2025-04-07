@@ -3844,6 +3844,26 @@
     ],
     "thereIsAre": [
         {
+            "en": "There is a new cafe across the street.",
+            "ko": "길 건너에 새로운 카페가 있어.",
+            "description": "There is → ~이 있다 (단수형일 때 사용). 'a new cafe'가 단수니까 is를 사용해요.<br>A new cafe → 새로운 카페. 'a new'는 '새로운 한 곳의'라는 의미를 가지며, 특정하지 않은 단일 항목을 나타냅니다.<br>Across the street → 길 건너에. 'across'는 '건너편에'라는 의미이고, 'the street'는 길을 의미합니다.",
+            "talk": {
+                "situation": "친구에게 새로 생긴 카페를 알려줄 때 사용할 수 있는 표현이에요.",
+                "dialogue": [
+                    {
+                        "speaker": "Other",
+                        "en": "Do you know any good place for coffee?",
+                        "ko": "커피 마실 좋은 곳 알아?"
+                    },
+                    {
+                        "speaker": "You",
+                        "en": "There is a new cafe across the street.",
+                        "ko": "길 건너에 새로운 카페가 있어."
+                    }
+                ]
+            }
+        },
+        {
             "en": "There is a problem with the printer.",
             "ko": "프린터에 문제가 있어.",
             "description": "구조는 'There is + 문제 + with ~'로, 무엇에 문제가 있는지를 나타냅니다.",
