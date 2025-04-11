@@ -36,50 +36,49 @@
     padding: 10px 0;
   }
 
-.list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  font-size: 50px;
-}
+	.list {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		display: flex;
+		justify-content: center;
+		gap: 20px;
+		font-size: 50px;
+	}
 
-.list li {
-  position: relative;
-  padding-bottom: 10px; /* 아래 공간 확보 */
-}
+	.list li {
+		position: relative;
+		padding-bottom: 10px; /* 아래 공간 확보 */
+	}
 
-.list a {
-  text-decoration: none;
-  padding: 10px 20px;
-  color: #333;
-  font-weight: bold;
-  transition: all 0.3s;
-}
+	.list a {
+		text-decoration: none;
+		padding: 10px 20px;
+		color: #333;
+		font-weight: bold;
+		transition: all 0.3s;
+	}
 
-.list li.active::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height: 3px;
-  background-color: #3498db; /* 원하는 밑줄 색 */
-  border-radius: 2px;
-}
-
+	.list li.active::after {
+		content: "";
+		position: absolute;
+		left: 0;
+		bottom: 0;
+		width: 100%;
+		height: 3px;
+		background-color: #3498db; /* 원하는 밑줄 색 */
+		border-radius: 2px;
+	}
 </style>
 </head>
 <body>
 <div class="container">
   <div class="slide">
     <ul class="list">
-      <li class="active">
+      <li >
           <a href="/">3월</a>
       </li>
-      <li>
+      <li class="active">
           <a href="/ver4">4월</a>
       </li>
     </ul>
@@ -93,35 +92,8 @@
     <!-- <label for="group">그룹 선택:</label> -->
     <select id="group" onchange="updateSelectedGroup(this.value)">
       <option value="all">전체</option>
-      <option value="should">should / ~하는 게 좋다, ~해야 한다</option>
-      <option value="LetMe">Let me + 동사원형 / 내가 ~할게, 나 ~하게 해줘</option>
-      <option value="DidYou">Did you ~? / ~했어요?</option>
-      <option value="ShallWe">Shall we ~? / 우리 ~할까?</option>
-      <option value="HowAbout">How about + 동명사(~ing)? / ~하는게 어때?</option>
-      <option value="itCosts">It costs~ / ~하는 데 돈이 든다</option>
-      <option value="areYouGoingTo">are you going to ~?  / ~할 거예요?</option>
-      <option value="ImReadyTo">I'm ready to ~ / ~할 준비가 됐어, 이제 ~할 수 있어</option>
-      <option value="itTakes">It takes ~ / ~하는 데 (시간)이 걸리다</option>
-      <option value="someThings">something, somewhere, someone / 무언가, 어떤 장소, 누군가</option>
-      <option value="ImHereTo">i'm here to ~ / ~하러 (여기)왔어요</option>
-      <option value="ImJustGoingTo">I think I'm just going to~  내 생각에는 그냥 ~할 것 같아 / 나는 그냥 ~하려고 해</option>
-      <option value="imJustAboutTo">I'm just about to~ / 막 ~하려던 참이야</option>
-      <option value="itsGetting">It's getting / 점점~해지고 있어</option>
-      <option value="itsTimeTo">It's time to~ / ~할 시간이야</option>
-      <option value="isIt">is it / ~인가요?</option>
-      <option value="imTryingTo">I'm trying to ~ / ~하려고 노력 중이야</option>
-      <option value="thereIsAre">There is~, There are~ / ~이 있다, ~들이 있다</option>
-      <option value="iJustWantedTo">I just wanted to / 나는 단지 ~ 하고 싶었어</option>
-      <option value="doIHaveTo">Do I have to~? / 내가 ~해야 하나요?</option>
-      <option value="doYouWantTo">Do you want to / 너 ~하고 싶어?</option>
-      <option value="IWantYouTo">I want you to~ / 나는 네가 ~했으면 좋겠어</option>
-      <option value="wouldYouLike">Would you like / ~하시겠어요?</option>
-      <option value="WouldYouMind">Would you mind ~? / ~해 주실 수 있으실까요?, ~해도 괜찮을까요?(정중)</option>
-      <option value="doYouHaveAny">Do you have any / (혹시) ~있나요?</option>
-      <option value="iWanna">I wanna / ~하고 싶어</option>
-      <option value="imGonna">Im gonna / 나 ~할거야</option>
-      <option value="farFrom">far from / ~이 멀리 있어</option>
-      <option value="howLong">how long / ~이 얼마나 걸리나요?</option>
+      <option value="do_you_wanna">do you wanna / ~하고 싶어?, ~할래?</option>
+
     </select>
   </div>
   <div class="control-group mt15">
@@ -165,7 +137,7 @@
     voices = this.getVoices();
   };
 
-  fetch('/api/sentences.json')
+  fetch('/api/ver4.json')
     .then(response => response.json())
     .then(data => {
       sentences = data;
@@ -181,7 +153,7 @@
     return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
               .replace(/"/g, "&quot;").replace(/'/g, "&#039;").replace(/`/g, "&#x60;");
   }
-  //랜덤 문장 드기
+  //랜덤 문장 듣기
   function sentenceListen() {
     document.getElementById('explanation').style.display = 'none';
     showSentence = false;

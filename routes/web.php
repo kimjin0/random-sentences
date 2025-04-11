@@ -16,6 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/ver4', function () {
+    return view('ver4');
+});
 Route::get('/listen', function () {
     return view('listen');
 });

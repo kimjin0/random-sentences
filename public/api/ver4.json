@@ -1,0 +1,80 @@
+{
+    "do_you_wanna": [
+        {
+            "en": "Do you wanna grab some coffee?",
+            "ko": "커피 한 잔 할래?",
+            "description": "'Do you wanna + 동사원형' 구조는 상대방에게 하고 싶은 의향이 있는지 물을 때 사용합니다.",
+            "talk": {
+            "situation": "친구나 동료에게 가볍게 커피를 마시자고 제안할 때 사용합니다.",
+            "dialogue": [
+                { "speaker": "You", "en": "Do you wanna grab some coffee?", "ko": "커피 한 잔 할래?" },
+                { "speaker": "Other", "en": "Sure, I could use a break.", "ko": "좋아, 잠깐 쉬는 것도 좋겠어." }
+            ]
+            },
+            "etc": [
+            { "en": "Wanna get some coffee?", "ko": "커피 마시러 갈래?" },
+            { "en": "Would you like to grab a coffee?", "ko": "커피 한 잔 하실래요?" },
+            { "en": "How about getting some coffee?", "ko": "커피 좀 마시는 거 어때?" },
+            { "en": "Do you feel like getting coffee?", "ko": "커피 마시고 싶은 기분이야?" },
+            { "en": "Let's go get some coffee.", "ko": "커피 마시러 가자." }
+            ]
+        },
+        {
+            "en": "Do you wanna watch a movie tonight?",
+            "ko": "오늘 밤 영화 볼래?",
+            "description": "'Do you wanna + 동사원형'은 함께 활동을 하자고 제안할 때 쓰는 표현입니다.",
+            "talk": {
+            "situation": "친구나 연인에게 저녁에 영화 보자고 할 때 사용합니다.",
+            "dialogue": [
+                { "speaker": "You", "en": "Do you wanna watch a movie tonight?", "ko": "오늘 밤 영화 볼래?" },
+                { "speaker": "Other", "en": "Sounds good. What do you want to watch?", "ko": "좋아. 뭐 보고 싶어?" }
+            ]
+            },
+            "etc": [
+            { "en": "Wanna see a movie tonight?", "ko": "오늘 영화 볼래?" },
+            { "en": "Let’s watch a movie later.", "ko": "이따 영화 보자." },
+            { "en": "Do you feel like watching a movie?", "ko": "영화 보고 싶은 기분이야?" },
+            { "en": "How about a movie tonight?", "ko": "오늘 밤 영화 어때?" },
+            { "en": "Shall we go to the movies?", "ko": "영화관 갈래?" }
+            ]
+        },
+        {
+            "en": "Do you wanna go for a walk?",
+            "ko": "산책하러 갈래?",
+            "description": "'Do you wanna'는 간단한 야외 활동을 권할 때도 유용하게 쓰입니다.",
+            "talk": {
+            "situation": "상대방과 가볍게 산책을 제안하고 싶을 때 사용합니다.",
+            "dialogue": [
+                { "speaker": "You", "en": "Do you wanna go for a walk?", "ko": "산책하러 갈래?" },
+                { "speaker": "Other", "en": "Yeah, the weather is perfect for it.", "ko": "응, 날씨도 딱 좋네." }
+            ]
+            },
+            "etc": [
+            { "en": "Wanna take a walk?", "ko": "산책할래?" },
+            { "en": "Let’s go for a walk.", "ko": "산책 가자." },
+            { "en": "How about going for a walk?", "ko": "산책하는 거 어때?" },
+            { "en": "Feel like walking a bit?", "ko": "조금 걷고 싶지 않아?" },
+            { "en": "Shall we go for a walk?", "ko": "산책할까?" }
+            ]
+        },
+        {
+            "en": "Do you wanna join us for dinner?",
+            "ko": "우리랑 저녁 같이 먹을래?",
+            "description": "'Do you wanna join us'는 식사나 모임 등에 초대할 때 자주 쓰입니다.",
+            "talk": {
+            "situation": "다른 사람을 식사 자리에 초대하고 싶을 때 사용합니다.",
+            "dialogue": [
+                { "speaker": "You", "en": "Do you wanna join us for dinner?", "ko": "우리랑 저녁 같이 먹을래?" },
+                { "speaker": "Other", "en": "Thanks! I'd love to.", "ko": "고마워! 그럴게." }
+            ]
+            },
+            "etc": [
+            { "en": "Wanna have dinner with us?", "ko": "우리랑 저녁 먹을래?" },
+            { "en": "Would you like to join us for dinner?", "ko": "저녁 식사 함께 하실래요?" },
+            { "en": "How about eating together?", "ko": "같이 밥 먹는 거 어때?" },
+            { "en": "Do you feel like grabbing dinner?", "ko": "저녁 먹고 싶은 기분이야?" },
+            { "en": "Let’s have dinner together.", "ko": "같이 저녁 먹자." }
+            ]
+        }
+    ]
+}
