@@ -225,6 +225,20 @@
         });
         html += `</ul>`;
       }
+      if(currentSentence.etc){
+        html += `<hr><div class="fw-normal mt15 fs30"><strong>같은 의미 다른 표현</strong></div>`;
+        html += `<ul class="fs30">`;
+        currentSentence.etc.forEach(function(etc) {
+          html += `
+            <li>
+              <span class="fblue">${etc.en}</span>
+              <span class="fgreen">${etc.ko}</span>
+              <span class="replay-btn speak" onclick='fnSpeak("${escapeHtml(etc.en)}")'>🔊</span>
+            </li>
+          `;
+        });
+        html += `</ul>`;
+      }      
 
       explanationElement.querySelector('div').innerHTML = html;
       explanationElement.style.display = 'block';
@@ -255,6 +269,20 @@
               <span class="fgreen">${dialog.ko}</span><br>
               <span class="fblue">${dialog.en}</span>
               <span class="replay-btn speak" onclick='fnSpeak("${escapeHtml(dialog.en)}")'>🔊</span>
+            </li>
+          `;
+        });
+        html += `</ul>`;
+      }
+      if(currentSentence.etc){
+        html += `<hr><div class="fw-normal mt15 fs30"><strong>같은 의미 다른 표현</strong></div>`;
+        html += `<ul class="fs30">`;
+        currentSentence.etc.forEach(function(etc) {
+          html += `
+            <li>
+              <span class="fblue">${etc.en}</span>
+              <span class="fgreen">${etc.ko}</span>
+              <span class="replay-btn speak" onclick='fnSpeak("${escapeHtml(etc.en)}")'>🔊</span>
             </li>
           `;
         });
