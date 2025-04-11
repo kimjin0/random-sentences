@@ -44,6 +44,7 @@
     <!-- <label for="group">그룹 선택:</label> -->
     <select id="group" onchange="updateSelectedGroup(this.value)">
       <option value="all">전체</option>
+      <option value="should">should / ~하는 게 좋다, ~해야 한다</option>
       <option value="LetMe">Let me + 동사원형 / 내가 ~할게, 나 ~하게 해줘</option>
       <option value="DidYou">Did you ~? / ~했어요?</option>
       <option value="ShallWe">Shall we ~? / 우리 ~할까?</option>
