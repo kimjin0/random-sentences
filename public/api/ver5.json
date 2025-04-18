@@ -1,0 +1,79 @@
+{
+    "wake_up": [
+        {
+            "en": "I wake up at 7 every day.",
+            "ko": "나는 매일 7시에 일어나.",
+            "description": "'wake up'은 '잠에서 깨다'라는 뜻의 구동사로, 일상적인 일어남을 표현할 때 사용됩니다.",
+            "talk": {
+                "situation": "일상적인 아침 루틴에 대해 말할 때 사용합니다.",
+                "dialogue": [
+                    { "speaker": "You", "en": "I wake up at 7 every day.", "ko": "나는 매일 7시에 일어나." },
+                    { "speaker": "Other", "en": "That’s early! I usually wake up at 8.", "ko": "이르네! 나는 보통 8시에 일어나." }
+                ]
+            }
+        },
+        {
+            "en": "She woke up late this morning.",
+            "ko": "그녀는 오늘 아침 늦게 일어났어.",
+            "description": "'woke up'은 'wake up'의 과거형으로, 과거에 잠에서 깼다는 의미입니다.",
+            "talk": {
+                "situation": "누군가 아침에 늦게 일어난 상황을 설명할 때 사용합니다.",
+                "dialogue": [
+                    { "speaker": "You", "en": "She woke up late this morning.", "ko": "그녀는 오늘 아침 늦게 일어났어." },
+                    { "speaker": "Other", "en": "No wonder she missed the meeting.", "ko": "그러니 회의를 놓쳤지." }
+                ]
+            }
+        },
+        {
+            "en": "Wake up! You’re going to be late!",
+            "ko": "일어나! 늦겠어!",
+            "description": "'Wake up!'은 명령문 형태로, 누군가를 깨울 때 쓰는 표현입니다.",
+            "talk": {
+                "situation": "상대방이 자고 있을 때 급하게 깨울 필요가 있을 때 사용합니다.",
+                "dialogue": [
+                    { "speaker": "You", "en": "Wake up! You’re going to be late!", "ko": "일어나! 늦겠어!" },
+                    { "speaker": "Other", "en": "Oh no! What time is it?", "ko": "어 안돼! 지금 몇 시야?" }
+                ]
+            }
+        }
+    ],
+    "clean_up": [
+    {
+        "en": "I always clean up my room on Saturdays.",
+        "ko": "나는 항상 토요일마다 내 방을 청소해.",
+        "description": "'clean up'은 '깨끗이 청소하다, 정리하다'라는 의미의 구동사로, 공간이나 물건을 정돈할 때 사용합니다.",
+        "talk": {
+        "situation": "자신의 주간 청소 루틴에 대해 말할 때 사용합니다.",
+        "dialogue": [
+            { "speaker": "You", "en": "I always clean up my room on Saturdays.", "ko": "나는 항상 토요일마다 내 방을 청소해." },
+            { "speaker": "Other", "en": "That’s a good habit! I should do that too.", "ko": "좋은 습관이네! 나도 그래야겠다." }
+        ]
+        }
+    },
+    {
+        "en": "He cleaned up after the party.",
+        "ko": "그는 파티 후에 청소했어.",
+        "description": "'cleaned up'은 'clean up'의 과거형으로, 과거에 정리하거나 청소한 상황을 나타냅니다.",
+        "talk": {
+        "situation": "파티나 행사 후 누군가가 뒷정리를 했다는 상황을 설명할 때 사용합니다.",
+        "dialogue": [
+            { "speaker": "You", "en": "He cleaned up after the party.", "ko": "그는 파티 후에 청소했어." },
+            { "speaker": "Other", "en": "That was really nice of him.", "ko": "그거 진짜 착했네." }
+        ]
+        }
+    },
+    {
+        "en": "Clean up your desk before you leave.",
+        "ko": "나가기 전에 책상 좀 정리해.",
+        "description": "'Clean up'은 명령문 형태로, 정리를 요청하거나 지시할 때 사용됩니다.",
+        "talk": {
+        "situation": "누군가에게 퇴근이나 외출 전에 책상 등을 정리하라고 말할 때 사용합니다.",
+        "dialogue": [
+            { "speaker": "You", "en": "Clean up your desk before you leave.", "ko": "나가기 전에 책상 좀 정리해." },
+            { "speaker": "Other", "en": "Okay, just give me a minute.", "ko": "알겠어요, 잠깐만요." }
+        ]
+        }
+    }
+    ]
+
+}
