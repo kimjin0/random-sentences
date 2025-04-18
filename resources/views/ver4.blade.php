@@ -92,7 +92,9 @@
     <!-- <label for="group">그룹 선택:</label> -->
     <select id="group" onchange="updateSelectedGroup(this.value)">
       <option value="all">전체</option>
-      <option value="do_you_wanna">do you wanna / ~하고 싶어?, ~할래?</option>
+      {{-- <option value="do_you_wanna">do you wanna / ~하고 싶어?, ~할래?</option> --}}
+      <option value="wake_up">wake up / 잠에서 깨다</option>
+      <option value="clean_up">clean up / 깨끗이 치우다, 정리하다</option>
 
     </select>
   </div>
@@ -137,7 +139,7 @@
     voices = this.getVoices();
   };
 
-  fetch('/api/ver4.json')
+  fetch('/api/ver5.json')
     .then(response => response.json())
     .then(data => {
       sentences = data;
