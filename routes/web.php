@@ -22,6 +22,9 @@ Route::get('/ver4', function () {
 Route::get('/listen', function () {
     return view('listen');
 });
+Route::get('/two-mice', function () {
+    return view('two-mice');
+});
 
 Route::get('/sendmail', function () {
     $name = "kimjin0";
