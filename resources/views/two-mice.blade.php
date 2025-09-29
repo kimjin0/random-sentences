@@ -21,6 +21,7 @@
     </ul>
   </div>
   </div>  <div class="voice-control">
+    <button id="readAllButton" style="font-size: 0.8em;">전체 문장 듣기</button>
     <label for="rate">말하기 속도:</label>
     <input type="range" id="rate" min="0.5" max="1.5" step="0.05">
     <span id="rate-value">0.85</span>
@@ -257,6 +258,26 @@
         koreanText.style.display = 'none';
     }
 }
+
+    document.getElementById('readAllButton').addEventListener('click', function() {
+        let index = 0;
+        function speakNextSentence() {
+            if (index < twoMiceSentences.length) {
+                const sentence = twoMiceSentences[index];
+                const utterance = new SpeechSynthesisUtterance(sentence.en);
+                utterance.lang = 'en-US';
+                utterance.rate = parseFloat(speechRate);
+                const preferredVoice = voices.find(v => v.name.includes('Google UK English Female')) || voices.find(v => v.lang.startsWith('en') && /female|alex/i.test(v.name));
+                utterance.voice = preferredVoice || voices.find(v => v.lang.startsWith('en'));
+                utterance.onend = function() {
+                    index++;
+                    setTimeout(speakNextSentence, 1000); // 1 second delay
+                };
+                speechSynthesis.speak(utterance);
+            }
+        }
+        speakNextSentence();
+    });
 </script>
 </body>
 </html>
