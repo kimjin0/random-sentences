@@ -9,15 +9,13 @@
 <div class="container">
   <div class="slide">
     <ul class="list">
-      <li class="active">
+      <li >
         <a href="/two-mice">two mice</a>
     </li>      
-      <li>
+      <li class="active">
           <a href="/marketplace">marketplace</a>
       </li>
-      <li>
-          <a href="/ver4">4월</a>
-      </li>
+
     </ul>
   </div>
   </div>  <div class="voice-control">
@@ -219,7 +217,7 @@
   let currentSentenceIndex = 0;
   let twoMiceSentences = [];
 
-  fetch('/api/two-mice.json')
+  fetch('/api/marketplace.json')
       .then(response => response.json())
       .then(data => {
           twoMiceSentences = data;
@@ -231,7 +229,7 @@
       sentenceList.innerHTML = '';
       twoMiceSentences.forEach((sentence, index) => {
           const listItem = document.createElement('li');
-          listItem.innerHTML = `${sentence.en} <span style="font-size: 0.5em; color: #888; cursor: pointer;" onclick="toggleKorean(${index})">보기</span> <span style="font-size: 0.5em; color: #888; cursor: pointer;" onclick="readSentence(${index})">🔊</span> <br> <span id="korean-${index}" style="display: none; color: #007BFF;">${sentence.ko}</span>`;
+          listItem.innerHTML = `${sentence.en} <span style="font-size: 0.5em; color: #888; cursor: pointer;" onclick="toggleKorean(${index})">보기</span> <span style="font-size: 0.5em; color: #888; cursor: pointer;" onclick="toggleExplanation(${index})">설명</span> <span style="font-size: 0.5em; color: #888; cursor: pointer;" onclick="readSentence(${index})">🔊</span> <br> <span id="korean-${index}" style="display: none; color: #007BFF;">${sentence.ko}</span> <span id="explanation-${index}" style="display: none; color: #555;">${sentence.explain || ''}</span>`;
           listItem.style.marginBottom = '1.5em';
           sentenceList.appendChild(listItem);
       });
@@ -256,6 +254,15 @@
         koreanText.style.display = 'inline';
     } else {
         koreanText.style.display = 'none';
+    }
+}
+
+function toggleExplanation(index) {
+    const explanationText = document.getElementById(`explanation-${index}`);
+    if (explanationText.style.display === 'none') {
+        explanationText.style.display = 'inline';
+    } else {
+        explanationText.style.display = 'none';
     }
 }
 

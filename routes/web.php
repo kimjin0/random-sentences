@@ -16,6 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('two-mice');
 });
+Route::get('/marketplace', function () {
+    return view('marketplace');
+});
 Route::get('/ver4', function () {
     return view('ver4');
 });

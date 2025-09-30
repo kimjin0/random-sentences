@@ -1,0 +1,168 @@
+[
+    {
+      "en": "Hi, are you here for the coffee maker I posted online?",
+      "ko": "안녕하세요, 제가 온라인에 올린 커피머신 보러 오셨나요?",
+      "explain": "be동사 의문문 + 목적어절 (I posted online = 관계절). Are you here…? → 너 여기 있니? for the coffee maker → 전치사구. I posted online → coffee maker를 수식하는 관계절."
+    },
+    {
+      "en": "Yes, I saw your listing on the app yesterday.",
+      "ko": "네, 어제 앱에서 올리신 글을 봤어요.",
+      "explain": "과거시제. I saw → see의 과거형. your listing → 명사구. yesterday → 과거 시점 부사."
+    },
+    {
+      "en": "Great. Thanks for coming. Do you want to take a look at it before buying?",
+      "ko": "잘 오셨어요. 와 주셔서 감사합니다. 사시기 전에 한번 보시겠어요?",
+      "explain": "Do you want to + 동사원형 (원하는지 물어볼 때). before buying → 동명사(-ing) 사용, '사기 전에'."
+    },
+    {
+      "en": "Sure. I just want to make sure it works properly.",
+      "ko": "네, 잘 작동하는지만 확인하고 싶어요.",
+      "explain": "want to + 동사원형. make sure (that) → '확인하다'. it works properly → 현재시제 문장."
+    },
+    {
+      "en": "No problem. I plugged it in this morning and it heats up quickly.",
+      "ko": "문제없어요. 오늘 아침에 꽂아봤는데 금방 뜨거워져요.",
+      "explain": "과거 + 현재 시제 혼합. I plugged it in this morning → 과거. it heats up quickly → 현재시제(일반 사실)."
+    },
+    {
+      "en": "Mind if I try it myself? I just want to press the button once.",
+      "ko": "제가 직접 해봐도 괜찮을까요? 버튼만 한번 눌러보고 싶어요.",
+      "explain": "Mind if ~ ? → 정중한 의문문. I try it myself → 현재시제. want to press → want to + 동사원형."
+    },
+    {
+      "en": "Of course, go ahead. It should start making some hot water.",
+      "ko": "물론이죠, 해보세요. 곧 뜨거운 물이 나올 거예요.",
+      "explain": "조동사 should + 동사원형. It should start → '~할 거야'. making hot water → start + 동명사."
+    },
+    {
+      "en": "Nice. It seems to be working fine. How long have you had it?",
+      "ko": "좋네요. 잘 작동하는 것 같아요. 얼마나 가지고 계셨나요?",
+      "explain": "현재완료. It seems to be ~ → '~인 것 같다'. have you had it? → 현재완료, '지금까지 얼마나 가졌니?'."
+    },
+    {
+      "en": "I bought it about a year ago, but I didn't use it very often.",
+      "ko": "1년쯤 전에 샀는데 자주 사용하지는 않았어요.",
+      "explain": "과거시제. bought = buy의 과거형. didn’t use → 과거 부정문."
+    },
+    {
+      "en": "It looks pretty clean. Did you usually keep it in the kitchen?",
+      "ko": "꽤 깨끗해 보이네요. 보통 주방에 두셨나요?",
+      "explain": "현재 vs 과거 의문문. It looks… → 현재시제. Did you keep…? → 과거시제 질문."
+    },
+    {
+      "en": "Yes, I kept it on the counter and cleaned it regularly.",
+      "ko": "네, 조리대 위에 두고 자주 청소했어요.",
+      "explain": "과거시제 나열. kept / cleaned 둘 다 과거."
+    },
+    {
+      "en": "That's good to hear. I like that it doesn't have any scratches.",
+      "ko": "잘 됐네요. 흠집이 없는 게 마음에 들어요.",
+      "explain": "that절 (명사절). That’s good to hear. → to부정사구('듣기 좋은'). I like that it doesn’t have… → that 이하가 목적어절."
+    },
+    {
+      "en": "Right. I tried to take good care of it.",
+      "ko": "맞아요. 제가 잘 관리하려고 했거든요.",
+      "explain": "과거시제 + to부정사. tried to take → '~하려고 노력했다'."
+    },
+    {
+      "en": "Does the price sound okay to you?",
+      "ko": "가격은 괜찮으세요?",
+      "explain": "일반동사 의문문 (Do/Does). Does … sound? → '~처럼 들리니?'."
+    },
+    {
+      "en": "You listed it for $30, right?",
+      "ko": "30달러로 올리셨죠?",
+      "explain": "과거시제 + tag 확인. listed = 올렸다(과거). , right? → 확인 질문."
+    },
+    {
+      "en": "Yes, that's correct. I thought it was a fair price.",
+      "ko": "네, 맞습니다. 적당한 가격이라고 생각했어요.",
+      "explain": "과거시제. I thought it was… → 간접화법 구조."
+    },
+    {
+      "en": "Would you take $25 instead?",
+      "ko": "대신 25달러는 어떠세요?",
+      "explain": "조동사 would. 정중한 제안/협상 표현."
+    },
+    {
+      "en": "I understand, but I already lowered the price once. How about 28?",
+      "ko": "이해합니다만, 이미 한 번 내린 가격이에요. 28달러는 어떠세요?",
+      "explain": "과거분사 (lowered). I already lowered → 과거 완료 행동. How about ~ ? → 제안 표현."
+    },
+    {
+      "en": "28 sounds reasonable. I can pay you in cash now.",
+      "ko": "28달러면 괜찮네요. 지금 현금으로 드릴게요.",
+      "explain": "현재시제 + 조동사 can. sounds reasonable → 형용사 보어. I can pay… → 능력/가능."
+    },
+    {
+      "en": "Perfect. Here's the original box as well. It might come in handy.",
+      "ko": "좋아요. 원래 상자도 있습니다. 유용할 거예요.",
+      "explain": "현재시제 + 조동사 might. Here’s ~ → '여기 있다'. might come in handy → '쓸모 있을지도 모른다'."
+    },
+    {
+      "en": "Oh, thanks. That's helpful. Does it include the user manual, too?",
+      "ko": "오, 감사합니다. 도움이 되네요. 설명서도 들어 있나요?",
+      "explain": "현재시제 + 의문문. Does it include…?"
+    },
+    {
+      "en": "Yes, the manual is inside the box, so you can check it anytime.",
+      "ko": "네, 설명서는 상자 안에 있어서 언제든 확인하실 수 있어요.",
+      "explain": "현재시제 + so 연결. is inside → be동사. so you can check… → 결과절."
+    },
+    {
+      "en": "Great. Do you often sell things on this app?",
+      "ko": "좋네요. 이 앱에서 물건 자주 파세요?",
+      "explain": "빈도부사 (often). Do you sell…? 현재시제 의문문."
+    },
+    {
+      "en": "Sometimes. I like selling items I don't need anymore.",
+      "ko": "가끔이요. 이제 필요 없는 물건을 파는 걸 좋아해요.",
+      "explain": "동명사(ing) 목적어. I like selling… I don’t need anymore → 관계절 같은 구조."
+    },
+    {
+      "en": "That makes sense. It's better than just throwing them away.",
+      "ko": "맞아요. 그냥 버리는 것보다 낫죠.",
+      "explain": "비교급 표현. better than → 비교급 구조."
+    },
+    {
+      "en": "Exactly. And you can save money compared to buying brand new.",
+      "ko": "맞습니다. 새 걸 사는 것보다 돈도 절약할 수 있고요.",
+      "explain": "조동사 can + 비교 구조. compared to ~ → 전치사구, '~와 비교했을 때'."
+    },
+    {
+      "en": "I agree. I've bought several used items and most of them were good.",
+      "ko": "동의해요. 저도 중고 물건을 여러 번 샀는데 대부분 괜찮았어요.",
+      "explain": "현재완료. I’ve bought = have + 과거분사."
+    },
+    {
+      "en": "That's nice. By the way, do you want me to help carry the box to your car?",
+      "ko": "좋네요. 그런데 혹시 박스를 차까지 옮겨드릴까요?",
+      "explain": "want + 목적어 + to부정사. Do you want me to help…? → '내가 도와주길 원해?'."
+    },
+    {
+      "en": "That would be great. Thank you. It's not very heavy, but I appreciate it.",
+      "ko": "그러면 좋겠네요. 감사합니다. 무겁진 않지만 감사해요.",
+      "explain": "가정/정중 표현 would. would be great → '좋을 거예요'."
+    },
+    {
+      "en": "No problem. Let's walk together. It won't take long.",
+      "ko": "문제없어요. 같이 걸어가죠. 오래 안 걸릴 거예요.",
+      "explain": "Let’s (~하자) + 조동사 will not. won’t take long → 오래 안 걸릴 거야."
+    },
+    {
+      "en": "Okay. Thanks again for the deal today.",
+      "ko": "알겠습니다. 오늘 거래 다시 한 번 감사드려요.",
+      "explain": "명사구 (the deal). Thanks for ~ → 전치사구, '~에 대해 고맙다'."
+    },
+    {
+      "en": "You're welcome. I'm glad it went smoothly. Have a good day.",
+      "ko": "천만에요. 순조롭게 진행돼서 기쁩니다. 좋은 하루 되세요.",
+      "explain": "과거 went + 부사 smoothly. I’m glad (that) ~ → 감정 표현."
+    },
+    {
+      "en": "You too. Take care. I'll set it up later today.",
+      "ko": "선생님도요. 조심히 가세요. 오늘 나중에 설치해 볼게요.",
+      "explain": "미래 (will). I'll set it up → will + 동사."
+    }
+  ]
+  
