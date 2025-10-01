@@ -20,15 +20,20 @@
       </li>
     </ul>
   </div>
-  </div>  <div class="voice-control">
+  </div>  <div class="voice-control" style="margin-bottom: 1em;">
     <button id="readAllButton" style="font-size: 0.8em;">전체 문장 듣기</button>
+    <label for="repeatCount">반복 횟수:</label>
+    <select id="repeatCount" style="font-size: 0.8em;">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+    </select>
+</div>
+<div class="control-group">
     <label for="rate">말하기 속도:</label>
     <input type="range" id="rate" min="0.5" max="1.5" step="0.05">
     <span id="rate-value">0.85</span>
-  </div>
-  <div class="control-group">
-    <!-- Removed select box and buttons -->
-  </div>
+</div>
   <div id="card" style="display: none">
     <p class="korean" id="korean-text"></p>
     <button onclick="englishShow()">👉 영어 보기</button>
@@ -260,20 +265,32 @@
 }
 
     document.getElementById('readAllButton').addEventListener('click', function() {
+        const repeatCount = parseInt(document.getElementById('repeatCount').value, 10);
         let index = 0;
         function speakNextSentence() {
             if (index < twoMiceSentences.length) {
                 const sentence = twoMiceSentences[index];
-                const utterance = new SpeechSynthesisUtterance(sentence.en);
-                utterance.lang = 'en-US';
-                utterance.rate = parseFloat(speechRate);
-                const preferredVoice = voices.find(v => v.name.includes('Google UK English Female')) || voices.find(v => v.lang.startsWith('en') && /female|alex/i.test(v.name));
-                utterance.voice = preferredVoice || voices.find(v => v.lang.startsWith('en'));
-                utterance.onend = function() {
-                    index++;
-                    setTimeout(speakNextSentence, 1000); // 1 second delay
-                };
-                speechSynthesis.speak(utterance);
+                let repeat = 0;
+                function repeatSentence() {
+                    if (repeat < repeatCount) {
+                        const utterance = new SpeechSynthesisUtterance(sentence.en);
+                        utterance.lang = 'en-US';
+                        utterance.rate = parseFloat(speechRate);
+                        const preferredVoice = voices.find(v => v.name.includes('Google UK English Female')) || voices.find(v => v.lang.startsWith('en') && /female|alex/i.test(v.name));
+                        utterance.voice = preferredVoice || voices.find(v => v.lang.startsWith('en'));
+                        utterance.onend = function() {
+                            repeat++;
+                            if (repeat < repeatCount) {
+                                setTimeout(repeatSentence, 1000); // 1 second delay between repeats
+                            } else {
+                                index++;
+                                setTimeout(speakNextSentence, 1000); // 1 second delay between sentences
+                            }
+                        };
+                        speechSynthesis.speak(utterance);
+                    }
+                }
+                repeatSentence();
             }
         }
         speakNextSentence();
